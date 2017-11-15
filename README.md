@@ -3,13 +3,13 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat"))
 
 [thegreatpug.com](http://www.thegreatpug.com/ "The Great Pug")
 
-### This Repopository
+### This Repository
 This repository is the public sister repository to the private repository for the Pug. Feel free to use the issues to report bugs or make feature requests relating to The Great Pug.
 
 ### Change Log
 
 #### 11/14/17
-* First attempt at making pickups reset when idle in undesirable locaitons.
+* First attempt at making pickups reset when idle in undesirable locations.
 
 #### 11/09/17
 * Calendar Added
@@ -29,9 +29,9 @@ This repository is the public sister repository to the private repository for th
 * More Face Weighted Normals
 
 #### 11/04/17
-* Small Cieling Vents Added
+* Small Ceiling Vents Added
 * Face Weighted Normals on various objects
-* Facuets in the bathrooms now work
+* Faucets in the bathrooms now work
 * Toilets have been scrubbed
 
 #### 10/30/17
@@ -48,7 +48,7 @@ This repository is the public sister repository to the private repository for th
 * Minor Fixes
 
 #### 09/22/17
-* Lightinging Tweaks
+* Lighting Tweaks
 * Material Updates (Albedo Checks)
 
 #### 09/19/17

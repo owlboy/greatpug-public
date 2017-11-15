@@ -88,3 +88,75 @@ This repository is the public sister repository to the private repository for th
 
 #### 08/30/17
 * Five Six
+
+...
+
+#### 03/09/17
+* Optimized Meshes
+* Added St Patrick's Day table tents
+* Minor Fixes
+
+#### 03/09/17
+* Added lights to the St Patrick's Day posters
+* Updated Materials
+
+#### 03/08/17
+* St Patrick's Day Posters added
+* Bar height adjusted
+* Measuring sticks added
+
+#### 03/07/17
+* Added a Clock
+* Updated those fancy liquid shaders
+* Minor fixes
+
+#### 03/06/17
+* Added fancy liquid shaders
+* Minor fixes
+
+#### 03/03/17
+* Added Your Favorite Beer Neon Sign
+* Updated Materials
+* Added lights above the bar top
+* Minor fixes
+
+#### 02/27/17
+* Implimented Security for the Bar
+* Added Your Favorite Beer
+* Optimized Meshes
+* Optimized Objects
+* Minor Fixes
+
+#### 02/24/17
+* Added the back room and it's keypad
+* Minor fixes
+
+#### 02/23/17
+* Added MckMuze signs
+* Minor fixes
+
+#### 02/21/17
+* Fixed the bar mirror
+* Optimized Gemometry
+* Optimized Materials
+* Optimized Occlusion
+* Minor fixes
+
+#### 02/20/17
+* Smaller Light Maps
+* Lighting Changes
+* Added Gates to the bar
+* Added Staff Only Sign
+* Added more canister lights in the Ceiling
+* Added photo of Q sleeping
+
+#### 02/19/17
+* Fish Bowl Added
+* Light bake fixes
+
+#### 02/17/17
+* Posted my Liquor License
+* Mesh optimizations
+
+#### 02/01/17
+* Initial Release

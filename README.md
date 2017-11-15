@@ -121,7 +121,7 @@ This repository is the public sister repository to the private repository for th
 * Minor fixes
 
 #### 02/27/17
-* Implimented Security for the Bar
+* Implemented Security for the Bar
 * Added Your Favorite Beer
 * Optimized Meshes
 * Optimized Objects
@@ -137,7 +137,7 @@ This repository is the public sister repository to the private repository for th
 
 #### 02/21/17
 * Fixed the bar mirror
-* Optimized Gemometry
+* Optimized Geometry
 * Optimized Materials
 * Optimized Occlusion
 * Minor fixes

@@ -17,22 +17,26 @@ This repository is the public sister repository to the private repository for th
 * Various Materials Improved
 * Lighting Tweaks
 * Lightmap Resolution Changes
+* Minor Fixes
 * VRCSDK Updated to 2017.10.26.17.36
 
 #### 11/07/17
 * Material Updates
 * Material Fixes
+* Minor Fixes
 
 #### 11/06/17
 * Material Updates
 * Bar Mesh Updates
 * More Face Weighted Normals
+* Minor Fixes
 
 #### 11/04/17
 * Small Ceiling Vents Added
 * Face Weighted Normals on various objects
 * Faucets in the bathrooms now work
 * Toilets have been scrubbed
+* Minor Fixes
 
 #### 10/30/17
 * Post Halloween Party restore
@@ -50,18 +54,22 @@ This repository is the public sister repository to the private repository for th
 #### 09/22/17
 * Lighting Tweaks
 * Material Updates (Albedo Checks)
+* Minor Fixes
 
 #### 09/19/17
 * Lighting Updates
+* Minor Fixes
 
 #### 09/12/17
 * Lighting Updates
 * Birthday Cake Optimizations
+* Minor Fixes
 
 #### 09/11/17
 * Bathroom Collider Fixes
 * Martial Swaps
 * Major Light Probe Overhaul
+* Minor Fixes
 
 #### 09/09/17
 * Bathroom ceiling now reflects in the bathroom mirrors
@@ -76,6 +84,7 @@ This repository is the public sister repository to the private repository for th
 #### 08/31/17
 * Updated Materials
 * Optimization for Bathroom Mirrors
+* Minor Fixes
 
 #### 08/30/17
 * Five Six

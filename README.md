@@ -160,3 +160,4 @@ This repository is the public sister repository to the private repository for th
 
 #### 02/01/17
 * Initial Release
+* VRCSDK version 2016.12.01.18.02

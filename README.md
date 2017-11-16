@@ -8,6 +8,11 @@ This repository is the public sister repository to the private repository for th
 
 ### Change Log
 
+### 11/15/17
+* Adjustments to the way pickups reset, hopefully fixing them
+* Patched over Z-Fighting at the top of the stairs
+* "Un-Fixed" the Devil Bucket
+
 #### 11/14/17
 * First attempt at making pickups reset when idle in undesirable locations.
 

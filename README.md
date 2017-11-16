@@ -12,6 +12,8 @@ This repository is the public sister repository to the private repository for th
 * Adjustments to the way pickups reset, hopefully fixing them
 * Patched over Z-Fighting at the top of the stairs
 * "Un-Fixed" the Devil Bucket
+* The Red Phone should now randomly ring
+* Audio played from the phones should be easier to hear now
 
 #### 11/14/17
 * First attempt at making pickups reset when idle in undesirable locations.

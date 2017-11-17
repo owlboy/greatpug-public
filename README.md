@@ -8,6 +8,13 @@ This repository is the public sister repository to the private repository for th
 
 ### Change Log
 
+#### 11/16/17
+* Lighting Tweaks
+* UV Fixes on 2nd Floor floor
+* Mesh Updates on Booth backs
+* UV Fixes on Booth bases
+* Increased Red Phone ring frequency
+
 #### 11/15/17
 * Adjustments to the way pickups reset, hopefully fixing them
 * Patched over Z-Fighting at the top of the stairs

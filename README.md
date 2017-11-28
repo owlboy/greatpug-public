@@ -8,6 +8,18 @@ This repository is the public sister repository to the private repository for th
 
 ### Change Log
 
+#### 11/22/17
+* The Roost is Open
+* Added Thanksgiving Food
+* Improved Night View Hall sign (Thanks Poplopo)
+* Adjusted audio volume falloff on sink taps
+* Updated Meshes in The Roost
+* Added fireplace in The Roost
+* Added seating area in front of the fireplace in The Roost
+* Added table and chairs in The Roost
+* Fixed Grain Direction on various objects
+* Updated Proximity Dance Club Portal
+
 #### 11/16/17 (200)
 * Lighting Tweaks
 * UV Fixes on 2nd Floor floor

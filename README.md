@@ -8,6 +8,23 @@ This repository is the public sister repository to the private repository for th
 
 ### Change Log
 
+#### 12/12/17
+* Downstairs beer taps should work correctly now
+* Christmas Decoration Updates
+* Draw Call Optimizations
+* Light Probe Improvements
+* Mesh Updates on the Night View bar
+* Material Tweaks
+* Toilet seat fixes
+* Dining chairs should be easier for desktop users to use
+* Occlusion changes
+
+#### 12/01/17
+* Calendar Updated
+* Lightmap Tweaks
+* Christmas Decorations
+* Material Optimizations
+
 #### 11/22/17
 * The Roost is Open
 * Added Thanksgiving Food

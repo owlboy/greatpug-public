@@ -4,7 +4,10 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat"))
 [thegreatpug.com](http://www.thegreatpug.com/ "The Great Pug")
 
 ### This Repository
-This repository is the public sister repository to the private repository for the Pug. Feel free to use the issues to report bugs or make feature requests relating to The Great Pug.
+This repository is the public sister repository to the private repository for the Pug.
+
+#### Bug Reports and Feature Requests
+Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 ### Change Log
 

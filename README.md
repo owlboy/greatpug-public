@@ -8,6 +8,14 @@ This repository is the public sister repository to the private repository for th
 
 ### Change Log
 
+#### 12/14/17
+* SDK Bump - _VRCSDK-2017.12.12.13.36_Public_
+* Martini added ([941101501153505281](https://twitter.com/Pigeonbrigade/status/941101501153505281 "The Pug belongs to OwlBoy"))
+* Occlusion Settings Reverted
+* Lightmap tweaks
+* Material fixes
+
+
 #### 12/12/17
 * Downstairs beer taps should work correctly now
 * Christmas Decoration Updates
@@ -24,6 +32,7 @@ This repository is the public sister repository to the private repository for th
 * Lightmap Tweaks
 * Christmas Decorations
 * Material Optimizations
+* Thanksgiving meal put in storage
 
 #### 11/22/17
 * The Roost is Open

@@ -11,6 +11,8 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 
 ### Change Log
 
+#### 12/22/17
+* Seat Fixes
 #### 12/14/17
 * SDK Bump - _VRCSDK-2017.12.12.13.36_Public_
 * Martini added ([941101501153505281](https://twitter.com/Pigeonbrigade/status/941101501153505281 "The Pug belongs to OwlBoy"))

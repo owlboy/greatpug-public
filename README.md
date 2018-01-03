@@ -10,16 +10,38 @@ This repository is the public sister repository to the private repository for th
 Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 ### Change Log
+#### 01/02/18
+* New Years Decorations Removed
+* Moon and city lights restored
+
+#### 12/31/17
+* Far Back Staircase/Fire Escape
+* Most objects should Respawn when left lying on the floor, in weird places or outside of the map.
+* Exterior Meshes
+* Wood grain direction fixes
+* Mesh improvements on the bar
+* Ambient Lighting Tweaks
+* Bathroom Stalls now have handles and latches
+* Skybox uses fewer draw calls
+* Hole in Phone base fixed
+* Material(s) consolidated on phone base
+* General drawcall optimizations
+* Lighting tweaks
+* Christmas Decor Removed
+* Calendar Updated
+* Disc for 2018 added
+* Champagne for New Years
+* Decorations for New Years
 
 #### 12/22/17
 * Seat Fixes
+
 #### 12/14/17
 * SDK Bump - _VRCSDK-2017.12.12.13.36_Public_
 * Martini added ([941101501153505281](https://twitter.com/Pigeonbrigade/status/941101501153505281 "The Pug belongs to OwlBoy"))
 * Occlusion Settings Reverted
 * Lightmap tweaks
 * Material fixes
-
 
 #### 12/12/17
 * Downstairs beer taps should work correctly now

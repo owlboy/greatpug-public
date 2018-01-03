@@ -13,6 +13,7 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 #### 01/02/18
 * New Years Decorations Removed
 * Moon and city lights restored
+* Phone Ring distance adjusted - hopefully the beds are usable now
 
 #### 12/31/17
 * Far Back Staircase/Fire Escape

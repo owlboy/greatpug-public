@@ -11,7 +11,7 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 
 ### Change Log
 #### 02/01/18
-* Added a delightful paining above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks Dicidius!
+* Added a delightful painting above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks Dicidius!
 * A matching sword is on display
 * New shelf along back wall in The Roost
 * Telephone ring volume lowered a bit

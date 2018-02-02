@@ -16,6 +16,7 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 * New shelf along back wall in The Roost
 * Telephone ring volume lowered a bit
 * Calendar Updated
+* Moon and city lights properly restored for real this time
 
 #### 01/05/18 (268)
 * Added security coliders to prevent trolling from outside the map.

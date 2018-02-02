@@ -15,8 +15,9 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 * A matching sword is on display
 * New shelf along back wall in The Roost
 * Telephone ring volume lowered a bit
-* Calendar Updated
+* Calendar updated
 * Moon and city lights properly restored for real this time
+* Bulletin board updated
 
 #### 01/05/18 (268)
 * Added security coliders to prevent trolling from outside the map.

@@ -10,6 +10,13 @@ This repository is the public sister repository to the private repository for th
 Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 ### Change Log
+#### 02/01/18
+* Added a delightful paining above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks Dicidius!
+* A matching sword is on display
+* New shelf along back wall in The Roost
+* Telephone ring volume lowered a bit
+* Calendar Updated
+
 #### 01/05/18 (268)
 * Added security coliders to prevent trolling from outside the map.
 * SDK Bump

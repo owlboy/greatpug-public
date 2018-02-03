@@ -10,6 +10,11 @@ This repository is the public sister repository to the private repository for th
 Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 ### Change Log
+
+#### 02/02/18
+* Birthday decorations
+* Temporary portal to the prototype
+
 #### 02/01/18
 * Added a delightful painting above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks Dicidius!
 * A matching sword is on display

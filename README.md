@@ -11,6 +11,10 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 
 ### Change Log
 
+#### 02/06/18
+* Removed birthday decorations
+* Removed portal to the prototype
+
 #### 02/02/18
 * Birthday decorations
 * Temporary portal to the prototype

@@ -9,7 +9,26 @@ This repository is the public sister repository to the private repository for th
 #### Bug Reports and Feature Requests
 Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
+#### Support On-going Development
+You can support on-going maininance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
+
 ### Change Log
+
+#### 02/24/18
+* St. Patrick’s Day 2018 - Promotional Table Tents
+* Enhanced appearance of Night View stage spotlights and floor lights
+* Multiple spawns
+* Minor draw call optimizations
+* Lightmap fixes
+* Rose added in The Roost - Thanks Poplopo!
+* New shelves in Night View Near the Bar
+* Improved the readability of the bulletin board flyers.
+* Fixed typo on bulletin board
+* Security Improvements
+* Humoungously improved the wall near the back storage room
+
+Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
+
 
 #### 02/06/18
 * Removed birthday decorations

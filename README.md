@@ -21,8 +21,8 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 * Minor draw call optimizations
 * Lightmap fixes
 * Rose added in The Roost - Thanks Poplopo!
-* New shelves in Night View Near the Bar
-* Improved the readability of the bulletin board flyers.
+* New shelves in Night View
+* Improved the readability of the bulletin board flyers
 * Fixed typo on bulletin board
 * Security Improvements
 * Humoungously improved the wall near the back storage room

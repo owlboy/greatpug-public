@@ -14,6 +14,9 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
+#### 03/13/18
+* Calendar Update
+* Moon Fix
 #### 02/24/18
 * St. Patrick’s Day 2018 - Promotional Table Tents
 * Enhanced appearance of Night View stage spotlights and floor lights

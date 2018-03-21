@@ -14,9 +14,21 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
+#### 03/19/18
+* Sain't Patrick's Day decorations taken down
+
+#### 03/17/18
+* Saint Patrick's at The Pug - 2018
+* UV fixes for the shelves in the wall behind the main bar
+* New wall art
+* Fixes to the glass roof in The Roost
+* Duplicated mesh fixes
+* Security Improvements
+
 #### 03/13/18
 * Calendar Update
 * Moon Fix
+
 #### 02/24/18
 * St. Patrick’s Day 2018 - Promotional Table Tents
 * Enhanced appearance of Night View stage spotlights and floor lights

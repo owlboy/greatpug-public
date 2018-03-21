@@ -15,7 +15,7 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 ### Change Log
 
 #### 03/19/18
-* Sain't Patrick's Day decorations taken down
+* Removed Saint Patrick's Day decorations
 
 #### 03/17/18
 * Saint Patrick's at The Pug - 2018

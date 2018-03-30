@@ -14,6 +14,12 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
+### 03/30/18
+* Cleaned up straggling Saint Patrick's Day decorations
+* Improved Resolution on wireframe posters
+* Possible fix for the flickering hub portal
+* Eggs.
+
 #### 03/19/18
 * Removed Saint Patrick's Day decorations
 

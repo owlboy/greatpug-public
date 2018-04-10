@@ -14,11 +14,11 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
-### 04/08/18
+#### 04/08/18
 * Coasters added around The Pug to keep the finish on the wood nice
 * Eggs removed
 
-### 03/30/18
+#### 03/30/18
 * Cleaned up straggling Saint Patrick's Day decorations
 * Improved Resolution on wireframe posters
 * Possible fix for the flickering hub portal

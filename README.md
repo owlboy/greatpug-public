@@ -14,6 +14,9 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
+#### 04/11/18
+* Weird, the basment door kept being opened. - Fixed.
+
 #### 04/08/18
 * Coasters added around The Pug to keep the finish on the wood nice
 * Eggs removed

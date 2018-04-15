@@ -14,7 +14,7 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
-#### 04/11/18
+#### 04/14/18
 * You should no-longer stick to the walls when using the main stairway or the stairs in The Roost
 * Mckmuze setlist lighting has been fixed
 * Missing lightmap on painting has been found and reapplied

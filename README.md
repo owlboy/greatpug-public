@@ -15,7 +15,15 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 ### Change Log
 
 #### 04/11/18
-* Weird, the basment door kept staying opened. - Fixed.
+* You should no-longer stick to the walls when using the main stairway or the stairs in The Roost
+* Mckmuze setlist lighting has been fixed
+* Missing lightmap on painting has been found and reapplied
+* New decorations in Night View and The Roost
+* New furniture in The Roost
+* Hopefully fixed some lag issues related to triggers
+
+#### 04/11/18
+* Weird, the basment door kept staying opened. - Fixed
 
 #### 04/08/18
 * Coasters added around The Pug to keep the finish on the wood nice

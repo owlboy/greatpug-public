@@ -14,6 +14,9 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 
 ### Change Log
 
+#### 04/19/18
+* Bathrooms should be back to normal
+
 #### 04/14/18
 * You should no-longer stick to the walls when using the main stairway or the stairs in The Roost
 * Mckmuze setlist lighting has been fixed

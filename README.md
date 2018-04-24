@@ -250,9 +250,204 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 #### 08/30/17
 * Five Six
 
-...
+#### 08/17/17
+* Karaoke added for Karaoke night
 
-#### 03/09/17
+#### 08/10/17
+* Karaoke functionality testing
+
+#### 07/12/17
+* SnailLock testing
+
+#### 06/30/17
+* Fireworks added
+* Minor fixes
+
+#### 06/22/17
+* Lighting updates
+* Trigger updates
+
+#### 06/21/17
+* Minor changes
+
+#### 06/20/17
+* Dance lights / floor lights added to Night View
+* Stage lights updates
+* Overall nightview light added
+
+#### 06/19/17
+* Sleeping roost updates
+* Minor fixes
+
+#### 06/14/17
+* Rounded edges on lower bar
+* Added door latches
+
+#### 06/13/17
+* Refinements to the stairs
+* Fixes to the Night View floor
+
+#### 06/10/17
+* Basement optimizations
+* Sleeping Roost started
+
+#### 06/01/17
+* Additions for Contact
+* 56 - Stage Lights
+* Reload button added for the YouTube panel
+
+#### 05/23/17
+* Texture size optimizations
+* Floor UV fixes
+* Adjusted seats for desktop users
+* Light probes reduced in overall count
+
+#### 05/19/17
+* Event board typo fixed
+
+#### 05/18/17
+* Collider fixes
+* Combined various meshes
+
+#### 05/17/17
+* Optimized Smörgåstårta
+* Added Smörgåstårta under glass to the back room
+* Texture fixes
+* Mesh fixes
+
+#### 05/16/17
+* Occlusion fixes
+* Base boards added in various places
+* Coffee added
+* A large number of mesh colliders have been replaced with box colliders
+
+#### 05/15/17
+* Door bell updates
+* Occlusion changes
+* Back room additions
+* Security camera added and removed
+
+#### 05/12/17
+* Door bell added
+* Cans of fish added
+* Lighting updates
+
+#### 04/21/17
+* White Russians
+* Light probe fixes
+* Booth fixes
+* Lighting changes
+* Tapster locks added
+* Switched to using Euan's video player
+
+#### 04/19/17
+* Eggs removed
+* Sink handles added
+* Event board updates
+
+#### 04/15/17
+* Minor fixes
+
+#### 04/14/17
+* Event board added
+* Easter eggs added for easter
+* Lighting changes
+* Wine bottles added
+* Wine glasses added
+
+#### 04/13/17
+* YouTube panels trigger fix
+* Stage Prop updates
+* Trigger updates
+* MckMuze set list added
+* Stage updates
+* Occlusion fixes in the basement
+
+#### 04/12/17
+* Lightmap resolution adjustments
+
+#### 04/10/17
+* Corner booth fixes
+* Booth seat fixes
+* Upstairs gate fixes
+* Lighting fixes
+* Basement Door added
+* Basement wall issues fixed
+* Texture storage size optimizations
+
+#### 04/07/17
+* Basement
+* New chairs
+* YouTube panel fixes
+* Minor fixes
+
+#### 04/06/17
+* Mckmuze decor updates
+* Bar Two - Tigger and button fixes
+
+#### 04/05/17
+* Bar Two - Improvements
+* Trigger updates (groan)
+* Podium added to Night View
+
+#### 04/04/17
+* Mirror fixes
+* Metal material updates
+* Bar top fixes
+
+#### 04/03/17
+* Bar Two - shelves added
+* Lighting and light probe changes
+* Upstairs security changes
+
+#### 04/02/17
+* Video screen fixes
+* Brighter lighting
+
+#### 03/31/17
+* Second bar added in Night View
+* Stage lights added
+* New back panel controls
+
+#### 03/30/17
+* Foot pedals and amp added to the stage
+
+#### 03/29/17
+* YouTube panels added to the stage
+* Minor fixes
+
+#### 03/24/17
+* Corner booth implimented (it's too small!)
+* PhysSound added
+* Music fixed
+
+#### 03/23/17
+* Materials updated
+* LOD enabled on booth backs
+
+#### 03/22/17
+* Minor fixes
+
+#### 03/21/17
+* Decorations taken down
+* Minor mesh updates
+* Taps now dispense normal beer
+
+#### 03/17/17
+* St Patrick's Day Decorations
+* Taps are now interactable
+* Speakers
+* Party Music Player - Thank's Cubedparadox for the youtube playlist sync!
+
+#### 03/13/17
+* Trigger fixes (grumble)
+
+#### 03/12/17
+* bathroom Updates
+* Material atlasing
+* Security updates
+
+#### 03/10/17
 * Optimized Meshes
 * Added St Patrick's Day table tents
 * Minor Fixes

@@ -202,7 +202,9 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 #### 10/30/17
 * Post Halloween Party restore
 
-...
+#### 10/24/17
+* Reflectiopn probe fixes
+* Halloween prep
 
 #### 10/13/17
 * VRCSDK Update to 2017.10.04.13.58

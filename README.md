@@ -333,6 +333,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * Door bell added
 * Cans of fish added
 * Lighting updates
+* Smörgåstårta.
 
 #### 04/21/17
 * White Russians

@@ -15,7 +15,7 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 ### Change Log
 #### 05/07/18
 * Reflection Probe Updates
-* SDK Bumps
+* SDK Bump - 2018.05.01.20.38
 * Flyers Added
 
 #### 04/24/18

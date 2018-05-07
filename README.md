@@ -13,6 +13,13 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maininance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 05/07/18
+* Reflection Probe Updates
+* SDK Bumps
+* Flyers Added
+
+#### 04/24/18
+* New Bulletin boards
 
 #### 04/19/18
 * Bathrooms should be back to normal

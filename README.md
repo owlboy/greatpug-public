@@ -16,6 +16,8 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 #### 05/10/18
 * Administration controls added to lock and unlock the stage in a basic manner. ([Issue #2 - MckMuze](https://github.com/owlboy/greatpug-public/issues/2))
   * More work still needs to be done to fully satisfy the bounty to my satisfaction.
+* Stage lighting has been improved
+* Dynamic lights in Night View have been improved
 * Mesh updates for the stage - Rounder!
 * Material updates to the sage, Night View Floor, and Bars
 * This change log had dome embarrassing typoss

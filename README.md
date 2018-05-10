@@ -10,9 +10,16 @@ This repository is the public sister repository to the private repository for th
 Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 #### Support On-going Development
-You can support on-going maininance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
+You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 05/10/18
+* Administration controls added to lock and unlock the stage in a basic manner. ([Issue #2 - MckMuze](https://github.com/owlboy/greatpug-public/issues/2))
+  * More work still needs to be done to fully satisfy the bounty to my satisfaction.
+* Mesh updates for the stage - Rounder!
+* Material updates to the sage, Night View Floor, and Bars
+* This change log had dome embarrassing typoss
+
 #### 05/07/18
 * Reflection Probe Updates
 * SDK Bump - 2018.05.01.20.38
@@ -33,7 +40,7 @@ You can support on-going maininance, events, and expansion to The Great Pug by j
 * Hopefully fixed some lag issues related to triggers
 
 #### 04/11/18
-* Weird, the basment door kept staying opened. - Fixed
+* Weird, the basement door kept staying opened. - Fixed
 
 #### 04/08/18
 * Coasters added around The Pug to keep the finish on the wood nice
@@ -88,33 +95,33 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 #### 02/01/18
 * Added a delightful painting above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks Dicidius!
 * A matching sword is on display
-* New shelf along back wall in The Roost
+* New shelf along the back wall in The Roost
 * Telephone ring volume lowered a bit
 * Calendar updated
 * Moon and city lights properly restored for real this time
 * Bulletin board updated
 
 #### 01/05/18 (268)
-* Added security coliders to prevent trolling from outside the map.
+* Added security colliders to prevent trolling from outside the map.
 * SDK Bump
 
 #### 01/02/18
 * New Years Decorations Removed
 * Moon and city lights restored
-* Phone Ring distance adjusted - hopefully the beds are usable now
+* Phone Ring distance adjusted - hopefully, the beds are usable now
 
 #### 12/31/17
 * Far Back Staircase/Fire Escape
 * Most objects should Respawn when left lying on the floor, in weird places or outside of the map.
 * Exterior Meshes
-* Wood grain direction fixes
+* Woodgrain direction fixes
 * Mesh improvements on the bar
 * Ambient Lighting Tweaks
 * Bathroom Stalls now have handles and latches
 * Skybox uses fewer draw calls
 * Hole in Phone base fixed
-* Material(s) consolidated on phone base
-* General drawcall optimizations
+* Material(s) consolidated on the phone base
+* General draw call optimizations
 * Lighting tweaks
 * Christmas Decor Removed
 * Calendar Updated
@@ -164,8 +171,8 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 
 #### 11/16/17 (200)
 * Lighting Tweaks
-* UV Fixes on 2nd Floor floor
-* Mesh Updates on Booth backs
+* UV Fixes on the 2nd Floor floor
+* Mesh Updates on Booth's backs
 * UV Fixes on Booth bases
 * Increased Red Phone ring frequency
 
@@ -326,18 +333,18 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 
 #### 05/16/17
 * Occlusion fixes
-* Base boards added in various places
+* Baseboards added in various places
 * Coffee added
 * A large number of mesh colliders have been replaced with box colliders
 
 #### 05/15/17
-* Door bell updates
+* Doorbell updates
 * Occlusion changes
-* Back room additions
+* Backroom additions
 * Security camera added and removed
 
 #### 05/12/17
-* Door bell added
+* Doorbell added
 * Cans of fish added
 * Lighting updates
 * Smörgåstårta.
@@ -369,7 +376,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * YouTube panels trigger fix
 * Stage Prop updates
 * Trigger updates
-* MckMuze set list added
+* MckMuze setlist added
 * Stage updates
 * Occlusion fixes in the basement
 
@@ -427,7 +434,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * Minor fixes
 
 #### 03/24/17
-* Corner booth implimented (it's too small!)
+* Corner booth implemented (it's too small!)
 * PhysSound added
 * Music fixed
 

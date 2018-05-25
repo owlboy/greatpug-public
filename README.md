@@ -13,6 +13,14 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 05/24/18
+* House Music placement/falloff changes
+* Stage Lighting Updates
+* New Stage Lighting Control Board
+* Addition of Dynamic Event Posters for Spork of Love
+* Minor Updates to the Event Posters for MckMuze
+* Bulletin Board Updates
+
 #### 05/10/18
 * Administration controls added to lock and unlock the stage in a basic manner. ([Issue #2 - MckMuze](https://github.com/owlboy/greatpug-public/issues/2))
   * More work still needs to be done to fully satisfy the bounty to my satisfaction.

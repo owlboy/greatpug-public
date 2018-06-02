@@ -13,6 +13,17 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 06/01/18
+* Made some drawcall optimizations!
+* Made changes to the Object Respawing behavior to attempt to address lag when a new user joins the world.
+* Mixed Lights now are forced off when you are not in view of them. This is being done as a precaution because Occlusion Culling may not have been doing the job in all cases.
+* Rebuilt the shelves under the bar
+* Updated the Calendar 
+* Tweaked the lighting
+* Fixed a gap in the ceiling in The Roost
+* Tweaks to various trigger broadcast types
+* Made some chair upgrades
+
 #### 05/24/18
 * House Music placement/falloff changes
 * Stage Lighting Updates

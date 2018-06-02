@@ -20,6 +20,7 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 * Rebuilt the shelves under the bar
 * Updated the Calendar 
 * Tweaked the lighting
+* Changed the material on the dynamic towel
 * Fixed a gap in the ceiling in The Roost
 * Tweaks to various trigger broadcast types
 * Made some chair upgrades

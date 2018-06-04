@@ -13,6 +13,15 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 06/03/18
+* Made a few drawcall optimizations
+* Changed the near clipping plane distance on the refrence camera
+* Rebaked occlusion
+* Updated the meshes for the sink, Roost shelves, stair railings, booth base/backing, and other minor meshes
+* Made minor Trigger broadcast type adjustments
+* Re-painted the wall near the door
+* Added a new Patron flyer
+
 #### 06/01/18
 * Made some drawcall optimizations!
 * Made changes to the Object Respawing behavior to attempt to address lag when a new user joins the world.

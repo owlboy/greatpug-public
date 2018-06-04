@@ -13,7 +13,7 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
-#### 06/03/18
+#### 06/03/18 (300)
 * Made a few drawcall optimizations
 * Changed the near clipping plane distance on the refrence camera
 * Rebaked occlusion
@@ -22,10 +22,10 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 * Re-painted the wall near the door
 * Added a new Patron flyer
 
-<strong>Quick Fix</strong>
+<strong>Quick Fix (301)</strong> 
 * Fixed some mis-aligned colliders that were out of place.
 
-#### 06/01/18
+#### 06/01/18 (298)
 * Made some drawcall optimizations!
 * Made changes to the Object Respawing behavior to attempt to address lag when a new user joins the world.
 * Mixed Lights now are forced off when you are not in view of them. This is being done as a precaution because Occlusion Culling may not have been doing the job in all cases.

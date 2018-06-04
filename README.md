@@ -22,6 +22,9 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 * Re-painted the wall near the door
 * Added a new Patron flyer
 
+<strong>Quick Fix</strong>
+* Fixed some mis-aligned colliders that were out of place.
+
 #### 06/01/18
 * Made some drawcall optimizations!
 * Made changes to the Object Respawing behavior to attempt to address lag when a new user joins the world.

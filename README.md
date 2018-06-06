@@ -27,7 +27,7 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 * Rebaked occlusion
 * Updated the meshes for the sink, Roost shelves, stair railings, booth base/backing, and other minor meshes
 * Made minor Trigger broadcast type adjustments
-* Re-painted the wall near the door
+* Re-painted the wall near the main bar
 * Added a new Patron flyer
 
 <strong>Quick Fix (301)</strong> 

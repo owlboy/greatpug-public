@@ -13,6 +13,10 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 06/04/18 (303)
+* Made some minor drawcall optimizations
+* Updated some meshes to have better geometry and normals
+
 #### 06/04/18 (302)
 * Made some minor drawcall optimizations
 * Fixed a missing collider near the bar mirror

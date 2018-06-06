@@ -23,7 +23,7 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 
 #### 06/03/18 (300)
 * Made a few drawcall optimizations
-* Changed the near clipping plane distance on the refrence camera
+* Changed the near clipping plane distance on the refrence camera (far clip was not changed)
 * Rebaked occlusion
 * Updated the meshes for the sink, Roost shelves, stair railings, booth base/backing, and other minor meshes
 * Made minor Trigger broadcast type adjustments

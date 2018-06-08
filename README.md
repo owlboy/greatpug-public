@@ -14,6 +14,11 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 
 ### Change Log
 #### 06/05/18 (303)
+* Updated the appearence of the lampshades
+* Made some minor drawcall optimizations
+* Modified lightmap settings
+
+#### 06/05/18 (303)
 * Made some minor drawcall optimizations
 * Updated some meshes to have better geometry and normals
 

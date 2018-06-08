@@ -13,7 +13,7 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
-#### 06/05/18 (303)
+#### 06/05/18 (305)
 * Updated the appearence of the lampshades
 * Made some minor drawcall optimizations
 * Modified lightmap settings

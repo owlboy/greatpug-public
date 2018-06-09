@@ -13,7 +13,14 @@ Feel free to use the issues feature of this repository to report bugs or make fe
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
-#### 06/05/18 (305)
+#### 06/08/18 (306)
+* Made drawcall optimizations
+* Added missing baseboards in Night View
+* Reflection Probe Adjustments
+* Stools have shadows again!
+* Boxes under the Night View bar are now walkthrough (thanks Meme Man)
+
+#### 06/07/18 (305)
 * Updated the appearence of the lampshades
 * Made some minor drawcall optimizations
 * Modified lightmap settings

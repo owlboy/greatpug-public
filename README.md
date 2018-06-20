@@ -7,7 +7,7 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat"))
 This repository is the public sister repository to the private repository for the Pug.
 
 #### Bug Reports and Feature Requests
-Feel free to use the issues feature of this repository to report bugs or make feature requests relating to The Great Pug.
+Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 #### Support On-going Development
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 

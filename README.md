@@ -13,6 +13,16 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 06/28/18 (308)
+* Implimented additional minor drawcall optimizations
+* Updated the wine bottle labels
+* Reflection probe resolution changes to reduce download size
+
+#### 06/22/18 (307) (122mb)
+* Texture resolution increases
+* Texture compresion changes
+* Reduced overall download size by 6mb
+
 #### 06/08/18 (306)
 * Made drawcall optimizations
 * Added missing baseboards in Night View

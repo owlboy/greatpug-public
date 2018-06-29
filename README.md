@@ -1,4 +1,4 @@
-# The Great Pug
+# The Great Pug 
 A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat"))
 
 [thegreatpug.com](http://www.thegreatpug.com/ "The Great Pug")

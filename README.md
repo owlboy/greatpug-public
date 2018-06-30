@@ -13,6 +13,13 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 06/29/18 (310) (110mb)
+* Implimented minor drawcall optimizations
+* Updated lightmaps on back hallway, no more light leaks near the exit sign
+* Greatly reduced lightmap artifacts on main stairs leading to Night View
+* Overall lightmap filesize dropped
+
+
 #### 06/28/18 (308) (116mb)
 * Implimented additional minor drawcall optimizations
 * Updated the wine bottle labels

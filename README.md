@@ -13,6 +13,18 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 06/29/18 (311)
+* Bell should be fixed
+* Lightmap fixes
+* Gap below short wall at the top of the roost stairs fixed
+* New Brushed Metal material
+* Minor optimizations
+* LOD setup on many items, we will see how that goes.
+* Collision changes
+* Reflection probe adjustments
+
+
+
 #### 06/29/18 (310) (110mb)
 * Implimented minor drawcall optimizations
 * Updated lightmaps on back hallway, no more light leaks near the exit sign

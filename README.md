@@ -13,6 +13,14 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 07/03/18 (314)
+* LOD Tweaks
+* Reflection Probe fixes
+* Metalic tables fixed
+
+#### 07/02/18 (312)
+* Collider blocking stairs fixed
+
 #### 06/29/18 (311)
 * Bell should be fixed
 * Lightmap fixes

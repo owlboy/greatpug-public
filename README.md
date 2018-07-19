@@ -13,6 +13,11 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
 ### Change Log
+#### 07/19/18
+* SDK Bump - 2018.06.21.13.02
+* Experimental Live Audio support
+* Minor LOD Tweaks
+
 #### 07/03/18 (314)
 * LOD Tweaks
 * Reflection Probe fixes

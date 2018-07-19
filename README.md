@@ -15,8 +15,8 @@ You can support on-going maintenance, events, and expansion to The Great Pug by 
 ### Change Log
 #### 07/19/18
 * SDK Bump - 2018.06.21.13.02
-* Experimental Live Audio support
-* Minor LOD Tweaks
+* Added experimental live audio support
+* Made some Minor LOD tweaks
 
 #### 07/03/18 (314)
 * LOD Tweaks

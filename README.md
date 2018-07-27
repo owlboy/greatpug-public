@@ -1,7 +1,11 @@
+![The Great Pug - Main bar area](http://thegreatpug.com/img/pug_bar.jpg)
+
 # The Great Pug 
 A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat"))
 
 [thegreatpug.com](http://www.thegreatpug.com/ "The Great Pug")
+
+ 
 
 ### This Repository
 This repository is the public sister repository to the private repository for the Pug.
@@ -11,6 +15,8 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 
 #### Support On-going Development
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
+
+[![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
 #### 07/19/18

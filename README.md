@@ -550,7 +550,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * St Patrick's Day Decorations
 * Taps are now interactable
 * Speakers
-* Party Music Player - Thank's Cubedparadox for the youtube playlist sync!
+* Party Music Player - Thanks Cubedparadox for the youtube playlist sync!
 
 #### 03/13/17
 * Trigger fixes (grumble)

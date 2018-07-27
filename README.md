@@ -16,6 +16,11 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 #### Support On-going Development
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
+You can also donate crypto currency at the following addresses:
+* **Etherium:** `0xa2e7aBB300728afc7564874B12975D2f311687a6`
+* **Bitcoin:** `16tWrVpZWJcw64aE5su8bRQJgyAVhBeNZQ`
+* **Litecoin:** `MCjYc1wm2r1f8uM5FPTyqZbKxnxwvNf7UQ`
+
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log

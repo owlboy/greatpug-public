@@ -24,9 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 07/27/18
+* Additions to the live streaming audio support
+* Minor fixes
+
 #### 07/19/18
 * SDK Bump - 2018.06.21.13.02
-* Added experimental live audio support
+* Added experimental live streaming audio support
 * Made some Minor LOD tweaks
 
 #### 07/03/18 (314)

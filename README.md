@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/07/18
+* Calendar Update (7 days late)
+* Many shaders changed to a beta version of a Dithering Shader by Xiexe. (Thanks Xiexe!)
+* Shaved 1-2 drawcalls off stage props
+
 #### 07/27/18
 * Additions to the live streaming audio support
 * Minor fixes

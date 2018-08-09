@@ -32,7 +32,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed light baking issues in a few places
 * Fixed the ghost chairs by the Corner Booth on the first floor
 * Fixed the floor material in the bathrooms
-* Removed broken chair placement scripts by CubedParadox (Thanks Cubed!)
+• Removed references to non-exsistant chair placement scripts by CubedParadox (Thanks Cubed!)
 
 #### 08/07/18
 * Calendar Update (7 days late)

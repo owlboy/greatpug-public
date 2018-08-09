@@ -25,6 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 08/08/18
+* THE BELL WORKS AGAIN!
 * Fixed issues with the beta Dithering Shader by Xiexe (Thanks TCL!)
 * Fixed the weird sheen on the First Dollar plaque (Thanks Exiled!)
 * Shaved 1-2 drawcalls off of a couple items

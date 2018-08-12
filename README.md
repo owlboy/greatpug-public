@@ -24,6 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/11/18
+* Updated the Dithering Shader to v.1.calm.0.0.pseudology.1534016371.7
+* Many wood materials updated
+* Bloom is back to it's previous level
+* Light Probes should no longer bleed out of the cooler into the back stairway as easily
+* Fixed weird light fixture placements throughout the first floor
+* LOD adjustments for various signs
+* Fire extinguishers should no longer be inside the wall
+* Bar Two has better slightly better UV unwrapping now
+* Reflection Probes adjusted down
+* Removed 3 drawcalls from the bar cooler.
+
 #### 08/08/18
 * THE BELL WORKS AGAIN!
 * Fixed issues with the beta Dithering Shader by Xiexe (Thanks TCL!)

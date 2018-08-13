@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/12/18
+* Fixed the missing/shifted colliders on the upstairs bar
+* Fixed the missing colliders on the downstairs bar cooler
+* Adjusted the Dithering Shader a bit
+
 #### 08/11/18
 * Updated the Dithering Shader to v.1.calm.0.0.pseudology.1534016371.7
 * Many wood materials updated

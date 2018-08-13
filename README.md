@@ -37,7 +37,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed weird light fixture placements throughout the first floor
 * LOD adjustments for various signs
 * Fire extinguishers should no longer be inside the wall
-* Bar Two has better slightly better UV unwrapping now
+* Bar Two has slightly better UV unwrapping now
 * Reflection Probes adjusted down
 * Removed 3 drawcalls from the bar cooler.
 

@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/16/18
+* Fixes/Adjustments for the live show audio
+* Adjustments to shadowcasters in The Roost and on the stage
+* At least 1 drawcall removed.
+
 #### 08/12/18
 * Fixed the missing/shifted colliders on the upstairs bar
 * Fixed the missing colliders on the downstairs bar cooler

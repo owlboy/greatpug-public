@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/20/18
+* Fixed Basement occlusion issues
+* Fixed collider sticking into main bar from basement
+* More draw call optimizations in the main bar area of 1-12 draw calls depending on the direction you are looking
+* Adjusted the post processing stack
+* Minor collider adjustments
+* The Devil Bucket should be easier to pick up now
+
 #### 08/18/18
 * Refactored the basement meshes
 

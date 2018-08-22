@@ -24,7 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 08/20/18
+#### 08/21/18 
+* Bloomified the fire in The Roost for a more cozy glow
+* Added a new menu model – more to come down the road here
+* Material adjustments
+* More draw call optimizations in the main bar area; 5-10 draw calls depending on the direction you are looking
+* Patched up the hole in the cieling near the kitchen door
+
+#### 08/20/18 (97mb)
 * Fixed Basement occlusion issues
 * Fixed collider sticking into main bar from basement
 * More draw call optimizations in the main bar area; 1-12 draw calls depending on the direction you are looking

@@ -26,8 +26,8 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 08/22/18 (91mb)
 * That missing door frame returned home and appologized. It just needed some time away from all the people.
-* Re-jiggering Texture compression on some things
-* Re-jiggered Audio compression on some things
+* Re-jiggered texture compression on some things
+* Re-jiggered audio compression on some things
 * Made adjustments to the lighting
 * Further adjusted the Post Processing stack
 * A very Rigid Body was found in The Roost and removed.

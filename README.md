@@ -24,7 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 08/21/18 
+#### 08/22/18 (91mb)
+* That missing door frame returned home and appologized. It just needed some time away from all the people.
+* Re-jiggering Texture compression on some things
+* Re-jiggered Audio compression on some things
+* Made adjustments to the lighting
+* Further adjusted the Post Processing stack
+* A very Rigid Body was found in The Roost and removed.
+
+#### 08/21/18 (100mb)
 * Bloomified the fire in The Roost for a more cozy glow
 * Added a new menu model – more to come down the road here
 * Material adjustments

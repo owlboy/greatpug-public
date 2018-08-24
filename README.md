@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/23/18 (91mb)
+* Removed some legacy VRC Chair scripts I found hiding around the map
+* Minor tweaks
+
 #### 08/22/18 (91mb)
 * That missing door frame returned home and appologized. It just needed some time away from all the people.
 * Re-jiggered texture compression on some things

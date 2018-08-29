@@ -24,11 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/28/18 (91mb)
+* Made refinements to the Night View shelving meshes
+* Made refinements to the lightmap in Night View bar
+* Made the main staircase a bit brighter at the first-floor landing (Thanks Exiled!)
+* Fixed the light canisters that were descending on the main staircase (Thanks Garret!)
+* Updated the Security Colliders; they should be a little more forgiving now (Thanks Korro!)
+
 #### 08/24/18 (91mb)
 * Fixed the flickering doors in the buffet in The Roost
 * Updated the textures on the clock and banners
 * Tweaked some baked lights
-* Made some minor drawcall optimizations
+* Made some minor draw call optimizations
 * Other minor tweaks
 
 #### 08/23/18 (91mb)
@@ -36,7 +43,7 @@ You can also donate crypto currency at the following addresses:
 * Minor tweaks
 
 #### 08/22/18 (91mb)
-* That missing door frame returned home and appologized. It just needed some time away from all the people.
+* That missing door frame returned home and apologized. It just needed some time away from all the people.
 * Re-jiggered texture compression on some things
 * Re-jiggered audio compression on some things
 * Made adjustments to the lighting
@@ -48,13 +55,13 @@ You can also donate crypto currency at the following addresses:
 * Added a new menu model – more to come down the road here
 * Material adjustments
 * More draw call optimizations in the main bar area; 5-10 draw calls depending on the direction you are looking
-* Patched up the hole in the cieling near the kitchen door
+* Patched up the hole in the ceiling near the kitchen door
 
 #### 08/20/18 (97mb)
 * Fixed Basement occlusion issues
-* Fixed collider sticking into main bar from basement
+* Fixed collider sticking into the main bar from the basement
 * More draw call optimizations in the main bar area; 1-12 draw calls depending on the direction you are looking
-* Adjusted the post processing stack
+* Adjusted the post-processing stack
 * Minor collider adjustments
 * The Devil Bucket should be easier to pick up now
 
@@ -62,15 +69,15 @@ You can also donate crypto currency at the following addresses:
 * Refactored the basement meshes
 
 #### 08/17/18 (99mb)
-* Fixed collider abover the table behind the couch in The Roost
+* Fixed collider above the table behind the couch in The Roost
 * The VRCHAT ARCHIVES advert has gotten a bit dirty in the past year and a half. (Thanks Zarniwoop!)
 * Material updates
 * More materials are now using the Dithering Shader
 
 #### 08/16/18 (100mb)
 * Fixes/Adjustments for the live show audio
-* Adjustments to shadowcasters in The Roost and on the stage
-* At least 1 drawcall removed.
+* Adjustments to shadow casters in The Roost and on the stage
+* At least 1 draw call removed.
 
 #### 08/12/18
 * Fixed the missing/shifted colliders on the upstairs bar
@@ -80,30 +87,30 @@ You can also donate crypto currency at the following addresses:
 #### 08/11/18
 * Updated the Dithering Shader to v.1.calm.0.0.pseudology.1534016371.7
 * Many wood materials updated
-* Bloom is back to it's previous level
+* Bloom is back to its previous level
 * Light Probes should no longer bleed out of the cooler into the back stairway as easily
 * Fixed weird light fixture placements throughout the first floor
 * LOD adjustments for various signs
 * Fire extinguishers should no longer be inside the wall
 * Bar Two has slightly better UV unwrapping now
 * Reflection Probes adjusted down
-* Removed 3 drawcalls from the bar cooler.
+* Removed 3 draw calls from the bar cooler.
 
 #### 08/08/18
 * THE BELL WORKS AGAIN!
 * Fixed issues with the beta Dithering Shader by Xiexe (Thanks TCL!)
 * Fixed the weird sheen on the First Dollar plaque (Thanks Exiled!)
-* Shaved 1-2 drawcalls off of a couple items
+* Shaved 1-2 draw calls off of a couple items
 * Fixed the weird ceilings in The Roost staircase
 * Fixed light baking issues in a few places
 * Fixed the ghost chairs by the Corner Booth on the first floor
 * Fixed the floor material in the bathrooms
-* Removed references to non-exsistant chair placement scripts by CubedParadox (Thanks Cubed!)
+* Removed references to non-existent chair placement scripts by CubedParadox (Thanks Cubed!)
 
 #### 08/07/18
 * Calendar Update (7 days late)
 * Many shaders changed to a beta version of a Dithering Shader by Xiexe (Thanks Xiexe!)
-* Shaved 1-2 drawcalls off stage props
+* Shaved 1-2 draw calls off stage props
 
 #### 07/27/18
 * Additions to the live streaming audio support
@@ -135,14 +142,14 @@ You can also donate crypto currency at the following addresses:
 
 
 #### 06/29/18 (310) (110mb)
-* Implimented minor drawcall optimizations
+* Implemented minor draw call optimizations
 * Updated lightmaps on back hallway, no more light leaks near the exit sign
 * Greatly reduced lightmap artifacts on main stairs leading to Night View
 * Overall lightmap filesize dropped
 
 
 #### 06/28/18 (308) (116mb)
-* Implimented additional minor drawcall optimizations
+* Implemented additional minor draw call optimizations
 * Updated the wine bottle labels
 * Reflection probe resolution changes to reduce download size
 
@@ -152,28 +159,28 @@ You can also donate crypto currency at the following addresses:
 * Reduced overall download size by 6mb
 
 #### 06/08/18 (306)
-* Made drawcall optimizations
+* Made draw call optimizations
 * Added missing baseboards in Night View
 * Reflection Probe Adjustments
 * Stools have shadows again!
 * Boxes under the Night View bar are now walkthrough (thanks Meme Man)
 
 #### 06/07/18 (305)
-* Updated the appearence of the lampshades
-* Made some minor drawcall optimizations
+* Updated the appearance of the lampshades
+* Made some minor draw call optimizations
 * Modified lightmap settings
 
 #### 06/05/18 (303)
-* Made some minor drawcall optimizations
+* Made some minor draw call optimizations
 * Updated some meshes to have better geometry and normals
 
 #### 06/04/18 (302)
-* Made some minor drawcall optimizations
+* Made some minor draw call optimizations
 * Fixed a missing collider near the bar mirror
 
 #### 06/03/18 (300)
-* Made a few drawcall optimizations
-* Changed the near clipping plane distance on the refrence camera (far clip was not changed)
+* Made a few draw calls optimizations
+* Changed the near clipping plane distance on the reference camera (the far clip was not changed)
 * Rebaked occlusion
 * Updated the meshes for the sink, Roost shelves, stair railings, booth base/backing, and other minor meshes
 * Made minor Trigger broadcast type adjustments
@@ -184,7 +191,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed some mis-aligned colliders that were out of place.
 
 #### 06/01/18 (298)
-* Made some drawcall optimizations!
+* Made some draw call optimizations!
 * Made changes to the Object Respawing behavior to attempt to address lag when a new user joins the world.
 * Mixed Lights now are forced off when you are not in view of them. This is being done as a precaution because Occlusion Culling may not have been doing the job in all cases.
 * Rebuilt the shelves under the bar
@@ -224,7 +231,7 @@ You can also donate crypto currency at the following addresses:
 * Bathrooms should be back to normal
 
 #### 04/14/18
-* You should no-longer stick to the walls when using the main stairway or the stairs in The Roost
+* You should no longer stick to the walls when using the main stairway or the stairs in The Roost
 * Mckmuze setlist lighting has been fixed
 * Missing lightmap on painting has been found and reapplied
 * New decorations in Night View and The Roost
@@ -285,7 +292,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * Temporary portal to the prototype
 
 #### 02/01/18
-* Added a delightful painting above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks Dicidius!
+* Added a delightful painting above the fireplace. It was painted by [Dicidius](https://twitter.com/Dicidius). Thanks, Dicidius!
 * A matching sword is on display
 * New shelf along the back wall in The Roost
 * Telephone ring volume lowered a bit
@@ -488,7 +495,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * Minor fixes
 
 #### 06/14/17
-* Rounded edges on lower bar
+* Rounded edges on the lower bar
 * Added door latches
 
 #### 06/13/17

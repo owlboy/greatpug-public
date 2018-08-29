@@ -26,7 +26,7 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 08/28/18 (91mb)
 * Made refinements to the Night View shelving meshes
-* Made refinements to the lightmap in Night View bar
+* Made refinements to the lightmap on the Night View bar
 * Made the main staircase a bit brighter at the first-floor landing (Thanks Exiled!)
 * Fixed the light canisters that were descending on the main staircase (Thanks Garret!)
 * Updated the Security Colliders; they should be a little more forgiving now (Thanks Korro!)

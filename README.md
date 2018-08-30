@@ -24,7 +24,7 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 08/29/18
+#### 08/29/18 (89mb)
 * Peformed some plumbing; The toilets may or may not "work" now
 * Hooked up the beer taps in the Night View bar
 * Added timers to the beer taps so they turn off after being left on - they were wasting so much beer!

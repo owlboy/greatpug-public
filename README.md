@@ -24,6 +24,22 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/29/18
+* Peformed some plumbing; The toilets may or may not "work" now
+* Hooked up the beer taps in the Night View bar
+* Added timers to the beer taps so they turn off after being left on - they were wasting so much beer!
+* Took down the open sign for Night View (it's always open these days!)
+* Adjusted the basement door so it is more logical when open, and when being handled
+* Adjusted lights near the main staircase and first-floor hallway entrance
+* Fixed the issue causing a teleport if you walked under the back stairs on the first floor (Thanks Exiled!)
+* Fixed texture tiling on toilets
+* Fixed more descended canister lights
+* Adjusted draw calls a tiny bit in the main bar area
+* Adjusted they way some sound effects play
+* Restored the MIP Maps on the posters
+
+This exists now: [The Great Pug - Steam Group](http://steamcommunity.com/groups/thegreatpug)
+
 #### 08/28/18 (91mb)
 * Made refinements to the Night View shelving meshes
 * Made refinements to the lightmap on the Night View bar

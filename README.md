@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 08/30/18 (89mb)
-* Moved stage speakers off the stage and added monitors fulfilling Issue [Issue #3](https://github.com/owlboy/greatpug-public/issues/3)
+* Moved stage speakers off the stage and added monitors fulfilling [Issue #3](https://github.com/owlboy/greatpug-public/issues/3)
 * Fixed the missing animation on the toilet water
 * Updated toilet and tap timers to (hopefully) work around a current bug with timers
 * Reduced range of toilet flush sound (hopefully)

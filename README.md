@@ -31,7 +31,7 @@ You can also donate crypto currency at the following addresses:
 * Reduced range of toilet flush sound (hopefully)
 * Updated models and materials on stage equipment to reduce the draw calls a bit
 * Updated the live performer controls
-* Updated the meshes/materials on cieling lights in Night View to reduce the draw calls a bit
+* Updated the meshes/materials on ceiling lights in Night View to reduce the draw calls a bit
 
 #### 08/29/18 (89mb)
 * Peformed some plumbing; The toilets may or may not "work" now

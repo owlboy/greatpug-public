@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/30/18 (89mb)
+* Moved stage speakers off the stage and added monitors fulfilling Issue [Issue #3](https://github.com/owlboy/greatpug-public/issues/3)
+* Fixed the missing animation on the toilet water
+* Updated toilet and tap timers to (hopefully) work around a current bug with timers
+* Reduced range of toilet flush sound (hopefully)
+* Updated models and materials on stage equipment to reduce the draw calls a bit
+* Updated the live performer controls
+* Updated the meshes/materials on cieling lights in Night View to reduce the draw calls a bit
+
 #### 08/29/18 (89mb)
 * Peformed some plumbing; The toilets may or may not "work" now
 * Hooked up the beer taps in the Night View bar

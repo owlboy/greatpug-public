@@ -24,6 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/31/18 (89mb)
+* Added a new bottle label for Presence 
+* Updates to stage controls for performers
+* Tweaked the tap triggers to be less square
+* Rebaked occlusion to fix up the stage
+* Tweaked toilet sounds so they should be audible again
+
 #### 08/30/18 (89mb)
 * Moved stage speakers off the stage and added monitors fulfilling [Issue #3](https://github.com/owlboy/greatpug-public/issues/3)
 * Fixed the missing animation on the toilet water

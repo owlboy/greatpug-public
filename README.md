@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 09/7/18 (85mb)
-* Loaded up a new calendar the Calendar (7 days late)
+* Loaded up a new Calendar (7 days late)
 * Sanded down the bathroom sinks to round them out, then re-polished them
 * Fixed the issue with the Whiskey being a vampire (Thanks Exiled!)
 * Fixed the issue with teleporting booth seats (Thanks Jordo!) [ [Issue #8](https://github.com/owlboy/greatpug-public/issues/8) ]

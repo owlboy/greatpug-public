@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 09/7/18 (85mb)
+* Loaded up a new calendar the Calendar (7 days late)
+* Sanded down the bathroom sinks to round them out, then re-polished them
+* Fixed the issue with the Whiskey being a vampire (Thanks Exiled!)
+* Fixed the issue with teleporting booth seats (Thanks Jordo!) [ [Issue #8](https://github.com/owlboy/greatpug-public/issues/8) ]
+* Fixed the issue with the missing wall colider near the bar mirror (Thanks Misaki and others!)
+* Updated TheArchitects poster - He does more than home worlds now!
+
 #### 08/31/18 (89mb)
 * Added a new bottle label for Presence 
 * Updates to stage controls for performers

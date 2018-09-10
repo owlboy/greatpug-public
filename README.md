@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 09/9/18 (85mb)
+* Fixed for weirdly shiny materials on main staircase and stage
+* Fixed leaky faucets in the mens bathroom
+* Fixed the issue with the sinks being missing in the bathroom mirrors
+* Added a lot more brushed steel in the kitchen
+
 #### 09/7/18 (85mb)
 * Loaded up a new Calendar (7 days late)
 * Sanded down the bathroom sinks to round them out, then re-polished them

@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 09/13/18 (86mb)
+* Updated patron posters
+* Added steamer pans
+* Minor fixes
+
 #### 09/9/18 (86mb)
 * Fixed for weirdly shiny materials on main staircase and stage
 * Fixed leaky faucets in the mens bathroom

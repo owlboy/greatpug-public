@@ -45,7 +45,7 @@ You can also donate crypto currency at the following addresses:
 * Minor fixes
 
 #### 09/9/18 (86mb)
-* Fixed for weirdly shiny materials on main staircase and stage
+* Fixed weirdly shiny materials on main staircase and stage
 * Fixed leaky faucets in the men's bathroom
 * Fixed the issue with the sinks being missing in the bathroom mirrors
 * Added a lot more brushed steel in the kitchen

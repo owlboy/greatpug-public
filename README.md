@@ -24,7 +24,7 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 09/18/18 (86mb)
+#### 09/18/18 (87mb)
 * Cleaned the darkness off the Orchid on the welcome desk
 * Worked around a bug with onTimer triggers (hopefully)
 * Fixed weird geometry on the main staircase

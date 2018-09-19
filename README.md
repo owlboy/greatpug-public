@@ -24,6 +24,21 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 09/18/18 (86mb)
+* Cleaned the darkness off the Orchid on the welcome desk
+* Worked around a bug with onTimer triggers (hopefully)
+* Fixed weird geometry on the main staircase
+* Improved wood grain direction on the main staircase
+* Improved lightmap on walls on the main staircase
+* Improved wood grain direction on the sleeping platform in The Roost
+* Rounded up the plates
+* Patched some holes in The Roost ceiling (again)
+* Solidified the top of the stools in Night View (Thanks Poplopo!)
+* Removed a weird onInteract trigger near the entrance (Thanks Meme Man!)
+* Removed some errant animations on the Yellow Spotlight on the Stage
+* Updated Patron posters
+* Minor fixes
+
 #### 09/13/18 (86mb)
 * Updated patron posters
 * Added steamer pans
@@ -31,7 +46,7 @@ You can also donate crypto currency at the following addresses:
 
 #### 09/9/18 (86mb)
 * Fixed for weirdly shiny materials on main staircase and stage
-* Fixed leaky faucets in the mens bathroom
+* Fixed leaky faucets in the men's bathroom
 * Fixed the issue with the sinks being missing in the bathroom mirrors
 * Added a lot more brushed steel in the kitchen
 
@@ -40,8 +55,8 @@ You can also donate crypto currency at the following addresses:
 * Sanded down the bathroom sinks to round them out, then re-polished them
 * Fixed the issue with the Whiskey being a vampire (Thanks Exiled!)
 * Fixed the issue with teleporting booth seats (Thanks Jordo!) [ [Issue #8](https://github.com/owlboy/greatpug-public/issues/8) ]
-* Fixed the issue with the missing wall colider near the bar mirror (Thanks Misaki and others!)
-* Updated TheArchitects poster - He does more than home worlds now!
+* Fixed the issue with the missing wall collider near the bar mirror (Thanks Misaki and others!)
+* Updated TheArchitects poster - He does more than homeworlds now!
 
 #### 08/31/18 (89mb)
 * Added a new bottle label for Presence 

@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Adjusted some light probe placements
 * Updated/fixed respawn timers on a few objects
 * Updated Patron posters
-* Deleted some extranious objects that I found hiding in nooks and crannys
+* Deleted some extranious objects that I found hiding in nooks and crannies
 
 #### 09/18/18 (87mb)
 * Cleaned the darkness off the Orchid on the welcome desk

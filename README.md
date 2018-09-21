@@ -27,7 +27,7 @@ You can also donate crypto currency at the following addresses:
 #### 09/20/18 (88mb)
 * Fixed a Patron poster
 * Fixed eject buttons in the bar (Thanks Meme Man!)
-* Fixed a phone reciver that was made of cloth
+* Fixed a phone receiver that was made of cloth
 * Fixed some reflection probe placements
 * Rebaked lighting
 

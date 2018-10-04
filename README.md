@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 10/03/18 (350) (89mb)
+* Updated the SDK - VRCSDK-2018.10.02.10.29_Public
+* Updated the Calendar (3 days late)
+* Fixed some occlusion errors
+* Patron poster updates
+
 #### 09/20/18 (88mb)
 * Fixed a Patron poster
 * Fixed eject buttons in the bar (Thanks Meme Man!)

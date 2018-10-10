@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 10/09/18 (90mb)
-* Fixed a performance issue with the new glas shader (Thanks CubedParadox!)
+* Fixed the performance issue with the new glass shader (Thanks CubedParadox!)
 * Added table tents
 
 #### 10/08/18

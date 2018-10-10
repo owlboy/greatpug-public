@@ -26,11 +26,11 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 10/10/18 (91mb)
 * Adjusted the liquid shader (hopefully the weird refraction rendering is gone)
-* Removed a drawcall on the rose in The Roost
+* Removed a draw call on the rose in The Roost
 * Fixed a seat on the fireplace couch in The Roost that had a very long interaction distance (Thanks Pan Diman!)
 * Fixed the oversized interaction boxes on rhe fireplace couch in The Roost
 * Adjusted the glass on the mirrors
-* Removed a drawcall on the clocks
+* Removed a draw call on the clocks
 
 #### 10/09/18 (90mb)
 * Fixed the performance issue with the new glass shader (Thanks CubedParadox!)

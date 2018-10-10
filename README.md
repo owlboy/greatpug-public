@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Adjusted the liquid shader (hopefully the weird refraction rendering is gone)
 * Removed a draw call on the rose in The Roost
 * Fixed a seat on the fireplace couch in The Roost that had a very long interaction distance (Thanks Pan Diman!)
-* Fixed the oversized interaction boxes on rhe fireplace couch in The Roost
+* Fixed the oversized interaction boxes on the fireplace couch in The Roost
 * Adjusted the glass on the mirrors
 * Removed a draw call on the clocks
 

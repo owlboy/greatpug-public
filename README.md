@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 10/15/18 (90mb)
+* Updated Patron flyers
+* Updated liquid shader
+
 #### 10/10/18 (91mb)
 * Adjusted the liquid shader (hopefully the weird refraction rendering is gone)
 * Removed a draw call on the rose in The Roost

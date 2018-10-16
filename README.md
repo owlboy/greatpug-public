@@ -27,7 +27,7 @@ You can also donate crypto currency at the following addresses:
 #### 10/15/18 (90mb)
 * Updated Patron flyers
 * Updated liquid shader
-* Updated the glass material on the Clock
+* Updated the glass material on the clocks
 
 #### 10/10/18 (91mb)
 * Adjusted the liquid shader (hopefully the weird refraction rendering is gone)

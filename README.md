@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 10/17/18 (90mb)
+* Adjusted liquid shaders some more
+* Fixed the missing colors from the red/blue/green pints (Thanks Hystericmikey!)
+* Removed additional superflus objects and materials
+
 #### 10/16/18 (90mb)
 * Reduced draw calls by 0-4 in main bar area and stage area
 * Fixed sorting issues with liquid and glass (Hopefully)

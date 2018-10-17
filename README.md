@@ -25,9 +25,9 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 10/16/18 (90mb)
-* Reduced drawcalls by 0-4 in main bar area and stage area
+* Reduced draw calls by 0-4 in main bar area and stage area
 * Fixed sorting issues with liquid and glass (Hopefully)
-* Fixed a shifted fireplace light)
+* Fixed the shifted fireplace light
 * Removed some un-needed disabled objects
 
 #### 10/15/18 (90mb)

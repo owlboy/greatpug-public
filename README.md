@@ -25,10 +25,10 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 11/01/18 - 2 (97mb)
-* Reduced drawcalls on various objects around the main bar a bit.
+* Reduced draw calls on various objects around the main bar a bit.
 * Updated fishbowl water - hopefully fixing the flickering.
 * Rebaked occlusion
-* Removed a few stray Halloween remnents
+* Removed a few stray Halloween remnants
 * Added tags: bar, stage, hangout, social, classic
 
 #### 11/01/18 (96mb)

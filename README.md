@@ -30,6 +30,7 @@ You can also donate crypto currency at the following addresses:
 * Rebaked occlusion
 * Removed a few stray Halloween remnants
 * Added tags: bar, stage, hangout, social, classic
+* SDK Bump: 2018.10.31.10.45
 
 #### 11/01/18 (96mb)
 * Removed Halloween Decor

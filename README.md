@@ -24,6 +24,17 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/02/18 (102mb)
+* Reduced a couple more draw calls throughout the map
+* Rebuilt the meshes for the booths near the mirror on the first floor
+* Updated all of the drywall materials
+* Improved colliders near corner stool on the first floor
+* Improved colliders along the base of the tall windows in Night View
+* Improved lightmap on the stairs to The Roost (Dark upper border should be gone)
+* Fixed missing light near the back exit
+* Added a group photo from Halloween at The Pug 2018 to the wall on the stairs
+* Readded tags: bar, stage, hangout, social, classic
+
 #### 11/01/18 - 2 (97mb)
 * Reduced draw calls on various objects around the main bar a bit.
 * Updated fishbowl water - hopefully fixing the flickering.

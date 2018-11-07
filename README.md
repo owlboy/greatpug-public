@@ -24,6 +24,26 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/06/18 (98mb)
+• Fixed ObjectRespawners - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
+* Fixed Mr. Whiskers Puzzle - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
+* Fixed unsightly seams on the new booth models
+* Fixed a missing booth barrier in the Bar mirror (thanks Sheppard#1998!)
+* Fixed some lightmap issues on the Night View Bar (more need fixing)
+* Fixed some lightmap issues with the stools on the first floor
+* Fixed light leaks near the ceiling on the stairs to The Roost
+* Fixed light leak from the back staircase into the back hallway
+* Fixed tall baseboard along the tall windows in Night View - you can't walk on it anymore.
+* Fixed the taps, they were still hooked up to the Halloween kegs
+* Fixed disappearing White Russian liquid
+* Improved framing on Halloween 2018 Photo
+* Removed a draw call or two in Night View
+* Updated drink menu models
+* Updated textures the on the ceiling vents
+* Updated Patron flyers
+* Rebaked Occlusion
+
+
 #### 11/02/18 (102mb)
 * Reduced a couple more draw calls throughout the map
 * Rebuilt the meshes for the booths near the mirror on the first floor

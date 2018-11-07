@@ -42,7 +42,7 @@ You can also donate crypto currency at the following addresses:
 * Updated textures the on the ceiling vents
 * Updated Patron flyers
 * Rebaked Occlusion
-
+* SDK Bump: 2018.11.05.17.42
 
 #### 11/02/18 (102mb)
 * Reduced a couple more draw calls throughout the map

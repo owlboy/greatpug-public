@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 11/06/18 (98mb)
-• Fixed ObjectRespawners - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
+* Fixed ObjectRespawners - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
 * Fixed Mr. Whiskers Puzzle - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
 * Fixed unsightly seams on the new booth models
 * Fixed a missing booth barrier in the Bar mirror (thanks Sheppard#1998!)

@@ -26,8 +26,10 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 11/08/18 (97mb)
 * Added a toggle to disable interaction with seats in the main bar - it is in the back room
+* Fixed ObjectRespawners on some more objects, including the Pillows in The Roost - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
 * Fixed missing Corner Booth seat stations
 * Fixed offset seat stations on stools near the bar mirror (Thanks @Zarniwoop!)
+* Updated some parts of the Mr. Whiskers puzzle to use Custom Triggers
 * Shined up the booth table legs
 * Reduced drawcalls by 1 or 2
 

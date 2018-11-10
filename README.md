@@ -24,11 +24,20 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/09/18 (96mb)
+* Adjusted a broken trigger in the Mr. Whiskers Puzzle to hopefully fix it (Thanks Naelstof)
+* Tweaked live stream playback component
+* Added a toggle to disable interaction with seats in The Roost
+* Adjusted some seats in The Roost so they are a bit easier to interact with for desktop users
+* Fixed missing seats on side couch in The Roost
+* Updated various materials
+* Rebaked Occlusion
+
 #### 11/08/18 (97mb)
 * Added a toggle to disable interaction with seats in the main bar - it is in the back room
 * Fixed ObjectRespawners on some more objects, including the Pillows in The Roost - Caused by this bug: http://bit.ly/vrc-teleportTo-hierarchy
 * Fixed missing Corner Booth seat stations
-* Fixed offset seat stations on stools near the bar mirror (Thanks @Zarniwoop!)
+* Fixed offset seat stations on stools near the bar mirror (Thanks Zarniwoop!)
 * Updated some parts of the Mr. Whiskers puzzle to use Custom Triggers
 * Shined up the booth table legs
 * Reduced drawcalls by 1 or 2

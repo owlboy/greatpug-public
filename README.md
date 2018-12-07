@@ -24,6 +24,16 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/07/18 (96mb) - Final FIVE SIX update
+* Updated the Calendar (7 days late!)
+* Updated Patron flyers
+* Fixed the floor in Night View (Thanks laugexd!) [ [Issue #10](https://github.com/owlboy/greatpug-public/issues/10) ]
+* Started decorating for the holidays
+* Rebaked Occlusion
+
+#### 11/15/18
+* Unity 2017 shenanigans.
+
 #### 11/09/18 (96mb)
 * Adjusted a broken trigger in the Mr. Whiskers Puzzle to hopefully fix it (Thanks Naelstof)
 * Tweaked live stream playback component

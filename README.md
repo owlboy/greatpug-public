@@ -24,7 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 12/07/18 (96mb) - Final FIVE SIX update
+#### 12/11/18 (91mb)
+* Fixed regressions (Reapplied the last update)
+* Updated patron flyers
+* Added a few holiday decorations to Night View and The Roost
+* Added new textures for the red phone
+* SDK Bump: 2018.12.04.10.25
+* Engine Bump: 2017.4.15f1
+
+#### 12/07/18 (92mb) - Final FIVE SIX update
 * Updated the Calendar (7 days late!)
 * Updated Patron flyers
 * Fixed the floor in Night View (Thanks laugexd!) [ [Issue #10](https://github.com/owlboy/greatpug-public/issues/10) ]

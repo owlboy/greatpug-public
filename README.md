@@ -29,7 +29,7 @@ You can also donate crypto currency at the following addresses:
 * Added a new sculpture to The Roost (Thanks Poplopo!)
 * Fixed dark table tops
 * Fixed lightmapping throughout The Pug
-* Improved Specular response throught The Pug. - Still needs tweaking (Thanks SeraRealm!)
+* Improved specular response throughout The Pug. - Still needs tweaking (Thanks SeraRealm!)
 
 #### 12/12/18 (93mb)
 * Rebaked lightmap - fixed many issues/errors from the 5.6-2017.4 upgrade

@@ -24,6 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/18/18 (109mb)
+* Added a few more holiday decorations
+* Added a new sculpture to The Roost (Thanks Poplopo!)
+* Fixed dark table tops
+* Fixed lightmapping throughout The Pug
+* Improved Specular response throught The Pug. - Still needs tweaking (Thanks SeraRealm!)
+
 #### 12/12/18 (93mb)
 * Rebaked lightmap - fixed many issues/errors from the 5.6-2017.4 upgrade
 * Restored holiday banners

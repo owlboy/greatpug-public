@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/19/18 (105mb)
+* Tweaked reflection probles
+* Tweaked specular on many objects
+* Improved normals on beer taps
+* Improved normals on trash cans
+* Improved fake mirrors in light of the new specular profile
+* Improved light mapping on various small objects
+* Reduced download size a bit
+
 #### 12/18/18 (109mb)
 * Added a few more holiday decorations
 * Added a new sculpture to The Roost (Thanks Poplopo!)

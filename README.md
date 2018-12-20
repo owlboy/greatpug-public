@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Tweaked reflection probles
 * Tweaked specular on many objects
 * Improved normals on beer taps
-* Improved normals on trash cans
+* Improved normals on trash taps
 * Improved fake mirrors in light of the new specular profile
 * Improved light mapping on various small objects
 * Reduced download size a bit

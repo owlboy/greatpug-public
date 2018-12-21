@@ -26,7 +26,7 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 12/20/18 (105mb)
 * Refactored parts of the booths around the corner booth on the first floor to fix lightmapping and lower draw calls
-* Lowered the intesity of the specular light proxy objects (Thanks Korro Bravin!)
+* Lowered the intensity of the specular light proxy objects (Thanks Korro Bravin!)
 * Adjusted the live stream audio sources
 * Fixed hazy materials on some objects
 

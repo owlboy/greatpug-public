@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/20/18 (105mb)
+* Refactored parts of the booths around the corner booth on the first floor to fix lightmapping and lower draw calls
+* Lowered the intesity of the specular light proxy objects (Thanks Korro Bravin!)
+* Adjusted the live stream audio sources
+* Fixed hazy materials on some objects
+
 #### 12/19/18 (105mb)
 * Tweaked reflection probles
 * Tweaked specular on many objects

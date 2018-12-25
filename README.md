@@ -29,9 +29,9 @@ You can also donate crypto currency at the following addresses:
 * Fixed wood grain on the trim of the lower landing of the stairs to Night View
 * Added wood trim along the red wall on the first run of stairs to Night View
 * Added baseboard to wall near the main bar mirror
-* Added tiles to the walls that were missing them in the bathroom
+* Added tiles to the walls that were missing them in the bathrooms
 * Improved light maps on many meshes
-* Cleaned up geometry some meshes
+* Cleaned up the geometry of some meshes
 
 #### 12/23/18 (108mb)
 * The Yule Goat has risen! 🐐

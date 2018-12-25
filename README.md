@@ -24,7 +24,7 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-### 12/24/18 (106mb)
+#### 12/24/18 (106mb)
 * Finished the refactor on the corner booth and near by booths
 * Fixed wood grain on the trim of the lower landing of the stairs to Night View
 * Added wood trim along the red wall on the first run of stairs to Night View

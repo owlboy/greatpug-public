@@ -24,6 +24,28 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/28/18 (107mb)
+* Fixed the missing colliders in the women's bathroom (Thanks @SplitScream#8411!)
+* Removed the invisible collider in the first-floor hallway (Thanks @Sheppard#1998!)
+* Fixed missing collider along the doorway to the back stairs (Thanks @Sheppard#1998!)
+* Implemented a new "lightmap method" on some objects. Notably the bar in Night View.
+* Fixed hole in the ceiling near the kitchen door
+* Fixed floating baseboard in the back staircase
+* Improved lightmaps on various objects
+* Added a new lamp!
+* Padded the seat backs on the chairs in Night View (The Roost will follow later)
+* Rounded the Globes on the tables in Night View
+* Brightened up Night View a bit
+* Repainted the ceiling in Night View
+* Updated stools in the main bar so they can hold pickups
+* Misc fixes
+* **Switched to Post Processing Stack v2**
+    * Flashing light from broken geometry should no longer happen
+    * Bloom is clamped to prevent malicious emission values
+    * Testing Post Processing Volumes with the kitchen coolers
+    * Testing auto-exposure
+
+
 #### 12/24/18 (106mb)
 * Finished the refactor on the corner booth and near by booths
 * Fixed wood grain on the trim of the lower landing of the stairs to Night View

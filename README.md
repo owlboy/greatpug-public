@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/31/18 (113mb)
+* New Years decorations and Music 
+    * (Thanks [CubedParadox](https://github.com/cubedparadox) for lending me your Record Player!)
+    * ([Radio Soulwax - Under the Covers](http://2manydjs.com))
+* Clamped bloom more aggressively
+* Drywall is now uniformly scaled and oriented
+* Updated the calendar
+* Misc fixes
+
 #### 12/28/18 (107mb)
 * Fixed the missing colliders in the women's bathroom (Thanks @SplitScream#8411!)
 * Removed the invisible collider in the first-floor hallway (Thanks @Sheppard#1998!)
@@ -44,7 +53,6 @@ You can also donate crypto currency at the following addresses:
     * Bloom is clamped to prevent malicious emission values
     * Testing Post Processing Volumes with the kitchen coolers
     * Testing auto-exposure
-
 
 #### 12/24/18 (106mb)
 * Finished the refactor on the corner booth and near by booths

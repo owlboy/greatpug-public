@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 01/02/18 (107mb)
+* Took down holiday decorations
+* Adjusted bloom a bit
+* Fixed texture on the solo stook in The Roost
+* Adjusted collision on the stage edge
+
 #### 12/31/18 (113mb)
 * New Years decorations and Music 
     * (Thanks [CubedParadox](https://github.com/cubedparadox) for lending me your Record Player!)

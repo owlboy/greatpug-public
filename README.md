@@ -27,7 +27,7 @@ You can also donate crypto currency at the following addresses:
 #### 01/02/18 (107mb)
 * Took down holiday decorations
 * Adjusted bloom a bit
-* Fixed texture on the solo stook in The Roost
+* Fixed texture on the solo stool in The Roost
 * Adjusted collision on the stage edge
 
 #### 12/31/18 (113mb)

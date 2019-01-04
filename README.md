@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 01/03/18 (107mb)
+* Adjustments to the live audio setup
+* Adjustments to textures and meshes to reduces the download size a bit
+* Fixes to reflection probes (Thanks Zarniwoop!)
+* Fixed house music
+
 #### 01/02/18 (107mb)
 * Took down holiday decorations
 * Adjusted bloom a bit

@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 01/15/19 (105.61 mb)
+* Ovens are ready for Udon 🍜
+* Updated Patron flyers
+
 #### 01/31/19 (104.5 mb)
 * Fixed the Night View bar lock
 * Updated Lightmaps on various objects in The Roost

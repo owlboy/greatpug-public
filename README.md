@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 01/15/19 (105.61 mb)
-* Ovens are ready for Udon 🍜
+* Stoves are ready for Udon 🍜
 * Updated Patron flyers
 
 #### 01/31/19 (104.5 mb)

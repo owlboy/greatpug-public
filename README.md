@@ -26,8 +26,8 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 02/21/19 (106.01 mb)
 * Fixed stage mic not respawning
-* Fixed misaignled collider near the lamp in The Roost
-* Rebaked lighting in main hallway
+* Fixed misaligned collider near the lamp in The Roost
+* Rebaked lighting in the main hallway
 * Updated Patron flyers
 
 #### 02/15/19 (105.61 mb)

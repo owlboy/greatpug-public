@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed the seat toggle for the chairs near the corner booth on the first floor (Thanks Zarniwoop!)
 * Turned off dithering in the material shaders. Dithering is still applied by the Post Processing Stack (Thanks Poplopo, HugoZink!)
 * Fixed an incompatibility between the liquid shader and an upcoming patch (Thanks TCL!)
-* Fixed the visible fireplace chimney being visible through the window in The Roost
+* Fixed the fireplace chimney being visible through the window in The Roost
 * Fixed the visible floating square in the sky
 * Fixed a gap behind the fireplace
 * Updated Calendar (5 days late!)

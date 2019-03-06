@@ -24,6 +24,16 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/05/19 (105.32 mb)
+* Fixed the seat toggle for the chairs near the corner booth on the first floor (Thanks Zarniwoop!)
+* Turned off dithering in the material shaders. Dithering is still applied by the Post Processing Stack (Thanks Poplopo, HugoZink!)
+* Fixed an incompatibility between the liquid shader and an upcoming patch (Thanks TCL!)
+* Fixed the visible fireplace chimney being visible through the window in The Roost
+* Fixed the visible floating square in the sky
+* Fixed a gap behind the fireplace
+* Updated Calendar (5 days late!)
+* Put up Saint Patrick’s Day promotional decorations
+
 #### 02/21/19 (106.01 mb)
 * Fixed stage mic not respawning
 * Fixed misaligned collider near the lamp in The Roost

@@ -24,6 +24,17 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/18/19 (106.26 mb)
+* Took down the decorations
+* Updated lighting in many areas
+* Improved lightmap UVs on booth backs
+* Improved overdraw in the bathrooms
+
+#### 03/16/19 (108.52 mb)
+* Saint Patrick's at The Pug 2019!
+* Thanks to Polopo for the help getting the Leprachaun avatar optimized!
+* Thanks to Zarniwoop and ShutUpSargent for suggesting Leprecauns!
+
 #### 03/05/19 (105.32 mb)
 * Fixed the seat toggle for the chairs near the corner booth on the first floor (Thanks Zarniwoop!)
 * Turned off dithering in the material shaders. Dithering is still applied by the Post Processing Stack (Thanks Poplopo, HugoZink!)

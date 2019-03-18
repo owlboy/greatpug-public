@@ -33,7 +33,7 @@ You can also donate crypto currency at the following addresses:
 #### 03/16/19 (108.52 mb) (444)
 * Saint Patrick's at The Pug 2019!
 * Thanks to Polopo for the help getting the Leprachaun avatar optimized!
-* Thanks to Zarniwoop and ShutUpSargent for suggesting Leprecauns!
+* Thanks to Zarniwoop and ShutUpSargent for suggesting hidden Leprecauns!
 
 #### 03/05/19 (105.32 mb)
 * Fixed the seat toggle for the chairs near the corner booth on the first floor (Thanks Zarniwoop!)

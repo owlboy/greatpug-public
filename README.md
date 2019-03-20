@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/19/19 (106.52 mb)
+* Adjusted lighting down a bit in the main bar
+* Tweaked The Bucket
+* Adjusted PPV transition falloff for the kitchen coolers
+* Adjusted compression on some textures
+* Fixed the high gloss on the banners
+
+
 #### 03/18/19 (106.26 mb)
 * Took down the decorations
 * Updated lighting in many areas

@@ -25,10 +25,10 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 03/21/19 (106.78 mb)
-• Updated lamp and fixture emissive maps
-• Rebaked lighting
-• Rebaked Occlusion
-• Added bells to each floor
+* Updated lamp and fixture emissive maps
+* Rebaked lighting
+* Rebaked Occlusion
+* Added bells to each floor
 
 #### 03/19/19 (106.52 mb)
 * Adjusted lighting down a bit in the main bar

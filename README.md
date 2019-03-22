@@ -1,4 +1,4 @@
-![The Great Pug - Main bar area](http://thegreatpug.com/img/pug_bar.jpg)
+![The Great Pug - Main bar area](http://thegreatpug.com/img/pug_bar.jpg?)
 
 # The Great Pug 
 A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat"))

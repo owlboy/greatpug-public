@@ -24,7 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 03/27/18 (106.89 mb)
+#### 04/10/19 (105.07 mb)
+* Reduced overdraw on walls in main bar
+* Reduced overdraw on winndows in main bar
+* Updated the calendar (10 days late!)
+* Removed a few extranious materials
+
+#### 03/27/19 (106.89 mb)
 * Fixed the milky water (Thanks Meme_man!)
 * Fixed the Desaturated White Russian (Thanks Meme_man!)
 * Added photos from Saint Patrick's at The Pug 2019

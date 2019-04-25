@@ -31,6 +31,7 @@ You can also donate crypto currency at the following addresses:
 * Removed extrainous material slots on some meshes
 * Removed extrainous some extrainous geometry
 * Rebaked Occlusion
+* Power Water and Kirito are back from holiday
 * (Also did lots of Quest work)
 
 #### 04/10/19 (104.98 mb)

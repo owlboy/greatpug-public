@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 04/24/19 (103.6 mb)
+* Possibly removed extranious refrences to unused objects
+* Adjusted texture sizes
+* Adjusted texture filtering to be trilinear on almost all textures
+* Removed extrainous material slots on some meshes
+* Removed extrainous some extrainous geometry
+* Rebaked Occlusion
+* (Also did lots of Quest work)
+
 #### 04/10/19 (104.98 mb)
 * Reduced overdraw on walls in main bar
 * Reduced overdraw on winndows in main bar

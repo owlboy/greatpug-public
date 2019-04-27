@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 04/27/19 (103.6 mb)
-* Updated Pickup Respawners to be more consistent
+* Fixed inconsistent and broken Pickup Respawners
 * Fixed the Pillows in The Roost
 * Fixed UV1 on meshes above main bar
  

@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 04/27/19 (103.6 mb)
+* Updated Pickup Respawners to be more consistent
+* Fixed the Pillows in The Roost
+* Fixed UV1 on meshes above main bar
+ 
 #### 04/24/19 (103.6 mb)
 * Possibly removed extranious refrences to unused objects
 * Adjusted texture sizes

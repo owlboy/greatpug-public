@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 5/02/19 (69.82mb)
-* Removed 33.78mb from the build(!!!) (Huge thanks TCL!)
+* Removed 33.78mb from the build(!!!) (Huge thanks to TCL!)
 * Fixed an incorrect texture on the light over the notice board #18 (Thanks @HugoZink!)
 * Disabled the live audio player temporarily
 

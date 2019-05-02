@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 5/02/19 (69.82mb)
+* Removed 33.78mb from the build(!!!) (Huge thanks TCL!)
+* Fixed an incorrect texture on the light over the notice board #18 (Thanks @HugoZink!)
+* Disabled the live audio player temporarily
+
 #### 04/27/19 (103.6 mb)
 * Fixed inconsistent and broken Pickup Respawners
 * Fixed the Pillows in The Roost

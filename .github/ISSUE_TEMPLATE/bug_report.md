@@ -22,6 +22,8 @@ If applicable, add screenshots to help explain your problem.
 **OutputLog**
 You can find your output log at `C:\Users\[Username]\AppData\LocalLow\VRChat\vrchat\` on Windows. There is currently not a simple way to get your log from an Oculus Quest HMD.
 
+You can either attach your log to this issue report. Or link to it from http://pastebin.com
+
 **Are you in VR or Desktop mode?**
 
 

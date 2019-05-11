@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 5/10/19 (71mb)
+* Reduced Draw Calls by a few depending on your POV
+* Updated calendar (10 days late!)
+* Rebaked lighting
+* Reduced material count by a few
+* Fixed a few incorrect materials
+* Safety and Security fixes
+
 #### 5/02/19 (69.82mb)
 * Removed 33.78mb from the build(!!!) (Huge thanks to TCL!)
 * Fixed an incorrect texture on the light over the notice board #18 (Thanks @HugoZink!)

@@ -31,7 +31,7 @@ You can also donate crypto currency at the following addresses:
 * Improved Texture and Lightmap UVs and Mesh on the main bar
 * Reduced draw calls produced by the liquid in drinks (Thanks 1001!)
 * Reduced draw calls produced by walls
-* Reduced draw calls 1-15 depending on your view
+* Reduced draw calls by 1-15 depending on your view
 * Reduced the minor overdraw on the lighting grid over the stage
 * Rebaked lighting a bunch
 * Rebaked occlusion

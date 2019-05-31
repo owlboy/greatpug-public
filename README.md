@@ -24,6 +24,19 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 5/30/19 - The Great Pug
+* Updated Calendar (a few days early!)
+* Rebuilt the welcome desk - New model, simpler collision mesh, better UVs, more detail.
+* Fixed visibly disappearing ceiling when looking out of the women's bathroom (Thanks Zarniwoop! Sorry it took so long to fix!)
+* Improved Texture and Lightmap UVs and Mesh on the main bar
+* Reduced draw calls produced by the liquid in drinks (Thanks 1001!)
+* Reduced draw calls produced by walls
+* Reduced draw calls 1-15 depending on your view
+* Reduced the minor overdraw on the lighting grid over the stage
+* Rebaked lighting a bunch
+* Rebaked occlusion
+* Added LOD components to a few objects
+
 #### 5/21/19 - The Great Pug - West
 * Added a bathroom door
 * Added a mirror to the bathroom

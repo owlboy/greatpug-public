@@ -24,8 +24,16 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 6/27/19 - The Great Pug
+* Updated couches
+* Updated a few models in the back room
+* Adjusted various lightmap UVs throughout
+* Updated Patron flyers
+* Rebaked Occlusion
+* Rebaked lighting
+
 #### 6/20/19 - The Great Pug
-* Updated patreon flyers
+* Updated Patron flyers
 * Reduced the number of materials flyers use
 * Rebaked occlusion
 * Rebaked lighting

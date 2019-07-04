@@ -28,6 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Updated bathroom mirrors
 * Updated many materials
 * Improved models on light fixtures in Night View Hall
+
 #### 6/28/19 - The Great Pug
 * Updated the calendar (three days early!)
 * Updated Patron flyers

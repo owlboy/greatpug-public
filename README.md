@@ -24,7 +24,22 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 67/04/19 - The Great Pug
+#### 7/31/19 - The Great Pug
+* Added new objects: Wash Your Hands, Cloud Soap, cooler shelving, Polygonal Produce, and Your Favorite Beer 12 Pack
+* Added one `VRC_Player Audio Override` zone: Avatar Sounds are muted when in The Roost. - This is experimental, send me feedback!
+* Added new LOD Groups to some objects
+* Updated Calendar - Ohio Paddle 2019
+* Updated Patron flyers - Thank you for your support!
+* Updated the textures on Floor Mats, Restrooms/Hub sign and a few other things
+* Updated Lightmap UVs on bathroom sinks
+* Tweaked LOD distance to not cull things so early on the Index HMD
+* Fixed Reflection Probe priority in the main bar area
+* Updated glass on pickups to hopefully allow it to dynamically batch.
+* Adjusted some pillows so that they hopefully don't explode across the room when they respawn
+* SDK Version Bump - VRCSDK-2019.07.31.13.58_Public
+* Unity Version Bump - Unity 2017.4.28f1
+
+#### 7/04/19 - The Great Pug
 * Updated bathroom mirrors
 * Updated many materials
 * Improved models on light fixtures in Night View Hall

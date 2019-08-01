@@ -32,7 +32,7 @@ You can also donate crypto currency at the following addresses:
 * Updated Patron flyers - Thank you for your support!
 * Updated the textures on Floor Mats, Restrooms/Hub sign and a few other things
 * Updated Lightmap UVs on bathroom sinks
-* Tweaked LOD distance to not cull things so early on the Index HMD
+* Tweaked some LOD distances to not cull things so early on the Index HMD
 * Fixed Reflection Probe priority in the main bar area
 * Updated glass on pickups to hopefully allow it to dynamically batch.
 * Adjusted some pillows so that they hopefully don't explode across the room when they respawn

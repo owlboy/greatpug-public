@@ -24,7 +24,7 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 7/31/19 - The Great Pug
+#### 7/31/19 - The Great Pug (76mb)
 * Added new objects: Wash Your Hands, Cloud Soap, cooler shelving, Polygonal Produce, and Your Favorite Beer 12 Pack
 * Added one `VRC_Player Audio Override` zone: Avatar Sounds are muted when in The Roost. - This is experimental, send me feedback!
 * Added new LOD Groups to some objects

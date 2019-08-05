@@ -24,7 +24,16 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 08/01/19 - The Great Pug (76mb)
+#### 8/04/19 - The Great Pug (75mb)
+* Updated lightmaps in the back stairwell, bathrooms, and stage area
+* Adjusted lighting in the bathrooms
+* Added sound to radiators
+* Fixed a Patron flyer
+* Fixed ceiling lights that had scooted out of sight upwards
+* Removed a few unneeded triggers and audio sources
+* Added and adjusted LOD groups on various objects
+
+#### 8/01/19 - The Great Pug (76mb)
 * Changes to the live stream audio controls
 
 #### 7/31/19 - The Great Pug (76mb)

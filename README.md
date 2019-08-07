@@ -24,6 +24,20 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 8/6/19 - The Great Pug - West
+* Calendar Updated
+* Adjusted lighting throughout
+* Updated Urinals
+* Fixed meshes peaking through above the couch in the Restroom
+* SDK Bump: VRCSDK-2019.07.31.13.58_Public
+* Unity Bump: 2017.4.28f1
+##### Windows
+* Updated various materials to match their current versions in The Great Pug
+* Adjusted mirrors to have a max 1024 resolution to make them faster (testing)
+* Added missing ceiling light models in the bathroom
+##### Android
+* Sacrificed a draw call to get wood texture table tops, etc.
+
 #### 8/04/19 - The Great Pug (75mb)
 * Updated lightmaps in the back stairwell, bathrooms, and stage area
 * Adjusted lighting in the bathrooms

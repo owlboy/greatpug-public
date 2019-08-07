@@ -36,7 +36,7 @@ You can also donate crypto currency at the following addresses:
 * Adjusted mirrors to have a max 1024 resolution to make them faster (testing)
 * Added missing ceiling light models in the bathroom
 ##### Android
-* Sacrificed a draw call to get wood texture table tops, etc.
+* Sacrificed a draw call to place wood texture on table tops, etc.
 
 #### 8/04/19 - The Great Pug (75mb)
 * Updated lightmaps in the back stairwell, bathrooms, and stage area

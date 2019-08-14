@@ -25,6 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 8/11/19 - The Great Pug
+* Rebaked the potato, updated the asparagus
 * Updated lighting throughout the majority of the world
 * Updated many lightmap UVs
 * Reduced overdraw a bit on some ceilings and floors

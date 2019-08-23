@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 8/22/19 - The Great Pug
+* Hand tweaked all LOD Groups to work with the new LOD Fixes implemented in 2019.3.1 - Thanks [TCL987](https://github.com/TCL987), [Merlin-san](https://github.com/Merlin-san)
+* Adjusted reflection probes so they are not so aggressive in the staircase to The Roost
+
 #### 8/11/19 - The Great Pug
 * Rebaked the potato, updated the asparagus
 * Updated lighting throughout the majority of the world

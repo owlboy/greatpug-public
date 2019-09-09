@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 9/9/19 - The Great Pug
-* Adjusted Reflection Probes in The Roost, The Kitchen, Night View, and the main bar to reduce drawcalls by a few.
+* Adjusted Reflection Probes in The Roost, The Kitchen, Night View, and the main bar to reduce draw calls by a few.
 * Rebaked lighting - Fixed a few lights that were leaking into areas they should not have been
 * Adjusted light probes to work better in some situations
 * Adjusted Occlusion settings to hopefully reduce Occlusion Data processing load a bit
@@ -33,6 +33,7 @@ You can also donate crypto currency at the following addresses:
 * Adjusted some post-processing regions
 * Updated the calendar (9 days late!)
 * Updated Patron flyers
+* SDK Bump: VRCSDK-2019.08.23.13.45_Public
 
 #### 8/22/19 - The Great Pug
 * Hand tweaked all LOD Groups to work with the new LOD Fixes implemented in 2019.3.1 - Thanks [TCL987](https://github.com/TCL987), [Merlin-san](https://github.com/Merlin-san)
@@ -374,7 +375,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed offset seat stations on stools near the bar mirror (Thanks Zarniwoop!)
 * Updated some parts of the Mr. Whiskers puzzle to use Custom Triggers
 * Shined up the booth table legs
-* Reduced drawcalls by 1 or 2
+* Reduced draw calls by 1 or 2
 
 
 #### 11/06/18 (98mb)

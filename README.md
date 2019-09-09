@@ -30,7 +30,7 @@ You can also donate crypto currency at the following addresses:
 * Adjusted light probes to work better in some situations
 * Adjusted Occlusion settings to hopefully reduce Occlusion Data processing load a bit
 * Started prepping for Halloween
-* Adjusted some postprocessing regions
+* Adjusted some post-processing regions
 * Updated the calendar (9 days late!)
 * Updated Patron flyers
 

@@ -30,7 +30,7 @@ You can also donate crypto currency at the following addresses:
 * Adjusted some light intensities
 * Fixed incorrect materials on a few items
 * Adjusted a few sounds (Thanks @Zarniwoop )
-* Work continues on Halloween at The Pug 2019!
+* Work continues on Halloween at The Pug 2019! - Sat. Oct. 26th
 
 #### 9/9/19 - The Great Pug
 * Adjusted Reflection Probes in The Roost, The Kitchen, Night View, and the main bar to reduce draw calls by a few.

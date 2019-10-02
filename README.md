@@ -24,6 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 10/01/19 - The Great Pug
+* Disabled PhysSound for the time being - There is a [bug](https://github.com/owlboy/greatpug-public/issues/27) with network events that is likely causing hitches in active instances.
+* Fixed an issue where an empty glass would never fill
+* Added banners for Halloween at The Pug 2019 - Oct. 26th!
+* Updated Calendar
+* Updated Patron flyers
+* Updated materials on the red phone
+* Fixed misplaced light probes
+* Rebaked Lighting
+* Rebaked Occlusion
+* Rebaked lighting
+
 #### 9/25/19 - The Great Pug
 * Adjusted the post processing profile
 * Tweaked LOD distance on some items

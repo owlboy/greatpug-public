@@ -34,7 +34,6 @@ You can also donate crypto currency at the following addresses:
 * Fixed misplaced light probes
 * Rebaked Lighting
 * Rebaked Occlusion
-* Rebaked lighting
 
 #### 9/25/19 - The Great Pug
 * Adjusted the post processing profile

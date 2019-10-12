@@ -24,6 +24,17 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 10/11/19 - The Great Pug
+* Added table-tents for Halloween at The Pug 2019 - Oct. 26th!
+* Added a few lights to The Roost
+* Adjusted the blueness of the bathroom couch to be less intense
+* Updated Lightmap UVs on the surfaces above the main bar to fix large Lightmap artifacts at the edges
+* Updated LOD on the banner over the stairs in Night View
+* Updated some drink meshes
+* Rebaked lighting and occlusion
+
+_Work continues on Halloween at The Pug 2019!_
+
 #### 10/01/19 - The Great Pug
 * Disabled PhysSound for the time being - There is a [bug](https://github.com/owlboy/greatpug-public/issues/27) with network events that is likely causing hitches in active instances.
 * Fixed an issue where an empty glass would never fill

@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+
+#### 10/26/19 - The Great Pug
+* Halloween at The Pug - 2019
+
 #### 10/11/19 - The Great Pug
 * Added table-tents for Halloween at The Pug 2019 - Oct. 26th!
 * Added a few lights to The Roost

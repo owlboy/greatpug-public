@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/08/19 - The Great Pug
+* Worked on Occlusion Culling - Things should be much improved from the POV the the main bar area.
+* Took down the halloween lights over the bar
+* Returned to standard drink liquids - taps need to be updated.
+* Updated Patreon Flyers
+
 #### 11/01/19 - The Great Pug - West
 * Updated Calendar
 * SDK Bump - 2019.08.23.13.45

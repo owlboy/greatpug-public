@@ -24,6 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/09/19 - The Great Pug
+* Updated all light probes - This should smooth out lighting. But may have some areas where things get too dark. I'll keep fixing these areas as I find them.
+* Fixed occlusion on baseboards on the stairs to The Roost
+* Updated occlusion for various objects improving draw calls in some situations
+* Fixed ceiling lights that were moved
+* Updated hanging art
+
 #### 11/08/19 - The Great Pug
 * Worked on Occlusion Culling - Things should be much improved from the POV the the main bar area.
 * Took down the halloween lights over the bar

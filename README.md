@@ -1010,7 +1010,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * Post Halloween Party restore
 
 #### 10/24/17
-* Reflectiopn probe fixes
+* Reflection probe fixes
 * Halloween prep
 
 #### 10/13/17

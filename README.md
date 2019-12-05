@@ -337,7 +337,7 @@ _Work continues on Halloween at The Pug 2019!_
 
 #### 01/03/19 (103mb)
 * Adjustments to the live audio setup
-* Adjustments to textures and meshes to reduces the download size a bit
+* Adjustments to textures and meshes to reduce the download size a bit
 * Fixes to reflection probes (Thanks Zarniwoop!)
 * Fixed house music
 

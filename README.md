@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/05/19 - The Great Pug (Unity 2017)
+- Added a Resolution toggle to the Main Bar Mirror (Control Panel in the Back Room)
+- Updated the Calendar (5 days late!)
+- Reverted the major Light Probe changes of a few patches ago
+- Fixed multiple reflection probes that were lowered in intensity (Thanks Sentinel!)
+- Added Seasonal Decorations!
+- Updated Patreon flyers
+
 #### 11/21/19 - The Great Pug (Unity 2017)
 * Fixed some items that had double LOD groups
 * Reduced material count

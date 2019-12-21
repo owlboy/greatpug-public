@@ -24,7 +24,23 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 12/16/19 - The Great Pug (Unity 2018)
+#### 12/20/19 - The Great Pug (Unity 2017)
+* Added a foot rest at each bar
+* Added various bar mats 
+* Updated the kitchen door to have push plates
+* Improved the appearance of the holiday ribbons a bit
+* Improved the "Brass" material
+* Improved Lightmap UVs on a few objects
+* Improved LOD distance on many objects
+* Reduced the complexity of shaders on some materials
+* Reduced the number of textures inside some materials
+* Reduced material count
+* Reduced draw calls in the main bar area.
+* Removed some disabled models that were taking up space
+* Rebaked lighting
+* Rebaked occlusion
+
+#### 12/16/19 - The Great Pug (Unity 2017)
 * Fixed an errant light
 * Rebaked Occlusion
 * Fixed some UV mapping on a few textures

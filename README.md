@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 1/1/20 - The Great Pug (Unity 2017) (~97mb)
+* Decorations and music taken down
+* Fixed missing ceiling caused by going to The Roost and returning to the first floor via the back stairs. Thanks Dicidius!
+
 #### 12/31/19 - The Great Pug (Unity 2017)
 * Decorations and music for New Year's Eve!
 * Minor fixes and tweaks

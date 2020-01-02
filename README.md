@@ -27,6 +27,8 @@ You can also donate crypto currency at the following addresses:
 #### 1/1/20 - The Great Pug (Unity 2017) (~97mb)
 * Decorations and music taken down
 * Fixed missing ceiling caused by going to The Roost and returning to the first floor via the back stairs. Thanks Dicidius!
+* Updated patron flyers
+* Reduced material and texture count
 
 #### 12/31/19 - The Great Pug (Unity 2017)
 * Decorations and music for New Year's Eve!

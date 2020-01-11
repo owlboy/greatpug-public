@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Updated the calendar (11 days late)
 * Removed garland
 * Fixed the lamp out back - Thanks Mimi!
-* Fixed the background music - Thanks MehStrongbadMeh
+* Fixed the background music - Thanks MehStrongbadMeh!
 * Rebaked occlusion
 
 #### 1/1/20 - The Great Pug (Unity 2017) (~97mb)

@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 2/22/20 - The Great Pug (Unity 2017)
-* Updated Pateron Flyers
+* Updated Patreon Flyers
 * Saint Patrick's Day at The Pug is on Saturday, March 14th at Nine O'Clock Eastern
 * A coin for 2020 has been added. Thanks for the reminder Zarniwoop!
 * Finally fixed that box out back. Thanks Mimi!

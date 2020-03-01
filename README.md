@@ -29,6 +29,7 @@ You can also donate crypto currency at the following addresses:
 - Updated Saint Patrick's Day promotion
 - Updated Patreon Flyers
 - Fixed the glossy couch in restrooms
+- Removed some floating Vodka bottles that were outside the windows
 - Rebaked Occlusion
 
 #### 2/22/20 - The Great Pug (Unity 2017)

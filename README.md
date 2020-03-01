@@ -24,6 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 3/1/20 - The Great Pug (Unity 2017)
+- Updated the Calendar - Thank You 1001.
+- Updated Saint Patrick's Day promotion
+- Updated Patreon Flyers
+- Fixed the glossy couch in restrooms
+- Rebaked Occlusion
+
 #### 2/22/20 - The Great Pug (Unity 2017)
 * Updated Patreon Flyers
 * Saint Patrick's Day at The Pug is on Saturday, March 14th at Nine O'Clock Eastern

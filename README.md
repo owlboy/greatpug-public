@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 3/5/20 - The Great Pug (Unity 2017)
-- Removed some manual occlusion triggers from the main bar. This addresses #31, and removes a source of some minor hitching (major hitching on some hardware).
+- Removed some manual occlusion triggers from the main bar. This addresses [#31](https://github.com/owlboy/greatpug-public/issues/31) , and removes a source of some minor hitching (major hitching on some hardware).
 - Updated Patreon Flyers
 - Rebaked lighting
 - Rebaked Occlusion

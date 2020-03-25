@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 3/18/20 - The Great Pug (Unity 2017)
+- Party decorations have been taken down
+
+#### 3/14/20 - The Great Pug (Unity 2017)
+- Saint Patrick's at The Pug - 2020 is live
+
 #### 3/5/20 - The Great Pug (Unity 2017)
 - Removed some manual occlusion triggers from the main bar. This addresses [#31](https://github.com/owlboy/greatpug-public/issues/31) , and removes a source of some minor hitching (major hitching on some hardware).
 - Updated Patreon Flyers

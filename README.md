@@ -24,6 +24,35 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 4/1/20 - The Great Pug (Unity 2018 Update)
+- Updated calendar (Right on time)
+- Improved normals on many objects
+- Adjusted various object colors due to HDR color updates in Unity 2018
+- Updated project PPv2 to 2.3.0
+- Fixed a few missing LOD references
+- Rebaked lighting
+- Rebaked LOD
+- SDK Update - VRCSDK2 2020.03.21.12.04
+
+#### 4/1/20 - The Great Pug - West (Unity 2018 Update)
+- Updated calendar (4 months late!)
+- Adjusted various object colors due to HDR color updates in Unity 2018
+- Improved normals on many objects
+- Rebaked lighting
+- Rebaked Occlusion Culling
+- Fixed missing TeleportTo targets on ObjectRespawners (https://tinyurl.com/wrnxcwx)
+- Fixed a mis-buffered trigger
+- SDK Update - VRCSDK2 2020.03.21.12.04
+##### Windows
+- Removed PhySound (See #27 for details)
+- Brought some materials in-line with their counterparts in The Great Pug
+##### Android
+- Implemented a new metallic material
+- Updated the glass material
+- Added some missing lights
+- Reduced material count
+- Added and adjusted many LOD settings
+
 #### 3/18/20 - The Great Pug (Unity 2017)
 - Party decorations have been taken down
 

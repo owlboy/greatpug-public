@@ -44,7 +44,7 @@ You can also donate crypto currency at the following addresses:
 - Fixed a mis-buffered trigger
 - SDK Update - VRCSDK2 2020.03.21.12.04
 ##### Windows
-- Removed PhySound (See #27 for details)
+- Removed PhySound (See [#27](https://github.com/owlboy/greatpug-public/issues/27) for details)
 - Brought some materials in-line with their counterparts in The Great Pug
 ##### Android
 - Implemented a new metallic material

@@ -30,7 +30,7 @@ You can also donate crypto currency at the following addresses:
 - Adjusted various object colors due to HDR color updates in Unity 2018
 - Updated project PPv2 to 2.3.0
 - Fixed a few missing LOD references
-- Rebaked lighting - Thanks [scruffyrules](https://github.com/scruffyrules)for the help!
+- Rebaked lighting - Thanks [scruffyrules](https://github.com/scruffyrules) for the help!
 - Rebaked LOD
 - SDK Update - VRCSDK2 2020.03.21.12.04
 
@@ -38,7 +38,7 @@ You can also donate crypto currency at the following addresses:
 - Updated calendar (4 months late!)
 - Adjusted various object colors due to HDR color updates in Unity 2018
 - Improved normals on many objects
-- Rebaked lighting - Thanks [scruffyrules](https://github.com/scruffyrules)for the help!
+- Rebaked lighting - Thanks [scruffyrules](https://github.com/scruffyrules) for the help!
 - Rebaked Occlusion Culling
 - Fixed missing TeleportTo targets on ObjectRespawners (https://tinyurl.com/wrnxcwx)
 - Fixed a mis-buffered trigger

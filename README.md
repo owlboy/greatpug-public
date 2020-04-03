@@ -26,13 +26,12 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 ### 4/2/20-4/3/20 - The Great Pug - {500}
 * Fixed geometry holes in the keypad shelf in the main bar
-* Improved materials on many more objects - work-in-progress
+* Improved materials on many objects - work-in-progress
 * Improved normals on various meshes
 * Improved environment lighting
-* Improved the appearance of many materials
 * Improved batching/reduced draw calls throughout
 * Improved the skybox
-* Fixed a missing Reflection Probe one one of the booths
+* Fixed a missing Reflection Probe in one of the booths
 * Fixed and improved Post Processing
 * Fixed Lightmap UVs on many objects
 * Rebaked lighting

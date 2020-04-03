@@ -24,6 +24,20 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+### 4/2/20-4/3/20 - The Great Pug - {500}
+* Fixed geometry holes in the keypad shelf in the main bar
+* Improved materials on many more objects - work-in-progress
+* Improved normals on various meshes
+* Improved environment lighting
+* Improved the appearance of many materials
+* Improved batching/reduced draw calls throughout
+* Improved the skybox
+* Fixed a missing Reflection Probe one one of the booths
+* Fixed and improved Post Processing
+* Fixed Lightmap UVs on many objects
+* Rebaked lighting
+* Rebaked occlusion
+
 #### 4/1/20 - The Great Pug (Unity 2018 Update)
 - Updated calendar (Right on time)
 - Improved normals on many objects

@@ -26,7 +26,7 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 ### 4/10/20 - The Great Pug
 * Overhauled lighting
-* Upgraded the shader used on many materials (Thanks [Xiexe](https://github.com/Xiexe) - XSEnvironment)
+* Upgraded the shader used for many materials (Thanks [Xiexe](https://github.com/Xiexe) - XSEnvironment)
 * Adjusted and improved many materials
 * Improved normals on many meshes
 * Adjusted LOD levels on various objects

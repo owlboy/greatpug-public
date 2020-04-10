@@ -24,6 +24,16 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+### 4/10/20 - The Great Pug
+* Overhauled lighting
+* Upgraded the shader used on many materials (Thanks [Xiexe](https://github.com/Xiexe) - XSEnvironment)
+* Adjusted and improved many materials
+* Improved normals on many meshes
+* Adjusted LOD levels on various objects
+* Removed a couple draw calls
+* Rebaked lighting (a lot)
+* Rebaked occlusion
+
 ### 4/2/20-4/3/20 - The Great Pug - {500}
 * Fixed geometry holes in the keypad shelf in the main bar
 * Improved materials on many objects - work-in-progress

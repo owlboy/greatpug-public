@@ -24,6 +24,9 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+### 4/18/20 - The Great Pug
+- Updates to hopefully mitigate the network traffic problems introduced in VRChat 2020.x. ([Issue #34](https://github.com/owlboy/greatpug-public/issues/34#issuecomment-615578528))
+
 ### 4/12/20 - The Great Pug
 * Adjusted lighting brightness
 * Added ambient sound out back

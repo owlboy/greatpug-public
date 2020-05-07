@@ -28,8 +28,8 @@ You can also donate crypto currency at the following addresses:
 * Updated Calendar (7 days late!)
 * Fixed an issue causing the event board script to throw errors (Thanks @TCL987!)
 * Fixed a pickup that collided with players
-* Broke the collision on the first floor ([Issue #35](https://github.com/owlboy/greatpug-public/issues/35))
-* Fixed the collision on the first floor ([Issue #35](https://github.com/owlboy/greatpug-public/issues/35))
+* Broke the collision on the first floor ([Issue #36](https://github.com/owlboy/greatpug-public/issues/36))
+* Fixed the collision on the first floor ([Issue #36](https://github.com/owlboy/greatpug-public/issues/36))
 
 ### 4/21/20 - The Great Pug
 * Found the missing rose.

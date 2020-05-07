@@ -26,8 +26,10 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 ### 5/7/20 - The Great Pug (VRCSDK2)
 * Updated Calendar (7 days late!)
-* Fixed the event board script throwing errors
+* Fixed an issue causing the event board script to throw errors (Thanks @TCL987!)
 * Fixed a pickup that collided with players
+* Broke the collision on the first floor ([Issue #35](https://github.com/owlboy/greatpug-public/issues/35))
+* Fixed the collision on the first floor ([Issue #35](https://github.com/owlboy/greatpug-public/issues/35))
 
 ### 4/21/20 - The Great Pug
 * Found the missing rose.

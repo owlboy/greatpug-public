@@ -29,7 +29,7 @@ You can also donate crypto currency at the following addresses:
 * Rebaked lighting
 * Rebaked occlusion
 * Fixed the whiskey bottle
-* Updated Patreon Flyers
+* Updated Patreon flyers
 
 #### 5/7/20 - The Great Pug (VRCSDK2)
 * Updated Calendar (7 days late!)

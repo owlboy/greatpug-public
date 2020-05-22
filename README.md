@@ -24,20 +24,27 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-### 5/7/20 - The Great Pug (VRCSDK2)
+#### 5/21/20 - The Great Pug (VRCSDK2)
+* Improved lightmap UVs in some areas
+* Rebaked lighting
+* Rebaked occlusion
+* Fixed the whiskey bottle
+* Updated Patreon Flyers
+
+#### 5/7/20 - The Great Pug (VRCSDK2)
 * Updated Calendar (7 days late!)
 * Fixed an issue causing the event board script to throw errors (Thanks @TCL987!)
 * Fixed a pickup that collided with players
 * Broke the collision on the first floor ([Issue #36](https://github.com/owlboy/greatpug-public/issues/36))
 * Fixed the collision on the first floor ([Issue #36](https://github.com/owlboy/greatpug-public/issues/36))
 
-### 4/21/20 - The Great Pug
+#### 4/21/20 - The Great Pug
 * Found the missing rose.
 
-### 4/18/20 - The Great Pug
+#### 4/18/20 - The Great Pug
 * Updates to hopefully mitigate the network traffic problems introduced in VRChat 2020.x. ([Issue #34](https://github.com/owlboy/greatpug-public/issues/34#issuecomment-615578528))
 
-### 4/12/20 - The Great Pug
+#### 4/12/20 - The Great Pug
 * Adjusted lighting brightness
 * Added ambient sound out back
 * Adjusted music volume
@@ -46,7 +53,7 @@ You can also donate crypto currency at the following addresses:
 * Rebaked occlusion
 * Rebaked lighting
 
-### 4/10/20 - The Great Pug
+#### 4/10/20 - The Great Pug
 * Overhauled lighting
 * Upgraded the shader used for many materials (Thanks [Xiexe](https://github.com/Xiexe) - XSEnvironment)
 * Put up some Saint Patrick's Day at The Pug 2020 photos
@@ -57,7 +64,7 @@ You can also donate crypto currency at the following addresses:
 * Rebaked lighting (a lot)
 * Rebaked occlusion
 
-### 4/2/20-4/3/20 - The Great Pug - {500}
+#### 4/2/20-4/3/20 - The Great Pug - {500}
 * Fixed geometry holes in the keypad shelf in the main bar
 * Improved materials on many objects - work-in-progress
 * Improved normals on various meshes

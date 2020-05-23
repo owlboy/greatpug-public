@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 5/23/20 - The Great Pug (VRCSDK2)
+* Rebaked lighting
+* Adjusted Post Processing a bit
+* Fixed reflection probes
+* Other minor fixes
+
 #### 5/21/20 - The Great Pug (VRCSDK2)
 * Improved lightmap UVs in some areas
 * Rebaked lighting

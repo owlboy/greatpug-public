@@ -24,6 +24,46 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 6/26/20 - The Great Pug (VRCSDK3)
+- Updated to VRCSDK3-UDON-2020.06.16.20.53_Public
+- Improved lightmap UVs on many objects.
+- Improved normals on many objects.
+- Improved the brightness of lighting in some areas (Thanks, Poplopo!)
+- Improved light probes
+- Improved scene hierarchy, somewhat
+- Reduced the number of Standard shader variants present
+- Reduced off-screen vertex count in some cases
+- Reduced shader count
+- Reduced material count
+- Reduced shader variants (Thanks TCL!)
+- Reduced draw calls
+- Rebaked Occlusion
+- Rebaked Lighting (many times)
+- Reduced bundle size (Thanks TCL!)
+- Removed pano script (Missing in SDK3)
+- Removed SyncVideoStream (Missing in SDK3)
+- Removed Mimi Lock (Thanks, Mimi! Thanks, Euan!)
+
+##### Improved models
+- Pint glasses
+- Wine glasses
+- Tumbler glasses
+- Whiskey Bottle
+- The VooDoo Brew bottle
+- Wine bottles
+- Barstools
+- Table chairs
+
+##### Udon
+- Reimplemented and enhanced the bell
+- Reimplemented manual occlusion
+- Reimplemented all stations (they can be sat in)
+- Reimplemented all pickups (they can be picked up. Sound and pickup respawn were previously removed in the fall and spring due to VRChat bugs not yet fixed in SDK2. Both features must be re-engineered using Udon.)
+- Reimplemented the puzzle for The Hunt - Calamity Code
+- Enhanced the whiskey bottle
+- Reimplemented Mirrors
+- Enabled jump
+
 #### 5/23/20 - The Great Pug (VRCSDK2)
 * Rebaked lighting
 * Adjusted Post Processing a bit

@@ -43,6 +43,7 @@ You can also donate crypto currency at the following addresses:
 - Removed pano script (Missing in SDK3)
 - Removed SyncVideoStream (Missing in SDK3)
 - Removed Mimi Lock (Thanks, Mimi! Thanks, Euan!)
+- Disabled Ownership Transfer on Collision on all UdonBehaviors (Thanks Phaxe!)
 
 ##### Improved models
 - Pint glasses

@@ -24,6 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 6/27/20 - The Great Pug (VRCSDK3)
+- Fixed missing table colliders in The Roost
+- Added missing geometry on some wood trim in the main bar
+- Adjusted lighting some more
+- Updated UVs and materials on the radiators
+- Fixed lightmap UVs on a few objects
+
 #### 6/26/20 - The Great Pug (VRCSDK3)
 - Updated to VRCSDK3-UDON-2020.06.16.20.53_Public
 - Improved lightmap UVs on many objects.

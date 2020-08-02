@@ -24,6 +24,13 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 8/1/20 - The Great Pug (VRCSDK3)
+* Activated emergency Smörgåstårta
+* Added avatar light toggle
+* Updated Calendar
+* Rebaked Occlusion
+* Rebaked Lighting
+
 #### 7/27/20 - The Great Pug (VRCSDK3)
 - Removed all pickups ( https://github.com/owlboy/greatpug-public/issues/34 )
 - Updated the calendar. (30 days late)

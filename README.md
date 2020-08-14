@@ -27,6 +27,7 @@ You can also donate crypto currency at the following addresses:
 #### 8/13/20 - The Great Pug (VRCSDK3)
 * Updated Patreon Flyers
 * Overall lighting adjustments
+* New toilet models - In Progress
 * Rebaked Lighting
 * Improved light maps on various object
 * New are in The Roost

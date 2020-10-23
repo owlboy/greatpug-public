@@ -32,8 +32,8 @@ You can also donate crypto currency at the following addresses:
 * Updated the environment shader (Thanks [Xiexe](https://github.com/Xiexe) - XSEnvironment)
 
 #### 10/13/20 - The Great Pug (VRCSDK3)
-* Updated calendar (13 days late :sweaty_pressure: )
-* Added Halloween at The Pug promotional banners and table tents. :vrcJackoLantern: 
+* Updated calendar (13 days late)
+* Added Halloween at The Pug promotional banners and table tents. 🎃 
 
 Work continues on Halloween at The Pug! I hope to have the signup form ready to go by Friday for the private instances! It'll work just like parties past!
 

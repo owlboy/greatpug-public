@@ -24,6 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+
+#### 10/23/20 - The Great Pug (VRCSDK3)
+* Fixed the layer for the bucket. ([Issue #40](https://github.com/owlboy/greatpug-public/issues/40)) Thanks @Isaac1475!
+* Rebaked occlusion
+* Updated banner texture
+
+#### 10/13/20 - The Great Pug (VRCSDK3)
+* Updated calendar (13 days late :sweaty_pressure: )
+* Added Halloween at The Pug promotional banners and table tents. :vrcJackoLantern: 
+
+Work continues on Halloween at The Pug! I hope to have the signup form ready to go by Friday for the private instances! It'll work just like parties past!
+
 #### 9/25/20 - The Great Pug (VRCSDK3)
 * Pickups turned back on
 

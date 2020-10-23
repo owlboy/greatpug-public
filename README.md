@@ -29,6 +29,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed the layer for the bucket. ([Issue #40](https://github.com/owlboy/greatpug-public/issues/40)) Thanks @Isaac1475!
 * Rebaked occlusion
 * Updated banner texture
+* Updated the environment shader (Thanks [Xiexe](https://github.com/Xiexe) - XSEnvironment)
 
 #### 10/13/20 - The Great Pug (VRCSDK3)
 * Updated calendar (13 days late :sweaty_pressure: )

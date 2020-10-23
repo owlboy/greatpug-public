@@ -35,7 +35,7 @@ You can also donate crypto currency at the following addresses:
 * Updated calendar (13 days late)
 * Added Halloween at The Pug promotional banners and table tents. 🎃 
 
-Work continues on Halloween at The Pug! I hope to have the signup form ready to go by Friday for the private instances! It'll work just like parties past!
+Work continues on Halloween at The Pug!
 
 #### 9/25/20 - The Great Pug (VRCSDK3)
 * Pickups turned back on

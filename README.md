@@ -24,7 +24,17 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/2/20 - The Great Pug (VRCSDK3)
+* The Yule Goat has risen once again! 🐐 🔥
+* Improved light map UVs on various objects
+* Repainted the ceiling in The Roost and some walls in the bathrooms.
+* Adjusted light reflections on various materials
+* Made The Roost and various other areas dimmer again
+* Fixed up the orchid
+* Rebaked lighting
+* Rebaked Occlusion
 
+Note: Bug reports big and small are very welcome! Posting an issue on GitHub works best, but you can also DM me on Discord.
 #### 10/23/20 - The Great Pug (VRCSDK3)
 * Fixed the layer for the bucket. ([Issue #40](https://github.com/owlboy/greatpug-public/issues/40)) Thanks @Isaac1475!
 * Rebaked occlusion

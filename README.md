@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 1/12/21 - The Great Pug (VRCSDK3)
+* Updated Calendar
+* Added a coin for 2021
+* Took down the holiday decorations
+* Rebaked lighting and Occlusion
+
+* Known Issue: The download size is larger than expected.
+
 #### 12/2/20 - The Great Pug (VRCSDK3)
 * The Yule Goat has risen once again! 🐐 🔥
 * Improved light map UVs on various objects

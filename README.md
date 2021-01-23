@@ -24,7 +24,7 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### The Great Pug - 01/20/21
+#### 01/20/21 The Great Pug (VRCSDK3)
 * Fixed an issue with various common objects not being batched or GPU instanced due to a "broken" shader. (Thanks, @TCL!)
 * Fixed an issue with other objects not being batched or GPU instanced due to using a shader that does not support Instancing (and forgetting that the shader did not support it yet).
 * Reduced Shader count

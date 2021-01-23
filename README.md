@@ -24,6 +24,20 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### The Great Pug - 01/20/21
+* Fixed an issue with various common objects not being batched or GPU instanced due to a "broken" shader. (Thanks, @TCL!)
+* Fixed an issue with other objects not being batched or GPU instanced due to using a shader that does not support Instancing (and forgetting that the shader did not support it yet).
+* Reduced Shader count
+* Reduced overall material count
+* Additional small draw call reductions in some areas
+* Fixed some odd shadows caused by incorrect geometry above the basement door.
+* Improved light maps UVs on small booths near the corner booth.
+* Updated Patron flyers
+* Removed Christmas boxes
+* Fixed small boxes hiding in the walls by the bathrooms
+* Rebaked Occlusion
+* Rebaked Lighting
+
 #### 1/12/21 - The Great Pug (VRCSDK3)
 * Updated Calendar
 * Added a coin for 2021

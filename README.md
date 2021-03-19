@@ -24,7 +24,25 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 01/20/21 The Great Pug (VRCSDK3)
+#### 03/19/21 - The Great Pug (VRCSDK3)
+* Removed decorations and music from Saint Patrick's at The Pug
+* Stations continue to be disabled
+* Restored a limited number of pickups
+* Player count continues to be 40. Let me know what you think of the new higher limit. ([Discussions Post](https://github.com/owlboy/greatpug-public/discussions/43))
+
+#### 03/13/21 - The Great Pug (VRCSDK3)
+* Saint Patrick's at The Pug - 2021 ☘️
+* Stations disabled
+* Taps are back to doing what they use to in SDK2
+* Player count raised to 40 (Thanks Mimi!)
+
+#### 02/11/21 - The Great Pug (VRCSDK3)
+* Updated Patron flyers
+* Updated the calendar (11 days late!)
+
+#### 02/01/2021 - The Great Pug 🎂
+
+#### 01/20/21 - The Great Pug (VRCSDK3)
 * Fixed an issue with various common objects not being batched or GPU instanced due to a "broken" shader. (Thanks, @TCL!)
 * Fixed an issue with other objects not being batched or GPU instanced due to using a shader that does not support Instancing (and forgetting that the shader did not support it yet).
 * Reduced Shader count

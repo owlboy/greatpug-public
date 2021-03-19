@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 03/19/21 - The Great Pug (VRCSDK3)
-* Removed decorations and music from Saint Patrick's at The Pug
+* Removed party decorations and music
 * Stations continue to be disabled
 * Restored a limited number of pickups
 * Player count continues to be 40. Let me know what you think of the new higher limit. ([Discussions Post](https://github.com/owlboy/greatpug-public/discussions/43))

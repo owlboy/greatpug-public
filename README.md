@@ -24,6 +24,25 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/23/21 - The Great Pug (VRCSDK3)
+* Stations are back - VRChat fixed the bug with instance masters stuck in stations
+* Reduced download size
+* Updated overall lighting
+* Added rate limiting to the bar taps
+* Added additional rate-limiting to the bell
+* Restored additional pickups
+* Restored avatar light toggle
+* Fixed lightmap artifacts in various areas
+* Fixed issue with bell not ringing in your current area
+* Fixed issue with intractable items in the back room being difficult or impossible to interact with
+* Updated calendar
+* Updated flyers
+* Updated Post Processing in the project to v3.0.3.
+* Updated VRChat SDK - VRCSDK3-WORLD-2021.03.22.18.27_Public
+* Updated UdonSharp - UdonSharp_v0.19.7
+* Player count continues to be 40. Let me know what you think of the new higher limit. ([Discussions Post](https://github.com/owlboy/greatpug-public/discussions/43))
+* Misc changes and fixes
+
 #### 03/19/21 - The Great Pug (VRCSDK3)
 * Removed party decorations and music
 * Stations continue to be disabled

@@ -24,7 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 03/23/21 - The Great Pug (VRCSDK3)
+#### 04/15/21 - The Great Pug (VRCSDK3)
+* Updated flyers
+* Fixed some missing collision
+* Restored additional pickups
+
+#### 04/02/21 - The Great Pug (VRCSDK3)
 * Stations are back - VRChat fixed the bug with instance masters stuck in stations
 * Reduced download size
 * Updated overall lighting

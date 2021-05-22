@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 05/22/21 - The Great Pug (VRCSDK3)
+* Reimplemented pickup respawning. Thanks Danly!
+* Reimplemented more pickups
+* Updated Calendar (22 Days late!)
+* Updated Patron flyers
+* Updated VRChat SDK - VRCSDK3-WORLD-2021.05.21.12.13_Public
+* Updated UdonSharp - UdonSharp_v0.19.11
+* Misc changes
+* 
 #### 04/15/21 - The Great Pug (VRCSDK3)
 * Updated flyers
 * Fixed some missing collision

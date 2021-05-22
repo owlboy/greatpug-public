@@ -32,7 +32,7 @@ You can also donate crypto currency at the following addresses:
 * Updated VRChat SDK - VRCSDK3-WORLD-2021.05.21.12.13_Public
 * Updated UdonSharp - UdonSharp_v0.19.11
 * Misc changes
-* 
+
 #### 04/15/21 - The Great Pug (VRCSDK3)
 * Updated flyers
 * Fixed some missing collision

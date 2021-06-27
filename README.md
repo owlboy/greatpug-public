@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+**06/26/21 - The Great Pug** (VRCSDK3)
+* Fixed issue where pickups were never safe from respawn
+* Improvements to pickup interactions on tables near fireplace
+* Removal of some unneeded interactions between layers in the collision matrix
+* Misc progress regarding rose water
+
 #### 06/25/21 - The Great Pug (VRCSDK3)
 * Adjusted pickup respawning a bit
 * Fixed the music

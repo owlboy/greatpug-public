@@ -24,7 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-**06/26/21 - The Great Pug** (VRCSDK3)
+#### 07/28/21 - The Great Pug (VRCSDK3)
+* Added photos from H20 and SPD21 :heart:
+* Updated Patron Flyers
+* Adjusted some LOD levels to be less aggressive (Thanks @salbug )
+* Misc changes
+
+#### 07/16/21 - The Great Pug (VRCSDK3)
+* New bottle for The Voodoo Brew
+* Patron flyer fix
+* Updated calendar (16 Days late!)
+
+#### 06/26/21 - The Great Pug (VRCSDK3)
 * Fixed issue where pickups were never safe from respawn
 * Improvements to pickup interactions on tables near fireplace
 * Removal of some unneeded interactions between layers in the collision matrix

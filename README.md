@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/06/21 - The Great Pug (VRCSDK3) (2018.4.20f1)
+• Fixed a horrifyingly large number of missing Udon Behaviours 😨
+• Updated Patron Flyers
+• Updated some pickups
+• Updated the calendar (5 days late!)
+• May or may not have removed an errant real time light
+• Misc changes
+
 #### 07/28/21 - The Great Pug (VRCSDK3)
 * Added photos from H20 and SPD21 :heart:
 * Updated Patron Flyers

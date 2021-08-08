@@ -32,6 +32,7 @@ You can also donate crypto currency at the following addresses:
 * Raised the volume on many audio sources
 * Reduced shader count
 * Attempted to fix some stations not working – Thanks @mrpinkie#5710 !
+* Added GPU instancing to fire particles
 * Updated: VRCSDK3-WORLD-2021.07.12.18.53_Public
 * Updated: UdonSharp_v0.20.0
 * Shoutout: EsnyaUnityTools

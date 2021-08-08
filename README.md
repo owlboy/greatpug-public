@@ -29,6 +29,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed back staircase lights being missing (finally)
 * Validated the albedo on many materials
 * Fixed two more broken Udon behaviours
+* Raised the volume on many objects
 * Attempted to fix some stations not working – Thanks @mrpinkie#5710 !
 * Updated: VRCSDK3-WORLD-2021.07.12.18.53_Public
 * Updated: UdonSharp_v0.20.0

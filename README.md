@@ -24,6 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/07/21 - The Great Pug** (VRCSDK3) (2018.4.20f1)
+* Brightened up some areas
+* Fixed back staircase lights being missing (finally)
+* Validated the albedo on many materials
+* Fixed two more broken Udon behaviours
+* Attempted to fix some stations not working – Thanks @mrpinkie#5710 !
+* Updated: VRCSDK3-WORLD-2021.07.12.18.53_Public
+* Updated: UdonSharp_v0.20.0
+* Shoutout: EsnyaUnityTools
+* Shoutout: CyanEmu.v0.3.9
+* Shoutout: VRWorldToolkitV1.11.2
+
 #### 08/06/21 - The Great Pug (VRCSDK3) (2018.4.20f1)
 * Fixed a horrifyingly large number of missing Udon Behaviours 😨 
 * Updated Patron Flyers

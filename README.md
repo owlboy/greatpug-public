@@ -24,6 +24,30 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/01/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Removed party decorations
+* Updated patron flyers
+* Updated calendar! (Zero days late (in my time zone!))
+
+#### 11/01/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Removed music and associated visuals and lights.
+
+#### 10/30/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Lowered the dimensions and bitrate of the music visuals.
+
+#### 10/29/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated to turn off the resync video feature on the video player.
+
+#### 10/29/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* The Fifth Annual Halloween at The Pug!
+* Updated patron flyers
+
+#### 10/14/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Upgraded Lighting!
+* Added table-tents promoting Halloween at The Pug (The Fifth one!) ⚡ 
+* Adjusted some materials
+* Rebaked Occlusion - some parts were missing.
+
 #### 10/03/21 - The Great Pug (VRCSDK3) (2018.4.20f1)
 * Updated patron flyers
 * Updated calendar - Only 3 Days Late

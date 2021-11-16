@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 11/15/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Removed duplicate Udon Behaviors unexpectedly found on some stations. (An attempt to address [Issue #47](https://github.com/owlboy/greatpug-public/issues/47) Thanks @farfelu!)
+* Stations with Udon sync modes set to "none" are now set to "manual" (An attempt to address [Issue #47](https://github.com/owlboy/greatpug-public/issues/47) Thanks @farfelu!)
+
 #### 11/01/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Removed party decorations
 * Updated patron flyers

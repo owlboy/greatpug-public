@@ -24,6 +24,19 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/31/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Overhauled shaders, materials, lighting, and post processing
+* Reintroduced the White Russian drink/pickup
+* Reintroduced the good book: Five Six.
+* Fixed misc materials
+* Fixed some Lightmap UVs
+* Fixed misc script linking issues
+* Reduced material count a bit
+* Updated Patron flyers
+* Rebaked occlusion
+* SDK Bump - VRCSDK3-WORLD-2021.11.24.16.19_Public
+
+
 #### 12/02/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * The Yule Goat has risen once again! 🐐🔥
 * Station toggles are back!

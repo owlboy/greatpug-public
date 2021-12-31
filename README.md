@@ -25,10 +25,10 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 12/31/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
-* Overhauled shaders, materials, lighting, and post processing
+* Overhauled shaders, materials, lighting, and post processing - Now using Filamented by @Silent
 * Reintroduced the White Russian drink/pickup
 * Reintroduced the good book: Five Six
-* Fixed a broken relfection probe in the main bar - Thanks Dudeberry!
+* Fixed a broken reflection probe in the main bar - Thanks @Dudeberry!
 * Fixed misc materials
 * Fixed some Lightmap UVs
 * Fixed misc script linking issues
@@ -92,7 +92,7 @@ You can also donate crypto currency at the following addresses:
 * Updated Patron flyers
 * Reverted post processing changes
 
-#### 08/07/21 - The Great Pug** (VRCSDK3) (2018.4.20f1)
+#### 08/07/21 - The Great Pug (VRCSDK3) (2018.4.20f1)
 * Brightened up some areas
 * Fixed back staircase lights being missing (finally)
 * Validated the albedo on many materials

@@ -27,7 +27,8 @@ You can also donate crypto currency at the following addresses:
 #### 12/31/21 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Overhauled shaders, materials, lighting, and post processing
 * Reintroduced the White Russian drink/pickup
-* Reintroduced the good book: Five Six.
+* Reintroduced the good book: Five Six
+* Fixed a broken relfection probe in the main bar - Thanks Dudeberry!
 * Fixed misc materials
 * Fixed some Lightmap UVs
 * Fixed misc script linking issues

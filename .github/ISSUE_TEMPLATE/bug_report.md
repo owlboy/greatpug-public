@@ -6,20 +6,16 @@ labels: ''
 assignees: ''
 ---
 
-**Describe the Bug**
-<!-- A clear and concise description of what the bug is. -->
+**Describe the Bug** <!-- A clear and concise description of what the bug is. -->
 
 
-**Steps To Reproduce**
-<!-- steps to reproduce the behavior: -->
+**Steps To Reproduce** <!-- steps to reproduce the behavior: -->
 
 
-**Expected Behavior**
-<!-- A clear and concise description of what you expected to happen. -->
+**Expected Behavior** <!-- A clear and concise description of what you expected to happen. -->
 
 
-**Screenshots**
-<!-- If applicable, add screenshots to help explain your problem. -->
+**Screenshots** <!-- If applicable, add screenshots to help explain your problem. -->
 
 
 **OutputLog**
@@ -29,7 +25,6 @@ assignees: ''
 **Are you in VR or Desktop mode?**
 
 
-**Additional Context**
-<!-- Add any other context about the problem here. -->
+**Additional Context** <!-- Add any other context about the problem here. -->
 
 

@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 02/19/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated Filamented to the 03 Feb, 2022 commit eacebb25
+* Updated Patron flyers
+* Updated the calendar (19 days late!)
+* Misc fixes and adjustments
+
+* Work has begun on Saint Patrick's at the Pug! Saturday March 19th! ☘️🌈
+* Keep an eye out for a major visual update to Pug West! Coming Soon, _as they say!_
+
 #### 01/08/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Added the 2022 coin - Thanks Korro Bravin!
 * Fixed pickup home locations for some pickups

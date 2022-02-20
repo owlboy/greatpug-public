@@ -29,7 +29,7 @@ You can also donate crypto currency at the following addresses:
 * Updated Patron flyers
 * Updated the calendar (19 days late!)
 * Misc fixes and adjustments
-
+#### 
 * Work has begun on Saint Patrick's at the Pug! Saturday March 19th! ☘️🌈
 * Keep an eye out for a major visual update to Pug West! Coming Soon, _as they say!_
 

@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/04/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Placed Banners and table-tents for Saint Patrick's at The Pug! Saturday • March 19th • 7pm PST! ☘️🌈
+* Improved light probes in The Roost, both bathrooms and the back utility room (Please report any dark spots!)
+* Updated Patron flyers
+* Updated the calendar (3 days late!)
+* Rebaked lighting
+* Rebaked occlusion
+* Misc fixes and adjustments
+
 #### 02/19/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated Filamented to the 03 Feb, 2022 commit eacebb25
 * Updated Patron flyers

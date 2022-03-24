@@ -24,6 +24,20 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/23/22 - The Great Pug
+* Removed Saint Patrick's Day decorations
+
+#### 03/21/22 - The Great Pug
+* Music removed. Decorations will be removed in the next day or so.
+
+#### 03/19/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* The sixth annual Saint Patrick's at The Pug is live! ☘️
+* Updated Patron flyers
+* Fixed lighting on Kirito's swords
+* Rebaked lighting
+* Rebaked occlusion
+* Lots of Misc fixes and adjustments
+
 #### 03/04/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Placed Banners and table-tents for Saint Patrick's at The Pug! Saturday • March 19th • 7pm PST! ☘️🌈
 * Improved light probes in The Roost, both bathrooms and the back utility room (Please report any dark spots!)

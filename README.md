@@ -24,10 +24,23 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 03/23/22 - The Great Pug
+
+#### 03/25/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the metallic textures in various materials…
+* Updated lighting throughout the world for a better balance (the battle is never over!)
+* Enabled a Pug logo on the welcome desk that I made years ago and forgot to come back to!
+* Removed extra lights in the lamp in The Roost
+* Fixed lightmaps on condenser units out back
+* Fixed bright spots in the soot in the chimney
+* Adjusted/fixed various meshes
+* Updated LOD components on various objects
+* Updated Filamented shader to commit `a9f05411aff22af8a86f0c0cce6fab69e7b08c8f`
+* Rebaked occlusion
+
+#### 03/23/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Removed Saint Patrick's Day decorations
 
-#### 03/21/22 - The Great Pug
+#### 03/21/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Music removed. Decorations will be removed in the next day or so.
 
 #### 03/19/22 - The Great Pug (VRCSDK3) (2019.4.31f1)

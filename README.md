@@ -24,6 +24,18 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/28/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Fixed missing metal Pug logo on the front desk - it was still marked EditorOnly
+* Fixed missing music!
+* Fixed missing items reflected in the bar mirror
+* Fixed post processing in The Roost
+* Adjusted the lighting a bit more
+* Restored a piece of paper in The Roost
+
+#### 03/28/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated many, many materials and adjusted lighting throughout! – This brings an overall improvement to the correctness of lighting in every area of The Pug.
+* Reimplemented the coffee pot
+* Misc fixes and adjustments
 
 #### 03/25/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated the metallic textures in various materials…

@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 03/29/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the sync mode for all local scripts
+* Adjusted lighting even more ⚔️
+* Rebaked occlusion
+* 
 #### 03/28/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Fixed missing metal Pug logo on the front desk - it was still marked EditorOnly
 * Fixed missing music!

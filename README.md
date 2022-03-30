@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses:
 * Updated the sync mode for all local scripts
 * Adjusted lighting even more ⚔️
 * Rebaked occlusion
-* 
+
 #### 03/28/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Fixed missing metal Pug logo on the front desk - it was still marked EditorOnly
 * Fixed missing music!

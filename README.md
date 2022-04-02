@@ -24,6 +24,15 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 04/02/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the sync mode for a few more scripts
+* Reduced overdraw a bit when looking towards the kitchen from the main bar
+* Adjusted LOD on various objects
+
+#### 04/01/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the calendar (Zero days late!)
+* Misc minor changes
+
 #### 03/29/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated the sync mode for all local scripts
 * Adjusted lighting even more ⚔️

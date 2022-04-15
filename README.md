@@ -24,6 +24,12 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 04/14/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Removed a bunch of errant light-probes that were in and around the main bar booths - Thanks Orkel!
+* Fix an issue where pickups would fall a bit below the floor near the main bar - Thanks Froggi and others!
+* Updated patron flyers
+* Misc minor changes
+
 #### 04/02/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated the sync mode for a few more scripts
 * Reduced overdraw a bit when looking towards the kitchen from the main bar

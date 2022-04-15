@@ -1,4 +1,4 @@
-![The Great Pug - Main bar area](http://thegreatpug.com/img/pug_bar.jpg?)
+![The Great Pug - Main bar area](http://thegreatpug.com/img/pug_bar.jpg?&)
 
 # The Great Pug and The Great Pug - West
 A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a smaller sister bar called The Great Pug - West!

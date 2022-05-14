@@ -32,7 +32,7 @@ You can also donate crypto currency at the following addresses:
 
 #### 04/14/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Removed a bunch of errant light-probes that were in and around the main bar booths - Thanks Orkel!
-* Fix an issue where pickups would fall a bit below the floor near the main bar - Thanks Froggi and others!
+* Fixed an issue where pickups would fall a bit below the floor near the main bar - Thanks Froggi and others!
 * Updated patron flyers
 * Misc minor changes
 

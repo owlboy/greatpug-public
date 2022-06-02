@@ -8,7 +8,7 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
  
 
 ### This Repository
-This repository is the public sister repository to the private repository for The Great Pugs.
+This repository is the public sister repository to the private repository for The Great Pug.
 
 #### Bug Reports and Feature Requests
 Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) feature of this repository to report bugs or make feature requests relating to The Great Pug.

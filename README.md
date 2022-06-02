@@ -25,7 +25,7 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 06/01/22 - The Great Pug** (VRCSDK3) (2019.4.31f1)
-* Fixed the hole in the first-floor ceiling [#52](https://github.com/owlboy/greatpug-public/issues/52). Thanks @luii and others who reported this!
+* Fixed the hole in the first-floor ceiling. [#52](https://github.com/owlboy/greatpug-public/issues/52) Thanks @luii and others who reported this!
 * Updated patron flyers
 * Updated the calendar (On time!)
 * Rebaked occlusion and lighting
@@ -37,8 +37,8 @@ You can also donate crypto currency at the following addresses:
 * Switched to Filamented Shader and reworked the lighting! - Pug West now looks much more similar to The Great Pug. In addition, the Android version now looks very similar to the Windows version!
 * Updated calendar (448 days late! + On time!)
 * Added dynamic liquid to drinks
-* Added The VooDoo Brew! [#35](https://github.com/owlboy/greatpug-public/issues/35). Sorry for the delay @SteveBH_!
-* Fixed tooltips on beer taps [#38](https://github.com/owlboy/greatpug-public/issues/38). Sorry for the delay @Oofmastre9000!
+* Added The VooDoo Brew! [#35](https://github.com/owlboy/greatpug-public/issues/35) Sorry for the delay @SteveBH_!
+* Fixed tooltips on beer taps. [#38](https://github.com/owlboy/greatpug-public/issues/38) Sorry for the delay @Oofmastre9000!
 * Improved texture atlasing and material sharing
 * Updated various meshes
 * Misc updates and fixes

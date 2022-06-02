@@ -8,7 +8,7 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
  
 
 ### This Repository
-This repository is the public sister repository to the private repository for The Great Pug.
+This repository is the public sister repository to the private repository for The Great Pugs.
 
 #### Bug Reports and Feature Requests
 Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) feature of this repository to report bugs or make feature requests relating to The Great Pug.
@@ -24,14 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 06/01/22 - The Great Pug** (VRCSDK3) (2019.4.31f1)
+#### 06/01/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Fixed the hole in the first-floor ceiling. [#52](https://github.com/owlboy/greatpug-public/issues/52) Thanks @luii and others who reported this!
 * Updated patron flyers
 * Updated the calendar (On time!)
 * Rebaked occlusion and lighting
 * Misc minor changes
 
-#### 06/01/22 - The Great Pug - West** (VRCSDK3) (2019.4.31f1)
+#### 06/01/22 - The Great Pug - West (VRCSDK3) (2019.4.31f1)
 * Updated to VRCSDK3!
 * Refactored the whole scene in a new project!
 * Switched to Filamented Shader and reworked the lighting! - Pug West now looks much more similar to The Great Pug. In addition, the Android version now looks very similar to the Windows version!

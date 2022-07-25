@@ -24,6 +24,9 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 07/25/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Lowered camera near clip to 0.01
+
 #### 07/22/22 to 07/24/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Reduced overall download size
 * Reduced the number of shader variants used for Filamented

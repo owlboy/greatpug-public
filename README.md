@@ -24,6 +24,23 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 07/29/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
+* Restored previous functionality to the red phone at the bar ☎️
+* Added new functionality to the red phone at the bar ☎️
+* Reintroduced EvenBetterBeer shader
+* Fixed issues preventing bathroom sinks from functioning
+* Fixed issue [**FIVE SIX**](https://github.com/owlboy/greatpug-public/issues/56) - Thanks DAG-XR!
+* Reduced the VRAM footprint of just a few textures
+* Reduced shader variations just a tad more
+* Adjusted spawn points a bit
+* Updated patron flyers
+* Installed a new board for patron flyers and tidied things up
+* Rebaked occlusion
+* Rebaked lighting
+* Fixed a few missing script messages that appeared in the client log
+* Misc small changes and fixes
+* Oh, and the _number_ was updated ☎️
+
 #### 07/25/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Lowered camera near clip to 0.01
 

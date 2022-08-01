@@ -24,11 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 07/30/22 - 08/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+#### 07/30/22 to 08/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated calendar (Zero days late - Three in a row)
 * Improved materials on all stools
 * Improved materials on the dining chairs in Night View
-* Improved instancing behavior on the dining chairs in Night View reducing draw calls 
+* Reduced draw calls in Night View by improving instancing behavior on the dining chairs 
 * Merged ~11 materials throughout
 * Fixed collision on sinks in the bathrooms [#57](https://github.com/owlboy/greatpug-public/issues/57) - Thanks Zarniwoop!
 * Fixed collision on the sponge [#57](https://github.com/owlboy/greatpug-public/issues/57) - Thanks Zarniwoop!
@@ -41,7 +41,7 @@ You can also donate crypto currency at the following addresses:
 * Rebaked lighting
 * Misc small changes and fixes
 
-#### 08/01/22 – The Great Pug - West (VRCSDK3) (2019.4.31f1)
+#### 08/01/22 - The Great Pug - West (VRCSDK3) (2019.4.31f1)
 * Updated calendar (Zero days late - Three in a row)
 
 #### 07/29/22 - The Great Pug (VRCSDK3) (2019.4.31f1)

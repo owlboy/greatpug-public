@@ -42,7 +42,7 @@ You can also donate crypto currency at the following addresses:
 * Misc small changes and fixes
 
 #### 08/01/22 – The Great Pug - West (VRCSDK3) (2019.4.31f1)
-• Updated calendar (Zero days late - Three in a row)
+* Updated calendar (Zero days late - Three in a row)
 
 #### 07/29/22 - The Great Pug (VRCSDK3) (2019.4.31f1)
 * Restored previous functionality to the red phone at the bar ☎️

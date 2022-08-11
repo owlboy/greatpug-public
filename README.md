@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/10/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Addressed a few more issues with respawning pickups
+* Adjusted bathroom sink water timeout and audio falloff
+* Fixed collision on the Ever Burger™
+* Fixed exceptions that occurred in the log when holding some pickups in the client (I think)
+* Updated patron flyers
+* Administration updates
+
 #### 08/02/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Improved the performance of many Udon scripts
 * Reduced draw calls in and around the main bar by 8-20 depending on your POV

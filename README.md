@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 08/13/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Fixed an issue causing the bar sink to spam ownership transfer - [#60](https://github.com/owlboy/greatpug-public/issues/60) - Thanks Superbstingray!
+* Fixed an issue that could break pickup respawning
+
 #### 08/10/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Addressed a few more issues with respawning pickups
 * Adjusted bathroom sink water timeout and audio falloff

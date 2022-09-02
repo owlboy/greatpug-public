@@ -24,6 +24,16 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 09/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated calendar (Zero days late - Four in a row)
+* Fixed specular sparkle on the glass case in The Roost - Thanks Shiguri!
+* Fixed an issue causing the rug in The Roost to appear in cameras and personal mirrors unexpectedly [#62](https://github.com/owlboy/greatpug-public/issues/62) - Thanks o0F-0oF and blair123xyz!
+* Misc minor changes
+
+#### 09/01/22 – The Great Pug - West (VRCSDK3) (2019.4.31f1)
+* Updated calendar (Zero days late - Four in a row)
+* Adjusted the mirror settings
+
 #### 08/13/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Fixed an issue causing the bar sink to spam ownership transfer - [#60](https://github.com/owlboy/greatpug-public/issues/60) - Thanks Superbstingray!
 * Fixed an issue that could break pickup respawning

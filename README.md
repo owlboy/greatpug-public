@@ -24,6 +24,17 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 09/30/22 - 10/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated calendar (Zero days late - Five in a row)
+* Updated patron flyers
+* Fixed a collision hole in the mens bathroom - Thanks Shiguri!
+
+#### 09/30/22 – The Great Pug - West (VRCSDK3) (2019.4.31f1)
+* Updated calendar (Zero days late - Five in a row)
+
+#### 09/03/22 – The Great Pug - West (VRCSDK3) (2019.4.31f1)
+* Removed player collision on the bucket [#63](https://github.com/owlboy/greatpug-public/issues/63)
+
 #### 09/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated calendar (Zero days late - Four in a row)
 * Fixed specular sparkle on the glass case in The Roost - Thanks Shiguri!

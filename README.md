@@ -25,10 +25,10 @@ You can also donate crypto currency at the following addresses:
 
 ### Change Log
 #### 10/13/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
-• Placed Banners and table-tents for the SIXTH ANNUAL Halloween at The Pug! Friday, October 28, 2022 7:00 PM PT! 👻🪲
-• Updated patron flyers
-• Adjusted collision on the back stairs, in the women's restroom, and the exterior out back - Thanks Shiguri!
-• Misc small changes
+* Placed Banners and table-tents for the SIXTH ANNUAL Halloween at The Pug! Friday, October 28, 2022 7:00 PM PT! 👻🪲
+* Updated patron flyers
+* Adjusted collision on the back stairs, in the women's restroom, and the exterior out back - Thanks Shiguri!
+* Misc small changes
 
 #### 09/30/22 - 10/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated calendar (Zero days late - Five in a row)

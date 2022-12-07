@@ -24,6 +24,42 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/06/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Added a local toggle for the house music to the control panel in the back. - [#64](https://github.com/owlboy/greatpug-public/issues/64)
+* Removed a BoothTemplate cube that was lurking in and around the women's restroom. - [#65](https://github.com/owlboy/greatpug-public/issues/65) - Thanks HachijoTohya, KadachiiVR, ShiguriVR and Madman!
+* Adjusted the women's bathroom mirror behavior - Thanks ShiguriVR!
+* Fixed all lingering reference errors on LOD Groups.
+* Adjusted LOD culling distance on many objects
+* Added LOD culling to some objects
+* Misc minor fixes
+
+#### 12/4/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated patron flyers
+
+#### 11/30/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Holiday decorations are up! 🔥 🐐 
+* Updated patron flyers
+* Updated the calendar (Zero days late! (See: early) - One in a row!)
+* Rebaked lighting and occlusion
+
+#### 11/02/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the calendar (1 day late – streak broken)
+* Rebaked lighting
+* Updated patron flyers 
+
+#### 11/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Removed Halloween decorations
+
+#### 10/30/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the music mix to lower the resolution and bitrate of the video portion even more. Audio bitrate remains the same.
+
+#### 10/29/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated the music mix to lower the resolution and bitrate of the video portion. Audio bitrate remains the same.
+
+#### 10/28/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Halloween at The Pug! :ghostvr: 
+* Updated Patron flyers
+
 #### 10/13/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Placed Banners and table-tents for the SIXTH ANNUAL Halloween at The Pug! Friday, October 28, 2022 7:00 PM PT! 👻🪲
 * Updated patron flyers

@@ -27,7 +27,7 @@ You can also donate crypto currency at the following addresses:
 #### 12/06/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Added a local toggle for the house music to the control panel in the back. - [#64](https://github.com/owlboy/greatpug-public/issues/64)
 * Removed a BoothTemplate cube that was lurking in and around the women's restroom. - [#65](https://github.com/owlboy/greatpug-public/issues/65) - Thanks HachijoTohya, KadachiiVR, ShiguriVR and Madman!
-* Adjusted the women's bathroom mirror behavior - Thanks ShiguriVR!
+* Adjusted the women's bathroom mirror behavior - [#66](https://github.com/owlboy/greatpug-public/issues/66) - Thanks ShiguriVR!
 * Fixed all lingering reference errors on LOD Groups.
 * Adjusted LOD culling distance on many objects
 * Added LOD culling to some objects

@@ -26,7 +26,7 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 #### 12/07/22 - 12/09/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated patron flyers
-* Fixed some issues with LOD Culling and Occlusion Culling.
+* Fixed some issues with LOD Culling and Occlusion Culling. - Thanks ShiguriVR!
 * Fixed issues with the House Music toggle.
 
 #### 12/06/22 – The Great Pug (VRCSDK3) (2019.4.31f1)

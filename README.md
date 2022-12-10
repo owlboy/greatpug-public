@@ -24,6 +24,11 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 12/07/22 - 12/09/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+* Updated patron flyers
+* Fixed some issues with LOD Culling and Occlusion Culling.
+* Fixed issues with the House Music toggle.
+
 #### 12/06/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Added a local toggle for the house music to the control panel in the back. - [#64](https://github.com/owlboy/greatpug-public/issues/64)
 * Removed a BoothTemplate cube that was lurking in and around the women's restroom. - [#65](https://github.com/owlboy/greatpug-public/issues/65) - Thanks HachijoTohya, KadachiiVR, ShiguriVR and Madman!

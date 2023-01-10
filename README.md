@@ -24,6 +24,20 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 01/09/22 – The Great Pug** (VRCSDK3) (2019.4.31f1)
+* Removed most holiday decorations
+* Fixed a collision issue in The Roost - [#74](https://github.com/owlboy/greatpug-public/issues/74) - Thanks Wasmachineman-NL!
+* Fixed an issue with the front desk phone - [#72](https://github.com/owlboy/greatpug-public/issues/72) - Thanks HachijoTohya!
+* Fixed an issue with the Roost Rose - [#71](https://github.com/owlboy/greatpug-public/issues/71) - Thanks HachijoTohya!
+* Made some changes to the dumpsters out back
+* Fixed some floating boxes out back
+* Updated patron flyers
+* Updated Calendar (9 days late!)
+* Fixed textures on floor plan posters on the stairs
+* Adjusted some LOD culling distances
+* Rebaked lighting and occlusion
+* Misc minor changes
+
 #### 12/07/22 - 12/09/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated patron flyers
 * Fixed some issues with LOD Culling and Occlusion Culling. - Thanks ShiguriVR!

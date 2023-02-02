@@ -26,20 +26,20 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 
 
-#### 02/01/22 – The Great Pug** (VRCSDK3) (2019.4.31f1)
+#### 02/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated Calendar (On Time!)
 * Updated patron flyers
 * Added UI toggle for the main mirror - [#78](https://github.com/owlboy/greatpug-public/issues/78) Suggested by blair123xyz.
 * Upgraded all toggles to use the newer animated switch
 * Misc minor changes
 
-#### 01/19/22 – The Great Pug** (VRCSDK3) (2019.4.31f1)
+#### 01/19/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated patron flyers
 * Added photos on the stairs from Halloween 2021. Photos from 2022 coming soon…
 * Improved light-mapping around some doorframes
 * Misc minor changes
 
-#### 01/09/22 – The Great Pug** (VRCSDK3) (2019.4.31f1)
+#### 01/09/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Removed most holiday decorations
 * Fixed a collision issue in The Roost - [#74](https://github.com/owlboy/greatpug-public/issues/74) - Thanks Wasmachineman-NL!
 * Fixed an issue with the front desk phone - [#72](https://github.com/owlboy/greatpug-public/issues/72) - Thanks HachijoTohya!

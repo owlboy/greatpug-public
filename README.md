@@ -27,7 +27,7 @@ You can also donate crypto currency at the following addresses:
 
 
 #### 02/03/22 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
-* Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for new the SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!
+* Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for the new SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!
 * Updated SDK to v3.1.10
 * Updated UdonSharp to v0.3.1
 * Shout out to @CyanLaser + ClientSim v1.2.2!
@@ -38,7 +38,7 @@ You can also donate crypto currency at the following addresses:
 * Updated Calendar (On Time!)
 * Increased player cap back to 40/80
 * Updated patron flyers
-* Added UI toggle for the main mirror - [#78](https://github.com/owlboy/greatpug-public/issues/78) Suggested by blair123xyz.
+* Added UI toggle for the main mirror - [#78](https://github.com/owlboy/greatpug-public/issues/78) - Suggested by blair123xyz.
 * Upgraded all toggles to use the newer animated switch
 * Misc minor changes
 

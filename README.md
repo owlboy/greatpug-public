@@ -26,6 +26,14 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 
 
+#### 02/03/22 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+* Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for new the SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!
+* Updated SDK to v3.1.10
+* Updated UdonSharp to v0.3.1
+* Shout out to @CyanLaser + ClientSim v1.2.2!
+* Fixed non-functioning Seat Toggles - [#79](https://github.com/owlboy/greatpug-public/issues/79) - Thanks @Cobalt60VRC !
+* Fixed doubled up materials on the clocks
+
 #### 02/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated Calendar (On Time!)
 * Increased player cap back to 40/80

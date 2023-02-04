@@ -28,6 +28,7 @@ You can also donate crypto currency at the following addresses:
 
 #### 02/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated Calendar (On Time!)
+* Increased player cap back to 40/80
 * Updated patron flyers
 * Added UI toggle for the main mirror - [#78](https://github.com/owlboy/greatpug-public/issues/78) Suggested by blair123xyz.
 * Upgraded all toggles to use the newer animated switch

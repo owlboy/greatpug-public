@@ -33,6 +33,7 @@ You can also donate crypto currency at the following addresses:
 * Shout out to @CyanLaser + ClientSim v1.2.2!
 * Fixed non-functioning Seat Toggles - [#79](https://github.com/owlboy/greatpug-public/issues/79) - Thanks @Cobalt60VRC !
 * Fixed doubled up materials on the clocks
+* Adjusted the volume of the house music in light of recent client audio changes
 
 #### 02/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated Calendar (On Time!)

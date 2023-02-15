@@ -26,7 +26,7 @@ You can also donate crypto currency at the following addresses:
 ### Change Log
 
 
-#### 02/03/22 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+#### 02/03/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
 * Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for the new SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!
 * Updated SDK to v3.1.10
 * Updated UdonSharp to v0.3.1
@@ -35,7 +35,7 @@ You can also donate crypto currency at the following addresses:
 * Fixed doubled up materials on the clocks
 * Adjusted the volume of the house music in light of recent client audio changes
 
-#### 02/01/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+#### 02/01/23 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated Calendar (On Time!)
 * Increased player cap back to 40/80
 * Updated patron flyers
@@ -43,13 +43,13 @@ You can also donate crypto currency at the following addresses:
 * Upgraded all toggles to use the newer animated switch
 * Misc minor changes
 
-#### 01/19/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+#### 01/19/23 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Updated patron flyers
 * Added photos on the stairs from Halloween 2021. Photos from 2022 coming soon…
 * Improved light-mapping around some doorframes
 * Misc minor changes
 
-#### 01/09/22 – The Great Pug (VRCSDK3) (2019.4.31f1)
+#### 01/09/23 – The Great Pug (VRCSDK3) (2019.4.31f1)
 * Removed most holiday decorations
 * Fixed a collision issue in The Roost - [#74](https://github.com/owlboy/greatpug-public/issues/74) - Thanks Wasmachineman-NL!
 * Fixed an issue with the front desk phone - [#72](https://github.com/owlboy/greatpug-public/issues/72) - Thanks HachijoTohya!

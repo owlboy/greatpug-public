@@ -24,13 +24,6 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 02/25/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
-* Updated the calendar to use ImageDownloader.
-* Updated patron flyers
-* Misc minor fixes
-
-#### 03/01/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
-* Updated the calendar – but not the asset bundle :vrcwhoa:
 
 #### 03/07/23 – The Great Pug (VCC - VRCSDK - 3.1.10) 
 * Improved the behavior of the Pickup Manager
@@ -54,6 +47,14 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Misc minor fixes and adjustments
 * ☘️ Added banners promoting the SEVENTH ANNUAL Saint Patrick's at The Pug!
 * ☘️ Saint Patrick's at The Pug is on <t:1679104800:F>! Gather some friends and have a party!
+
+#### 03/01/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+* Updated the calendar – but not the asset bundle :vrcwhoa:
+
+#### 02/25/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+* Updated the calendar to use ImageDownloader.
+* Updated patron flyers
+* Misc minor fixes
 
 #### 02/03/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
 * Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for the new SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!

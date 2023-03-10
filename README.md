@@ -48,10 +48,10 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * ☘️ Added banners promoting the SEVENTH ANNUAL Saint Patrick's at The Pug!
 * ☘️ Saint Patrick's at The Pug is on <t:1679104800:F>! Gather some friends and have a party!
 
-#### 03/01/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+#### 03/01/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
 * Updated the calendar – but not the asset bundle :vrcwhoa:
 
-#### 02/25/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+#### 02/25/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
 * Updated to vrchat.worlds 3.1.11
 * Updated to vrchat.udonsharp 1.1.7
 * Updated the calendar to use ImageDownloader.

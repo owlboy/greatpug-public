@@ -25,7 +25,9 @@ You can also donate crypto currency at the following addresses, if you're a weir
 
 ### Change Log
 
-#### 03/07/23 – The Great Pug (VCC - VRCSDK - 3.1.10) 
+#### 03/07/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+* Updated to vrchat.worlds 3.1.11
+* Updated to vrchat.udonsharp 1.1.7
 * Improved the behavior of the Pickup Manager
 * Added two new **[Status Bulbs]** for the Pickup Manager
 * Improved the performance of Pickup Manager a bit

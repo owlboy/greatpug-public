@@ -27,12 +27,12 @@ You can also donate crypto currency at the following addresses, if you're a weir
 
 #### 03/07/23 – The Great Pug (VCC - VRCSDK - 3.1.10) 
 * Improved the behavior of the Pickup Manager
-* Added two new [Status Bulbs] for the Pickup Manager
+* Added two new **[Status Bulbs]** for the Pickup Manager
 * Improved the performance of Pickup Manager a bit
 * Fixed an issue that could cause the Pickup Manager to crash when attempting to process pickup item 56
 * Worked around a long-standing VRChat bug relating to layers, Interact and ray casting
 * Improved mirror toggle functionality
-* Improved some [PUG] log messages
+* Improved some `[PUG]` log messages
 * Tweaked the overall lighting profile
 * Adjusted materials for select wooden objects throughout The Pug
 * Improved lighting and materials on many items on the stage

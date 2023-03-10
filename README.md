@@ -16,7 +16,7 @@ Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) 
 #### Support On-going Development
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
 
-You can also donate crypto currency at the following addresses:
+You can also donate crypto currency at the following addresses, if you're a weirdo like that:
 * **Etherium (ETH):** `0xa2e7aBB300728afc7564874B12975D2f311687a6`
 * **Bitcoin (BTC):** `16tWrVpZWJcw64aE5su8bRQJgyAVhBeNZQ`
 * **Litecoin (LTC):** `MCjYc1wm2r1f8uM5FPTyqZbKxnxwvNf7UQ`
@@ -24,7 +24,36 @@ You can also donate crypto currency at the following addresses:
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 02/25/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+* Updated the calendar to use ImageDownloader.
+* Updated patron flyers
+* Misc minor fixes
 
+#### 03/01/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+* Updated the calendar – but not the asset bundle :vrcwhoa:
+
+#### 03/07/23 – The Great Pug (VCC - VRCSDK - 3.1.10) 
+* Improved the behavior of the Pickup Manager
+* Added two new [Status Bulbs] for the Pickup Manager
+* Improved the performance of Pickup Manager a bit
+* Fixed an issue that could cause the Pickup Manager to crash when attempting to process pickup item 56
+* Worked around a long-standing VRChat bug relating to layers, Interact and ray casting
+* Improved mirror toggle functionality
+* Improved some [PUG] log messages
+* Tweaked the overall lighting profile
+* Adjusted materials for select wooden objects throughout The Pug
+* Improved lighting and materials on many items on the stage
+* Improved lighting on the walls in Night View
+* Improved lighting and materials in the bathrooms
+* Improved lighting and materials in the back room
+* Improved materials on some picture frames – the rest will follow later
+* Improved the materials and lighting on various items
+* Fixed strange pickup collision issues in and around the bathrooms
+* Fixed an issue with Show UI and the mirror
+* Safety and performance additions
+* Misc minor fixes and adjustments
+* ☘️ Added banners promoting the SEVENTH ANNUAL Saint Patrick's at The Pug!
+* ☘️ Saint Patrick's at The Pug is on <t:1679104800:F>! Gather some friends and have a party!
 
 #### 02/03/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
 * Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for the new SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!

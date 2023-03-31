@@ -26,18 +26,18 @@ You can also donate crypto currency at the following addresses, if you're a weir
 ### Change Log
 
 
-**03/30/23 – The Great Pug** (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/30/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
 * 🌕
 * Updated Patron flyers
 * Fixed a few materials
 
-**03/20/23 – The Great Pug** (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/20/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
 * Removed Saint Patrick's Day decorations and music
 
-**03/17/23 – The Great Pug** (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/17/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
 * Seventh annual Saint Patrick's at The Pug!
 
-**03/10/23 – The Great Pug** (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/10/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
 * Reverted some changes relating to Pickups that caused multiple issues – Thanks Froggi#0001 and Wasmachineman-NL!
 * Fixed some collision issues in the back staircase – Thanks Wasmachineman-NL!
 * Fixed an issue with layers and mirror reflections in the bathrooms – Thanks Wasmachineman-NL!

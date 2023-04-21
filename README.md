@@ -24,6 +24,10 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 04/21/23 -- The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+* Added [SyncedPickupJitterFix](https://github.com/Superbstingray/VRC-Miscellaneous/tree/main/SyncedPickupJitterFix) - Thanks Superbstingray!
+* Updated Patron flyers
+
 #### 04/13/23 - The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Fiddled with the moon to potentially address performance issues - Thanks Natalynn!
 

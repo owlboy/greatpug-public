@@ -30,6 +30,7 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Updated to VRCSDK 3.2.0
 * Updated to UdonSharp 1.1.8
 * Updated to Clientsim 1.2.4
+* Updated to [DistanceCullingMirrors](https://github.com/Superbstingray/DistanceCullingMirrors) 1.22
 * Misc minor changes
 
 #### 05/04/23 – The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)

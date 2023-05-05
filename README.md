@@ -14,7 +14,7 @@ This repository is the public sister repository to the private repository for Th
 Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) feature of this repository to report bugs or make feature requests relating to The Great Pug.
 
 #### Support On-going Development
-You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). 
+You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). You can also donate via [Ko-fi](https://ko-fi.com/Manage/)! 
 
 You can also donate crypto currency at the following addresses, if you're a weirdo like that:
 * **Etherium (ETH):** `0xa2e7aBB300728afc7564874B12975D2f311687a6`

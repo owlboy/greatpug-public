@@ -32,17 +32,17 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Updated to Clientsim 1.2.4
 * Misc minor changes
 
-#### 05/04/23 -- The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)
+#### 05/04/23 – The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)
 * Updated [SyncedPickupJitterFix](https://github.com/Superbstingray/VRC-Miscellaneous/tree/main/SyncedPickupJitterFix) - Thanks Superbstingray!
 * Updated Patron flyers and stickers
 * Misc minor changes
 
-#### 04/29/23 -- The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)
+#### 04/29/23 – The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)
 * Boogie in the basement! 🪩
 * Utilized [VR Stage Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - Thanks AcChosen!
 * Updated to VRCSDK 3.1.13
 
-#### 04/21/23 -- The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
+#### 04/21/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Added [SyncedPickupJitterFix](https://github.com/Superbstingray/VRC-Miscellaneous/tree/main/SyncedPickupJitterFix) - Thanks Superbstingray!
 * Updated Patron flyers
 
@@ -54,7 +54,7 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Rebaked occlusion
 * Adjusted the Pickup Manager a bit
 
-#### 03/31/23 -- The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
+#### 03/31/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Fixed some exterior occlusion issues – Thanks Wasmachineman-NL!
 
 #### 03/30/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)

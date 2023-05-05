@@ -24,17 +24,25 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 05/04/23 -- The Great Pug (VCC - VRCSDK - 3.1.13) (2019.4.31f1)
+#### 05/05/23 - The Great Pug (VCC - VRCSDK 3.2.0) (2019.4.31f1)
+* Fixed a gap near the ceiling of the top of The Roost staircase - Thanks Church!
+* Fixed a long-standing gap in the drywall above the main bar
+* Updated to VRCSDK 3.2.0
+* Updated to UdonSharp 1.1.8
+* Updated to Clientsim 1.2.4
+* Misc minor changes
+
+#### 05/04/23 -- The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)
 * Updated [SyncedPickupJitterFix](https://github.com/Superbstingray/VRC-Miscellaneous/tree/main/SyncedPickupJitterFix) - Thanks Superbstingray!
 * Updated Patron flyers and stickers
 * Misc minor changes
 
-#### 04/29/23 -- The Great Pug (VCC - VRCSDK - 3.1.13) (2019.4.31f1)
+#### 04/29/23 -- The Great Pug (VCC - VRCSDK 3.1.13) (2019.4.31f1)
 * Boogie in the basement! 🪩
 * Utilized [VR Stage Lighting](https://github.com/AcChosen/VR-Stage-Lighting) - Thanks AcChosen!
-* Updated VRCSDK to 3.1.13
+* Updated to VRCSDK 3.1.13
 
-#### 04/21/23 -- The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 04/21/23 -- The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Added [SyncedPickupJitterFix](https://github.com/Superbstingray/VRC-Miscellaneous/tree/main/SyncedPickupJitterFix) - Thanks Superbstingray!
 * Updated Patron flyers
 
@@ -46,28 +54,28 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Rebaked occlusion
 * Adjusted the Pickup Manager a bit
 
-#### 03/31/23 -- The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/31/23 -- The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Fixed some exterior occlusion issues – Thanks Wasmachineman-NL!
 
-#### 03/30/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/30/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * 🌕
 * Updated Patron flyers
 * Fixed a few materials
 
-#### 03/20/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/20/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Removed Saint Patrick's Day decorations and music
 
-#### 03/17/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/17/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Seventh annual Saint Patrick's at The Pug!
 
-#### 03/10/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/10/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Reverted some changes relating to Pickups that caused multiple issues – Thanks Froggi#0001 and Wasmachineman-NL!
 * Fixed some collision issues in the back staircase – Thanks Wasmachineman-NL!
 * Fixed an issue with layers and mirror reflections in the bathrooms – Thanks Wasmachineman-NL!
 * Added traditional LODs to a few items
 * Misc minor adjustments
 
-#### 03/09/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/09/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Improved the behavior of the Pickup Manager
 * Added two new **[Status Bulbs]** for the Pickup Manager
 * Improved the performance of Pickup Manager a bit
@@ -90,17 +98,17 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * ☘️ Added banners promoting the SEVENTH ANNUAL Saint Patrick's at The Pug!
 * ☘️ Saint Patrick's at The Pug is on <t:1679104800:F>! Gather some friends and have a party!
 
-#### 03/01/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 03/01/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Updated the calendar – but not the asset bundle :vrcwhoa:
 
-#### 02/25/23 – The Great Pug (VCC - VRCSDK - 3.1.11) (2019.4.31f1)
+#### 02/25/23 – The Great Pug (VCC - VRCSDK 3.1.11) (2019.4.31f1)
 * Updated to vrchat.worlds 3.1.11
 * Updated to vrchat.udonsharp 1.1.7
 * Updated the calendar to use ImageDownloader.
 * Updated patron flyers
 * Misc minor fixes
 
-#### 02/03/23 – The Great Pug (VCC - VRCSDK - 3.1.10) (2019.4.31f1)
+#### 02/03/23 – The Great Pug (VCC - VRCSDK 3.1.10) (2019.4.31f1)
 * Migrated to the VRChat Creator Companion! This means all my SDKs are up-to-date and I'm ready for the new SDK features that are imminent! - Thank you to the VRChat team for making the migration as painless as possible, and for continuing to support macOS!
 * Updated SDK to v3.1.10
 * Updated UdonSharp to v0.3.1

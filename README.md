@@ -24,6 +24,18 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 05/14/23 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
+* Updated to com.vrchat.worlds 3.2.0.
+* Updated to com.vrchat.base 3.2.0.
+* Updated to com.vrchat.clientsim 1.2.4.
+* Updated to com.vrchat.udonsharp 1.1.8.
+* Updated to the latest version of Filamented.
+* Updated to the latest version of Fake Glass.
+* Updated mirror behavior – no more black void!
+* Steam-cleaned the bathroom couch.
+* Tweaked a few Mesh Renderers for better batching.
+* Made minor changes to address some mesh clipping issues on the booths. 
+
 #### 05/05/23 - The Great Pug (VCC - VRCSDK 3.2.0) (2019.4.31f1)
 * Fixed a gap near the ceiling of the top of The Roost staircase - Thanks Church!
 * Fixed a long-standing gap in the drywall above the main bar

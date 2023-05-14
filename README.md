@@ -24,7 +24,7 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
-#### 05/14/23 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
+#### 05/14/23 - The Great Pug - West (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
 * Updated to com.vrchat.worlds 3.2.0.
 * Updated to com.vrchat.base 3.2.0.
 * Updated to com.vrchat.clientsim 1.2.4.

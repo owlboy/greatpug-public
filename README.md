@@ -24,6 +24,14 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 05/14/23 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
+* Resolved an issue with an unexpected blob loitering near the dumpsters in the back. [#98](https://github.com/owlboy/greatpug-public/issues/98) - Thanks [halomademeapc](https://github.com/halomademeapc)!
+* Addressed a significant overdraw issue that was impacting frame rate. :Sweat:
+* Optimized certain meshes that are visible from the back alley when looking upward.
+* Corrected some errant shadows located on the main bar near the sink.
+* Addressed several additional occlusion issues that were having a minor impact on frame rate.
+* Implemented various minor changes and fixes.
+
 #### 05/14/23 - The Great Pug - West (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
 * Updated to com.vrchat.worlds 3.2.0.
 * Updated to com.vrchat.base 3.2.0.

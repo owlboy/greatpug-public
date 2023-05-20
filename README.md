@@ -8,7 +8,7 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
 
 
 #### Social Media
-* **Mastodon:** <a rel="me" href="https://arvr.social/@vrpug">vrpug@arvr.social</a>
+* **Mastodon:** <a rel="me" href="https://arvr.social/@vrpug">@vrpug@arvr.social</a>
 * **Twitter:** [@vrpug](http://www.twitter.com/vrpug)
 
 #### Support On-going Development

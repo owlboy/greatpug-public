@@ -1,27 +1,26 @@
 ![The Great Pug - Main bar area](http://thegreatpug.com/img/pug_bar.jpg?&&)
 
-# The Great Pug and The Great Pug - West
-A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a smaller sister bar called The Great Pug - West!
+# The Great Pug & The Great Pug - West
+A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a smaller sister bar called **The Great Pug - West**!
 
 [thegreatpug.com](http://www.thegreatpug.com/ "The Great Pug")
 
- 
 
-### This Repository
-This repository is the public sister repository to the private repository for The Great Pug.
 
-#### Bug Reports and Feature Requests
-Feel free to use the [issues](https://github.com/owlboy/greatpug-public/issues) feature of this repository to report bugs or make feature requests relating to The Great Pug.
+#### Social Media
+* **Mastodon:** <a rel="me" href="https://arvr.social/@vrpug">vrpug@arvr.social</a>
+* **Twitter:** [@vrpug](http://www.twitter.com/vrpug)
 
 #### Support On-going Development
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). You can also donate via [Ko-fi](https://ko-fi.com/Manage/)! 
 
-You can also donate crypto currency at the following addresses, if you're a weirdo like that:
-* **Etherium (ETH):** `0xa2e7aBB300728afc7564874B12975D2f311687a6`
-* **Bitcoin (BTC):** `16tWrVpZWJcw64aE5su8bRQJgyAVhBeNZQ`
-* **Litecoin (LTC):** `MCjYc1wm2r1f8uM5FPTyqZbKxnxwvNf7UQ`
+### This Repository
+This repository is the public sister repository to the private repository for The Great Pug.
 
-[![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
+### Bug Reports and Feature Requests
+Please use the [issues](https://github.com/owlboy/greatpug-public/issues) feature of this repository to report bugs or make feature requests relating to The Great Pug and The Great Pug - West.
+
+
 
 ### Change Log
 #### 2023.05.19 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)

@@ -6,9 +6,8 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
 [thegreatpug.com](http://www.thegreatpug.com/ "The Great Pug")
 
 
-
 #### Social Media
-* **Mastodon:** <a rel="me" href="https://arvr.social/@vrpug">@vrpug@arvr.social</a>
+* **Mastodon:** [@vrpug@arvr.social](https://arvr.social/@vrpug)
 * **Twitter:** [@vrpug](http://www.twitter.com/vrpug)
 
 #### Support On-going Development

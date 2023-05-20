@@ -28,7 +28,7 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Improved light map UVs in and around the corner booth.
 * Improved light map UVs on the booth base near the mirror side of the main bar.
 * Improved meshes and lightmap UVs near the floor throughout the first and second floors.
-* Improved meshes and light map UVs along the stairs to Night View – Woot!
+* Improved meshes and lightmap UVs along the stairs to Night View – Woot!
 * Disabled IsKinematic on SyncJitterFix.
 * Reduced the rate at which the Ever Burger™ respawns when under stress. – [#100 - Burger Bowling](https://github.com/owlboy/greatpug-public/issues/100) Thanks [Ebbeerino](https://github.com/Ebbeerino)!
 * Adjusted the dice slightly.

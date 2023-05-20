@@ -31,6 +31,7 @@ You can also donate crypto currency at the following addresses, if you're a weir
 * Improved meshes and lightmap UVs along the stairs to Night View – Woot!
 * Disabled IsKinematic on SyncJitterFix.
 * Reduced the rate at which the Ever Burger™ respawns when under stress. – [#100 - Burger Bowling](https://github.com/owlboy/greatpug-public/issues/100) Thanks [Ebbeerino](https://github.com/Ebbeerino)!
+* Fixed missing dumpster collision. – [#99](https://github.com/owlboy/greatpug-public/issues/99) - Thanks blair123xyz!
 * Adjusted the dice slightly.
 * Replaced the burnt-out lightbulbs in the status panel.
 * Verified that all Metallic texture files are using the proper import settings. – https://thegreatpug.com/help/srgb/

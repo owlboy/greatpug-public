@@ -24,6 +24,26 @@ You can also donate crypto currency at the following addresses, if you're a weir
 [![GitHub issues](https://img.shields.io/github/issues/owlboy/greatpug-public.svg?style=flat)](https://github.com/owlboy/greatpug-public/issues) [![Twitter Follow](https://img.shields.io/twitter/follow/vrpug.svg?style=flat&label=Follow)](http://www.twitter.com/vrpug)
 
 ### Change Log
+#### 2023.05.16 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
+* Improved light map UVs in and around the corner booth.
+* Improved light map UVs on the booth base near the mirror side of the main bar.
+* Improved meshes and lightmap UVs near the floor throughout the first and second floors.
+* Improved meshes and light map UVs along the stairs to Night View – Woot!
+* Disabled IsKinematic on SyncJitterFix.
+* Reduced the rate at which the Ever Burger™ respawns when under stress. – [#100 - Burger Bowling](https://github.com/owlboy/greatpug-public/issues/100) Thanks [Ebbeerino](https://github.com/Ebbeerino)!
+* Adjusted the dice slightly.
+* Replaced the burnt-out lightbulbs in the status panel.
+* Verified that all Metallic texture files are using the proper import settings. – https://thegreatpug.com/help/srgb/
+* Confirmed that all textures are using streaming mipmaps. Most already had this setting. – https://thegreatpug.com/help/streaming-mipmaps/
+* Improved VRAM usage for some textures and shaders.
+* Recompiled my custom shaders with the latest version of the Amplify Shader Editor.
+* Adjusted some texture resolutions to save space in the asset bundle.
+* Fixed some holes in the wood around the corner booth.
+* Improved batching in and around the corner booth.
+* Removed a few extraneous objects left over from past events.
+* Made many miscellaneous fixes and tweaks.
+* Rebaked lighting a billion times.
+
 #### 05/14/23 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
 * Resolved an issue with an unexpected blob loitering near the dumpsters in the back. [#98](https://github.com/owlboy/greatpug-public/issues/98) - Thanks [halomademeapc](https://github.com/halomademeapc)!
 * Addressed a significant overdraw issue that was impacting frame rate. :Sweat:

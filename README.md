@@ -22,6 +22,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.05.29 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
+* Updated Patron Flyers.
+* Improved mesh and lightmap UVs across various items on the first and second floors.
+* Optimized some meshes to minimize overdraw on the first and second floors.
+* Reduced the number of unique meshes used for some trim objects.
+* Implemented miscellaneous minor fixes and modifications.
+
 #### 2023.05.19 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
 * Improved light map UVs in and around the corner booth.
 * Improved light map UVs on the booth base near the mirror side of the main bar.

@@ -22,6 +22,16 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.06.21 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
+* Updated Patron Rewards
+* Fixed a hole near the main bar mirror - [#108](https://github.com/owlboy/greatpug-public/issues/108) - Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL)
+* Addressed a texture compression issue impacting the Pug Bug Board - [#106](https://github.com/owlboy/greatpug-public/issues/106) - Thanks Wasmachineman-NL
+* Fixed a hole in the wall on the basement staircase - [#104](https://github.com/owlboy/greatpug-public/issues/104) - Thanks Wasmachineman-NL
+* Fixed faucets that were clogged - [#105](https://github.com/owlboy/greatpug-public/issues/105) - Thanks Wasmachineman-NL
+* Updated the shader used for particles, hopefully restoring visibility when viewed in the camera - Thanks for helping me debug the shader [Bobystar](https://twitter.com/BobyStarYT) ! - [#103](https://github.com/owlboy/greatpug-public/issues/103) - Thanks Wasmachineman-NL
+* Adjusted additional pickup properties so they render properly in mirrors - [#92](https://github.com/owlboy/greatpug-public/issues/92)  - Thanks Wasmachineman-NL
+* Misc minor changes and adjustments
+
 #### 2023.05.29 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
 * Updated Patron Flyers.
 * Improved mesh and lightmap UVs across various items on the first and second floors.

@@ -22,6 +22,17 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.06.21 - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
+* Fixed an issue causing the bar sink faucet to play sound when it shouldn't - [#110](https://github.com/owlboy/greatpug-public/issues/110) - Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL)
+* Fixed an issue causing the Whiskey to appear red - [#109](https://github.com/owlboy/greatpug-public/issues/109)
+* Fixed an issue where running water could be heard briefly upon loading into The Pug
+* Tweaked the Pickup Manager
+* Updated com.vrchat.worlds to version 3.2.1
+* Updated com.vrchat.base to version 3.2.1
+* Updated com.vrchat.core.vpm-resolver to version 0.1.20
+* Updated ClientSim to version 1.2.6
+
+
 #### 2023.06.21 - The Great Pug (VCC - VRCSDK - 3.2.0) (2019.4.31f1)
 * Updated Patron Rewards
 * Fixed a hole near the main bar mirror - [#108](https://github.com/owlboy/greatpug-public/issues/108) - Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL)

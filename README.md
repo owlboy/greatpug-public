@@ -24,16 +24,16 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 ### Change Log
 #### 2023.07.07 - 2023.07.08 - The Great Pug - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
 * **Implemented an all-new Liquid System!**
- * Sources of liquids can be activated and fill containers - Just Pint Glasses for now!
- * Bottles of liquid can be poured into containers - Just VooDoo Brew for now!
- * I consider this feature to be in "early access"
- * A fresh instance is recommended
- * Further refinements and improvements will be added over time
+  * Sources of liquids can be activated and fill containers - Just Pint Glasses for now!
+  * Bottles of liquid can be poured into containers - Just VooDoo Brew for now!
+  * I consider this feature to be in "early access"
+  * A fresh instance is recommended
+  * Further refinements and improvements will be added over time
 * **Upgraded the bar taps**
- * Added animation
- * Each tap has a different product
- * Improved collision near the taps
- * Added a base/drain for the taps at main bar
+  * Added animation
+  * Each tap has a different product
+  * Improved collision near the taps
+  * Added a base/drain for the taps at main bar
 * Got new bar mats for the rails of the bars
 * Fixed missing collision on the back stairs – [#111](https://github.com/owlboy/greatpug-public/issues/111) - Thanks @froggibot !
 * Improved collision along the bar

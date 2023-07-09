@@ -22,6 +22,32 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.07.07 - 2023.07.08 - The Great Pug - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
+* **Implemented an all-new Liquid System!**
+ * Sources of liquids can be activated and fill containers - Just Pint Glasses for now!
+ * Bottles of liquid can be poured into containers - Just VooDoo Brew for now!
+ * I consider this feature to be in "early access"
+ * A fresh instance is recommended
+ * Further refinements and improvements will be added over time
+* **Upgraded the bar taps**
+ * Added animation
+ * Each tap has a different product
+ * Improved collision near the taps
+ * Added a base/drain for the taps at main bar
+* Got new bar mats for the rails of the bars
+* Fixed missing collision on the back stairs – [#111](https://github.com/owlboy/greatpug-public/issues/111) - Thanks @froggibot !
+* Improved collision along the bar
+* Fixed missing occlusion flags on a handful of objects
+* Ensured all crawling path arrows are visible
+* Fixed a mirror culling issue – [#112](https://github.com/owlboy/greatpug-public/issues/112) - Thanks @Washmachineman-NL !
+* Improved occlusion just a bit in some areas
+* Improved light map UVs on the main stairs
+* Fixed (?) a weird light mapping issue impacting UV channel use with the wall shader
+* Fixed a 1.541 mm hole in the first landing of the main stairs – [#116](https://github.com/owlboy/greatpug-public/issues/116) - Thanks @Washmachineman-NL !
+* Removed extraneous material slots that were hanging out on a few meshes
+* Updated patron flyers
+* Many miscellaneous fixes and adjustments
+
 #### 2023.06.21 - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
 * Fixed an issue causing the bar sink faucet to play sound when it shouldn't - [#110](https://github.com/owlboy/greatpug-public/issues/110) - Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL)
 * Fixed an issue causing the Whiskey to appear red - [#109](https://github.com/owlboy/greatpug-public/issues/109)

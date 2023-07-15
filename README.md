@@ -22,6 +22,15 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.07.14 - The Great Pug - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
+* Updated Patron flyers
+* Made some changes to the liquid system that will hopefully address handles getting stuck
+* **Added a new update notification system**
+  * Current occupants of The Great Pug should see signs informing them of an update shortly after an one is published
+  * The signs encourage occupants to rejoin the instance. Ff you see one of these signs, do your part and spread the word!
+* Adjusted the floor collision on the first floor to be a bit more accurate. [#121](https://github.com/owlboy/greatpug-public/issues/121)
+* Misc minor changes
+
 #### 2023.07.07 - 2023.07.08 - The Great Pug - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
 * **Implemented an all-new Liquid System!**
   * Sources of liquids can be activated and fill containers - Just Pint Glasses for now!

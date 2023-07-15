@@ -27,7 +27,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Made some changes to the liquid system that will hopefully address handles getting stuck
 * **Added a new update notification system**
   * Current occupants of The Great Pug should see signs informing them of an update shortly after an one is published
-  * The signs encourage occupants to rejoin the instance. Ff you see one of these signs, do your part and spread the word!
+  * The signs encourage occupants to rejoin the instance. If you see one of these signs, do your part and spread the word!
 * Adjusted the floor collision on the first floor to be a bit more accurate. [#121](https://github.com/owlboy/greatpug-public/issues/121)
 * Misc minor changes
 

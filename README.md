@@ -22,7 +22,19 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
-#### 2023.07.14 - The Great Pug - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
+#### 2023.08.01 - The Great Pug (VCC - VRCSDK - 3.2.2) (2019.4.31f1)
+* Implemented a basic Avatar Scaling configuration
+* Updated the liquid system to further address issues with getting into a bad state
+* Updated patron flyers
+* Fixed misaligned stations in The Roost - [#123](https://github.com/owlboy/greatpug-public/issues/123) - Thanks Wasmachineman-NL
+* Addressed some mesh holes - [#126](https://github.com/owlboy/greatpug-public/issues/126) [#127](https://github.com/owlboy/greatpug-public/issues/127)
+* Improved mesh structure along the stairs
+* Updated to com.vrchat.worlds 3.2.2
+* Updated to com.vrchat.base 3.2.2
+* Updated to com.vrchat.core.vpm-resolver 0.1.21
+* Implemented misc minor changes and adjustments
+  
+#### 2023.07.14 - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
 * Updated Patron flyers
 * Made some changes to the liquid system that will hopefully address handles getting stuck
 * **Added a new update notification system**
@@ -31,7 +43,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Adjusted the floor collision on the first floor to be a bit more accurate. [#121](https://github.com/owlboy/greatpug-public/issues/121)
 * Misc minor changes
 
-#### 2023.07.07 - 2023.07.08 - The Great Pug - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
+#### 2023.07.07 - 2023.07.08 - The Great Pug (VCC - VRCSDK - 3.2.1) (2019.4.31f1)
 * **Implemented an all-new Liquid System!**
   * Sources of liquids can be activated and fill containers - Just Pint Glasses for now!
   * Bottles of liquid can be poured into containers - Just VooDoo Brew for now!

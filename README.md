@@ -22,6 +22,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.08.11 - The Great Pug
+* Implemented the new layer Interact Passthrough feature - This addresses issues with Desktop and Mobile users not being able to grab pickups on tables and in other contexts when VR users could - Thanks @hackspanner!
+* The bucket should be fillable with liquid now!
+* Updated patron flyers
+* Updated to com.vrchat.worlds 3.2.3
+* Updated to com.vrchat.worlds 3.2.3
+* Updated to com.vrchat.udonsharp 1.1.9
+  
 #### 2023.08.01 - The Great Pug (VCC - VRCSDK - 3.2.2) (2019.4.31f1)
 * Implemented a basic Avatar Scaling configuration
 * Updated the liquid system to further address issues with getting into a bad state

@@ -8,6 +8,7 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
 
 #### Social Media
 * **Mastodon:** [@vrpug@arvr.social](https://arvr.social/@vrpug)
+* **Bluesky:** [@thegreatpug.com](https://bsky.app/profile/thegreatpug.com)
 * **Twitter:** [@vrpug](http://www.twitter.com/vrpug)
 
 #### Support On-going Development

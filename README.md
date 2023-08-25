@@ -23,6 +23,18 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.08.24 - The Great Pug
+* Updated LiquidSystem scripts to hopefully address unresponsiveness - Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL)
+* Updated Pickup Management scripts to optimize their performance a bit and address minor edge issues
+* Reimplemented the bar towel! - If this proves to be a performance issue, it will sadly have to leave again - [#129](https://github.com/owlboy/greatpug-public/issues/129) - Thanks [ItsKizzu](https://github.com/ItsKizzu)!
+* Reimplemented the Ribbon from Saint Patricks at The Pug 2017 - Grats Q! - [#129](https://github.com/owlboy/greatpug-public/issues/129)
+* Fixed an issue where the bannister for the stairs leading to the sleeping loft in The Roost was incomplete - [#131](https://github.com/owlboy/greatpug-public/issues/131)
+* Surveyed all of my textures to make sure none had stray unused Alpha channels wasting space – I didn't find any
+* Updated patron flyers
+* Turned on "Allow Collision Ownership Transfer" on all pickups, because "it's real good now"
+* Rebaked lighting and occlusion
+* Updated to com.vrchat.clientsim 1.2.7
+
 #### 2023.08.11 - The Great Pug
 * Implemented the new layer Interact Passthrough feature - This addresses issues with Desktop and Mobile users not being able to grab pickups on tables and in other contexts when VR users could - Thanks @hackspanner!
 * The bucket should be fillable with liquid now!

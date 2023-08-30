@@ -23,6 +23,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.08.29 - The Great Pug
+* Fixed incorrect home locations on most pickups - Thanks Phasedragon for dealing with me asking incomplete questions about it!
+* Objects should snap as expected now that they have proper home locations set
+* Updated the bar towel to prevent it from rolling away
+* Updated the occludee flag for all Mesh Renderers
+* Updated patron flyers
+* Misc minor fixes and adjustments
+
 #### 2023.08.24 - The Great Pug
 * Updated LiquidSystem scripts to hopefully address unresponsiveness - Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL)
 * Updated Pickup Management scripts to optimize their performance a bit and address minor edge issues

@@ -23,6 +23,18 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.09.15 - The Great Pug
+* Added Faux Audio Occlusion via Guribo's [UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils) - [#44](https://github.com/owlboy/greatpug-public/issues/44)
+* Installed some new coolers under the main bar, along with the bar in Night View - These should be more energy efficient
+* Fixed an issue preventing the telephone ringer from timing out for all users - [#137](https://github.com/owlboy/greatpug-public/issues/137)
+* Added a timeout to all Liquid Sources
+* Fixed some minor issues with the bathroom mirrors - [#138](https://github.com/owlboy/greatpug-public/issues/138)
+* Fixed some over zealous occlusion on railings downstairs and in The Roost - [#144](https://github.com/owlboy/greatpug-public/issues/144)
+* Fixed various mesh holes and clipping issues - [#139](https://github.com/owlboy/greatpug-public/issues/139), [#141](https://github.com/owlboy/greatpug-public/issues/141), [#143](https://github.com/owlboy/greatpug-public/issues/143)
+* Fixed an issue preventing desktop users from interacting with the men's room sinks - [#135](https://github.com/owlboy/greatpug-public/issues/135)
+* Improved a few meshes on the stage to reduce draw calls a bit
+* Misc minor fixes and adjustments
+
 #### 2023.08.29 - The Great Pug
 * Fixed incorrect home locations on most pickups - Thanks Phasedragon for dealing with me asking incomplete questions about it!
 * Objects should snap as expected now that they have proper home locations set

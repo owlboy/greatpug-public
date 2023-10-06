@@ -23,6 +23,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.10.05 - The Great Pug
+* The **seventh annual Halloween at The Pug** is Friday Oct. 27th @ 7PM Pacific! 🎃
+* Put up Halloween banners and tents
+* Tweaked how liquid fill level syncs to hopefully address issues
+* Updated patron flyers
+* Addressed mesh issues in The Roost - [#150](https://github.com/owlboy/greatpug-public/issues/150)
+* Misc minor adjustments
+
 #### 2023.09.15 - The Great Pug
 * Added Faux Audio Occlusion via Guribo's [UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils) - [#44](https://github.com/owlboy/greatpug-public/issues/44)
 * Installed some new coolers under the main bar, along with the bar in Night View - These should be more energy efficient

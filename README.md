@@ -23,6 +23,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.11.01 - The Great Pug
+* Removed decorations
+
+#### 2023.10.27 - The Great Pug
+* **Seventh Annual Halloween at The Pug!** 💀
+* Misc minor adjustments
+
 #### 2023.10.05 - The Great Pug
 * The **seventh annual Halloween at The Pug** is Friday Oct. 27th @ 7PM Pacific! 🎃
 * Put up Halloween banners and tents

@@ -23,6 +23,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2023.11.11 - The Great Pug
+* Fixed the house music - [#159](https://github.com/owlboy/greatpug-public/issues/159) - Thanks DAG!
+* Addressed some missing chair bottoms - [#158](https://github.com/owlboy/greatpug-public/issues/158) - Thanks Sacred!
+* Fixed a hole in the ceiling near the main bar area - [#154](https://github.com/owlboy/greatpug-public/issues/154) - Thanks kirtide!
+* Fixed a second hole in the ceiling near the main bar area - [#149](https://github.com/owlboy/greatpug-public/issues/149) - Thanks Wasmachineman-NL!
+* Updated patron flyers
+* Misc minor adjustments and changes
+
 #### 2023.11.01 - The Great Pug
 * Removed decorations
 

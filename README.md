@@ -23,6 +23,12 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+### 2023.11.30 - The Great Pug
+* The Yule Goat has risen once again! 🐐🔥
+* Fixed an issue that was potentially blotting out the stars in The Roost - [#160](https://github.com/owlboy/greatpug-public/issues/160) - Thanks Wasmachineman-NL!
+* Updated patron flyers
+* Misc minor adjustments
+
 #### 2023.11.11 - The Great Pug
 * Fixed the house music - [#159](https://github.com/owlboy/greatpug-public/issues/159) - Thanks DAG!
 * Addressed some missing chair bottoms - [#158](https://github.com/owlboy/greatpug-public/issues/158) - Thanks Sacred!

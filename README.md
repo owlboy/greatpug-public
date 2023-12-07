@@ -12,7 +12,7 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
 * **Twitter:** [@vrpug](http://www.twitter.com/vrpug)
 
 #### Support On-going Development
-You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). You can also donate via [Ko-fi](https://ko-fi.com/Manage/)! 
+You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). You can also donate via [Ko-fi](https://ko-fi.com/owlboy/)! 
 
 ### This Repository
 This repository is the public sister repository to the private repository for The Great Pug.

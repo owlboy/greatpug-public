@@ -23,6 +23,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+### 2023.12.20 - The Great Pug
+* Added gift boxes beneath the Christmas trees
+* Tweaked lighting
+* Updated patron flyers
+* Tweaked how avatar audio is handled by BetterPlayerAudio
+* Misc visual changes and adjustments
+
 ### 2023.11.30 - The Great Pug
 * The Yule Goat has risen once again! 🐐🔥
 * Fixed an issue that was potentially blotting out the stars in The Roost - [#160](https://github.com/owlboy/greatpug-public/issues/160) - Thanks Wasmachineman-NL!

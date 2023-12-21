@@ -25,6 +25,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 ### Change Log
 ### 2023.12.20 - The Great Pug
 * Added gift boxes beneath the Christmas trees
+* Added the 2023 coin! - Thanks Poplopo!
 * Tweaked lighting
 * Updated patron flyers
 * Tweaked how avatar audio is handled by BetterPlayerAudio

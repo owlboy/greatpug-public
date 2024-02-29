@@ -23,7 +23,19 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
-### 2023.12.20 - The Great Pug
+#### 2024.02.28 - The Great Pug
+* 🎉 Migrated to Unity 2022! 
+* ⚠️ This build is expected to have minor bugs due to the migration process. Please report any issues you find via [GitHub](https://github.com/owlboy/greatpug-public/issues) ! 
+* 💡 Overhauled lighting throughout!
+* 🪟 Installed a new window in the main staircase!
+* Improved various meshes throughout - exterior walls, interior trim, light map UVs, albedo UVs, etc.
+* Improved materials on some objects
+* Updated to com.vrchat.worlds 3.5.1
+* Updated to com.vrchat.base 3.5.1
+* Updated to com.llealloo.audiolink 1.3.0
+* Updated to com.acchosen.vr-stage-lighting 2.5.0
+
+#### 2023.12.20 - The Great Pug
 * Added gift boxes beneath the Christmas trees
 * Added the 2023 coin! - Thanks Poplopo!
 * Tweaked lighting
@@ -31,7 +43,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Tweaked how avatar audio is handled by BetterPlayerAudio
 * Misc visual changes and adjustments
 
-### 2023.11.30 - The Great Pug
+#### 2023.11.30 - The Great Pug
 * The Yule Goat has risen once again! 🐐🔥
 * Fixed an issue that was potentially blotting out the stars in The Roost - [#160](https://github.com/owlboy/greatpug-public/issues/160) - Thanks Wasmachineman-NL!
 * Updated patron flyers

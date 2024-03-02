@@ -23,6 +23,12 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+## 2024.03.02 - The Great Pug - Change Log
+* St. Patrick's day is almost upon us! ☘️
+* Gather some friends and have a party! - [Saturday March 16th at 7PM Pacific](https://arvr.social/@vrpug/112025733067610145)
+* Fixed most collision issues that resulted from the Unity 2022 upgrade - Thanks Wasmachineman-NL
+* Misc minor changes and fixes.
+
 #### 2024.02.28 - The Great Pug
 * 🎉 Migrated to Unity 2022! 
 * ⚠️ This build is expected to have minor bugs due to the migration process. Please report any issues you find via [GitHub](https://github.com/owlboy/greatpug-public/issues) ! 

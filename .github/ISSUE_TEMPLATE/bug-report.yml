@@ -24,15 +24,8 @@ body:
   - type: textarea
     id: screenshots
     attributes:
-      label: Screenshots
-      description: If applicable, add screenshots to help explain your problem.
-    validations:
-      required: false
-  - type: input
-    id: output-log
-    attributes:
-      label: Output Log
-      description: If applicable, attach your output log file. You can drag-and-drop it into this text field.
+      label: Screenshots & Output Logs
+      description: If applicable, add screenshots and/or output logs to help explain your problem.
     validations:
       required: false
   - type: dropdown

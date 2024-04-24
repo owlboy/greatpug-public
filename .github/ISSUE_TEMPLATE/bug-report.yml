@@ -32,7 +32,7 @@ body:
     id: output-log
     attributes:
       label: Output Log
-      description: If applicable, attach your output log file (accepted file types - .txt or .log)
+      description: If applicable, attach your output log file. Drag-and-drop it into this text field.
     validations:
       required: false
   - type: dropdown

@@ -12,6 +12,7 @@ body:
     attributes:
       label: Location
       description: Where did you encounter the geometry hole?
+      multiple: false
       options:
         - Entry Area
         - Main Bar Area

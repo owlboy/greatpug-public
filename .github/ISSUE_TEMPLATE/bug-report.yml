@@ -1,6 +1,6 @@
-name: Bug Report 
-description: File a bug report
-title: "[Bug]: "
+name: Pug Bug Report 
+description: Help us improve…
+title: "[Bug] "
 labels: ["bug"]
 body:
   - type: markdown
@@ -14,6 +14,7 @@ body:
       description: A clear and concise description of what the bug is.
     validations:
       required: true
+      render: textarea
   - type: textarea
     id: expected-behavior
     attributes:
@@ -21,6 +22,7 @@ body:
       description: A clear and concise description of what you expected to happen.
     validations:
       required: true
+      render: textarea
   - type: textarea
     id: screenshots
     attributes:
@@ -53,3 +55,5 @@ body:
       description: Add any other context about the problem here.
     validations:
       required: false
+      render: textarea
+

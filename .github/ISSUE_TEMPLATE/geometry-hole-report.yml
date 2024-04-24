@@ -1,0 +1,53 @@
+name: Geometry Hole Report
+description: Oh no, another hole?
+title: "[GH]: "
+labels: ["geometry-holes", "bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for reporting a geometry hole! Please provide the following information to help us investigate and fix the issue.
+  - type: dropdown
+    id: location
+    attributes:
+      label: Location
+      description: Where did you encounter the geometry hole?
+      options:
+        - Entry Area
+        - Main Bar Area
+        - First Floor Hallways
+        - Utility Room
+        - The Kitchen
+        - Staircase - Main
+        - Staircase - Back
+        - Night View Hall
+        - The Roost
+        - The Basement
+        - Out Back
+        - Bathroom - Blue
+        - Bathroom - Orange
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: closeup-screenshot
+    attributes:
+      label: Closeup Screenshot
+      description: Please provide a closeup screenshot of the geometry hole. This will help us identify the exact location and nature of the issue.
+      render: textarea
+    validations:
+      required: true
+  - type: textarea
+    id: wide-screenshot
+    attributes:
+      label: Wide Screenshot
+      description: Please provide a wide screenshot showing the area around the geometry hole. This will give us context about where the hole is located.
+      render: textarea
+    validations:
+      required: true
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: If you have any additional information or observations about the geometry hole, please provide them here.
+      render: textarea

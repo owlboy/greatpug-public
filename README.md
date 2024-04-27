@@ -29,6 +29,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Adjusted audio falloff on pool table sounds
 * Fixed broken Tapster controls - Thanks @Zarniwoop!
 * Adjusted how collision works on staircases - Thanks @Zarniwoop!
+* Increased the volume on the house music - Thanks Zarniwoop!
 * Improved UV Maps in some areas.
 * Fixed various geometry holes - Thanks Wasmachineman-NL
 * Swapped back in various meshes that had regressed to older versions during the Unity 2022 upgrade.

@@ -34,6 +34,22 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Swapped back in various meshes that had regressed to older versions during the Unity 2022 upgrade.
 * Reduced overdraw in a few places.
 * Misc changes and additions.
+  
+#### 2024.03.04 - 2024.03.18 - The Great Pug
+* :shamrock: Eighth Annual St. Patrick's at The Pug :shamrock:
+* Added a Tip Bowl!
+* Adjusted lighting to improve scene brightness
+* Improved geometry normals on the welcome desk sign - Thanks to Sacred for improving the geometry!
+* Rearranged the tables in Night View
+* Repainted various walls
+* Improved the geometry behind the corner booth in the main bar area
+* Fixed misaligned faucets - Thanks Wasmachineman-NL!
+* Fixed an exploit with the Tip Bowl - Thanks blair123xyz!
+* Fixed an issue with desktop users not being able to see the pool table clearly - Thanks MissingNO123!
+* Fixed various issues with collision and culling stemming from the Unity 2022 upgrade - Thanks Wasmachineman-NL!
+* Added shelves to the sleeping area
+* Improved lightmap UVs on various objects
+* 2024.03.18 - Party Decorations and Music removed
 
 #### 2024.03.02 - The Great Pug
 * St. Patrick's day is almost upon us! ☘️

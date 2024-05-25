@@ -23,12 +23,40 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.05.24 – The Great Pug
+* Addressed Ownership issues with bar lock
+* Improved the reliability of Tapster functionality
+* Messed-with the Bell wiring – hopefully those other bells ring now…
+* Improved performance of the PickupJitterFix script - Thanks Techanon!
+* Adjusted Liquid System scripts to hopefully be a bit more reliable?
+* Added supporter list for VRCreator Economy Supporters
+* Adjusted a few key colors
+* Improved various mesh UVs
+* Replaced the chairs in The Roost – The new chairs offer more lumbar support
+* Added proper LOD meshes to metal corner guards, metal stair treads, globe lights and wall outlets
+* Reduced geometry complexity in some areas
+* VRCSDK Bump – `com.vrchat.worlds 3.6.0`
+* Upgraded project to `Unity 2022.3.22f1`
+* Rebaked lighting and occlusion
+* Misc adjustments and fixes
+
+#### 2024.05.09 - 2024.05.10 – The Great Pug
+* Rebuilt bar lock functionality based on Tapster feedback.
+* Added more tapster functionality
+* Moved objects off of the the PlayerLocal layer - Thanks Soul!
+* Updated various meshes
+* Adjusted material properties to improve batching in some areas
+* Rebaked lighting
+* Fixed issues with player
+* Fixed collision on floor-mats - Thanks Xiexe!
+* Fixed collision on long tables - Thanks Xiexe!
+
 #### 2024.04.26 - The Great Pug
 * Modified player collision throughout the pug.
 * Performed some long overdue Booth Maintenance.
 * Adjusted audio falloff on pool table sounds
-* Fixed broken Tapster controls - Thanks @Zarniwoop!
-* Adjusted how collision works on staircases - Thanks @Zarniwoop!
+* Fixed broken Tapster controls - Thanks Zarniwoop!
+* Adjusted how collision works on staircases - Thanks Zarniwoop!
 * Increased the volume on the house music - Thanks Zarniwoop!
 * Improved UV Maps in some areas.
 * Fixed various geometry holes - Thanks Wasmachineman-NL

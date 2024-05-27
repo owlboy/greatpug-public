@@ -23,6 +23,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.05.26 – The Great Pug
+* Rebuilt light probes in The Roost, main bar, both staircases, and hallways.
+* Reverted changes to the Bell system
+* Rescued the bathroom couch from the mirror void – Thanks [Fiszl](https://github.com/Fiszl)!
+* Reduced overdraw just a bit on the first floor
+* Misc fixes and changes
+
 #### 2024.05.24 – The Great Pug
 * Addressed Ownership issues with bar lock
 * Improved the reliability of Tapster functionality

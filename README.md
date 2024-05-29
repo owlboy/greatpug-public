@@ -2318,7 +2318,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 
 #### 04/14/17
 * Event board added
-* Easter eggs added for easter
+* Easter eggs added for Easter
 * Lighting changes
 * Wine bottles added
 * Wine glasses added
@@ -2452,7 +2452,7 @@ Thanks for the help testing Zarniwoop, Poplopo, and Zircronswift!
 * Minor Fixes
 
 #### 02/24/17
-* Added the back room and it's keypad
+* Added the back room and back room keypad
 * Minor fixes
 
 #### 02/23/17

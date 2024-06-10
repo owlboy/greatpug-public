@@ -23,6 +23,18 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.06.09 – The Great Pug
+* Installed new windows up in The Roost 🪟
+* Replaced a few outlets that were of the wrong plug-type – Thanks [MissingNO123](https://github.com/MissingNO123)! [#213](https://github.com/owlboy/greatpug-public/issues/213)
+* Improved light probes near the main entrance
+* Improved mesh UVs on the stage
+* Improved light map UVs on various objects
+* Added hinge meshes to most doors
+* Fixed an issue causing double door meshes near the entrance
+* Fixed unintentional transparent overdraw near the front door
+* Addressed an issue with part of the floor not appearing in the Bar mirror - [#211](https://github.com/owlboy/greatpug-public/issues/211)
+* Fixed missing collision on the side tabes in The Roost - [#212](https://github.com/owlboy/greatpug-public/issues/212)
+
 #### 2024.05.26 – The Great Pug
 * Rebuilt light probes in The Roost, main bar, both staircases, and hallways.
 * Reverted changes to the Bell system

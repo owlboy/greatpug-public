@@ -13,7 +13,8 @@ A Bar in the Metaverse ([VRChat](http://vrchat.net/ "VRChat")). Now with a small
 
 #### Support On-going Development
 You can support on-going maintenance, events, and expansion to The Great Pug by joining my [Patreon](http://patreon.com/owlboy "patreon.com/owlboy"). You can also donate via [Ko-fi](https://ko-fi.com/owlboy/)! 
-You can also subscribe or tip via the VRChat Creator Economy to receive these bonus perks:
+
+You can also subscribe or tip via the [VRChat Creator Economy](https://vrchat.com/home/group/grp_f48d37c8-712a-4189-953f-2747e8e28c6f/store) to receive these bonus perks:
 * Have your name displayed on the wall.
 * Gain a minor jump increase for everyone in the instance, stacking with contributions from others!
 

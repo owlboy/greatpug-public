@@ -28,6 +28,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.06.22 – The Great Pug
+* Added support pillars in Night View to head off any structural issues that might come from developing the higher floors…
+* Improved leg comfort on the new chairs in The Roost - Thanks Hackspanner!
+* Fixed an issue preventing Desktop users from easily starting a game of Pool - Thanks [MissingNO123](https://github.com/MissingNO123)!
+* Improved materials on a few items in Night View
+* Misc minor changes
+
 #### 2024.06.09 – The Great Pug
 * Installed new windows up in The Roost 🪟
 * Replaced a few outlets that were of the wrong plug-type – Thanks [MissingNO123](https://github.com/MissingNO123)! [#213](https://github.com/owlboy/greatpug-public/issues/213)

@@ -28,6 +28,22 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.06.29 – The Great Pug
+* Hung up a bunch of event photos! Halloween 2022 through St. Patrick's 2024. More to come!
+* Installed pillars in The Roost, too.
+* Reinforced the fireplace and addressed light leakage - Thanks Sacred!
+* Overhauled the skylight in The Roost.
+* Updated the floor boards in the sleeping loft.
+* Installed a new Pug logo on the railing in the sleeping loft.
+* Raised the Minor Jump Increase buff a small amount. Gained by tipping via the Creator Economy.
+* Added a new Jukebox outlet.
+* Improved the geometry of the Night View bar top a bit.
+* Replaced the expired fire extinguishers.
+* Added decorative knobs to some furniture.
+* Fixed and adjusted light fixture placement in various areas in Night View.
+* Improved lightmap UVs on various objects throughout The Pug.
+* Misc minor fixes and changes.
+
 #### 2024.06.22 – The Great Pug
 * Added support pillars in Night View to head off any structural issues that might come from developing the higher floors…
 * Improved leg comfort on the new chairs in The Roost - Thanks Hackspanner!

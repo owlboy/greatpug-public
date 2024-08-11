@@ -28,6 +28,18 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.08.10 – The Great Pug
+* Updated Patron flyers
+* Updated Filamented to [b32dc9ab](https://gitlab.com/s-ilent/filamented/-/tree/b32dc9abbcf0b7bb71336a42b9f7df54c19b9c47) - Thanks Silent!
+* Removed log messages intended for bots
+* Disabled some debug logging
+* Work has begun on Halloween at The Pug - 2024! **Saturday, October 26th** 🎃
+
+#### 2024.07.12 – The Great Pug
+* Rate limiting changes
+* Disabled some debug logging
+* Misc scripting changes
+
 #### 2024.06.29 – The Great Pug
 * Hung up a bunch of event photos! Halloween 2022 through St. Patrick's 2024. More to come!
 * Installed pillars in The Roost, too.

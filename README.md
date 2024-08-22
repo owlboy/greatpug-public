@@ -28,6 +28,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.08.21 – The Great Pug
+* Minor trust and safety improvements - Thanks [@DrakenStark](https://github.com/DrakenStark)!
+* Removed alarm clock
+* Updated to com.vrchat.worlds 3.7.0
+* Updated to com.vrchat.base 3.7.0
+* Updated to com.acchosen.vr-stage-lighting 2.7.1
+* Misc minor changes
+
 #### 2024.08.10 – The Great Pug
 * Updated Patron flyers
 * Updated Filamented to [b32dc9ab](https://gitlab.com/s-ilent/filamented/-/tree/b32dc9abbcf0b7bb71336a42b9f7df54c19b9c47) - Thanks Silent!

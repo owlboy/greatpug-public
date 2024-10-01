@@ -28,6 +28,19 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.09.30 – The Great Pug
+* Updated Patron flyers
+* Improved light probes in The Roost to reduce incidence of probes being inside of geometry.
+* Fixed minor collision issues in The Roost.
+* Fixed Interact Passthrough - A recent VRChat SDK update did not preserve this setting.
+* Disabled some debug log messages that don't need to be in the live version of The Pug.
+* Ensured Kaiser Mipmap Filtering is enabled for all textures. This should ensure the new "Detail Preserving Image Downscaling" (DPID) mipmaps are active in The Great Pug.
+* Fiddled with the Bell again.
+* Adjusted LOD view distance on a few objects.
+* Updated to com.vrchat.base 3.7.2-beta.2
+* Updated to com.vrchat.worlds 3.7.2-beta.2
+* Work continues on Halloween at The Pug - 2024! **Saturday, October 26th** 🎃
+
 #### 2024.08.21 – The Great Pug
 * Minor trust and safety improvements - Thanks [@DrakenStark](https://github.com/DrakenStark)!
 * Removed alarm clock

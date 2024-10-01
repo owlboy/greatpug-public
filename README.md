@@ -34,7 +34,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Fixed minor collision issues in The Roost.
 * Fixed Interact Passthrough - A recent VRChat SDK update did not preserve this setting.
 * Disabled some debug log messages that don't need to be in the live version of The Pug.
-* Ensured Kaiser Mipmap Filtering is enabled for all textures. This should ensure the new "Detail Preserving Image Downscaling" (DPID) mipmaps are active in The Great Pug.
+* Enabled Kaiser Mipmap Filtering for all textures. This should ensure the new "Detail Preserving Image Downscaling" (DPID) mipmaps are active in The Great Pug.
 * Fiddled with the Bell again.
 * Adjusted LOD view distance on a few objects.
 * Updated to com.vrchat.base 3.7.2-beta.2

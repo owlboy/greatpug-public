@@ -28,6 +28,17 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.11.01 – The Great Pug
+* Decorations and music from Halloween at The Pug have been removed
+* Fixed some LOD issues with the snack bowls - Thanks @LavaSmoke1!
+
+#### 2024.10.26 – The Great Pug
+* Halloween at The Pug 2024 is live! 🎃
+* Erected a circus tent in Night View! 🎪
+* Updated Patron flyers
+* Updated to com.llealloo.audiolink 2.0.0
+* Updated to com.acchosen.vr-stage-lighting 2.7.1
+
 #### 2024.09.30 – The Great Pug
 * Updated Patron flyers
 * Improved light probes in The Roost to reduce incidence of probes being inside of geometry.

@@ -28,6 +28,11 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.11.08 – The Great Pug
+* Updated Patron Flyers
+* Updated to com.vrchat.base 3.7.3
+* Updated to com.vrchat.worlds 3.7.3
+
 #### 2024.11.01 – The Great Pug
 * Decorations and music from Halloween at The Pug have been removed
 * Fixed some LOD issues with the snack bowls - Thanks @LavaSmoke1!

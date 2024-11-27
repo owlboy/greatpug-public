@@ -28,6 +28,24 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.11.26 – The Great Pug
+* **Added support for the new [Persistence System](https://creators.vrchat.com/worlds/udon/persistence/) provided by the VRChat Worlds SDK!** – This means that settings will save between visits to The Great Pug!
+* The Yule Goat has risen once again! 🐐🔥
+* Decorated for the winter holidays!
+* Fixed an issue causing one of the dice to fall through the world
+* Investigated the fireplace to remove all traces of green fire
+* Brightened up the fire a bit
+* Rebaked lighting
+* Rebaked occlusion
+* Fixed an issue impacting audio occlusion working as intended
+* Tweaked the liquid system - Maybe it's more reliable? Maybe it's totally broken? Let me know! _Be sure to use a fresh instance when testing_.
+* Updated Patron Flyers
+* Updated the notice board to include Bluesky — [@thegreatpug.com](https://bsky.app/profile/thegreatpug.com)
+* Updated floor materials to look better in some cases
+* Updated a limited number of surfaces to keep them sticker free
+* Updated to com.vrchat.base 3.7.4
+* Updated to com.vrchat.worlds 3.7.4
+
 #### 2024.11.08 – The Great Pug
 * Updated Patron Flyers
 * Updated to com.vrchat.base 3.7.3

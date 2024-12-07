@@ -28,6 +28,15 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.12.06 – The Great Pug
+* Updated Patron Flyers
+* Reduced material and texture count a bit
+* Adjusted overall lighting
+* Improved the batching of walls a bit
+* Adjusted the appearance of the Christmas lights
+* Fixed a hole in the trunks of the Christmas trees
+* Misc minor updates and fixes
+
 #### 2024.11.26 – The Great Pug
 * **Added support for the new [Persistence System](https://creators.vrchat.com/worlds/udon/persistence/) provided by the VRChat Worlds SDK!** – This means that settings will save between visits to The Great Pug!
 * The Yule Goat has risen once again! 🐐🔥

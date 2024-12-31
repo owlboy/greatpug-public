@@ -28,6 +28,18 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2024.12.30 – The Great Pug
+* Updated The Button.
+* Added support for VRC+ Gift Bomb events
+* Brightened the specular captured by Reflection Probes ✨
+* Improved material count on various objects
+* Reduced overall material count by a bit
+* Added LOD1 meshes to some items
+* Improved reflection probe priority in some places
+* Updated Patron Flyers
+* Updated to com.vrchat.base 3.7.5
+* Updated to com.vrchat.worlds 3.7.5
+
 #### 2024.12.06 – The Great Pug
 * Updated Patron Flyers
 * Reduced material and texture count a bit

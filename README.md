@@ -28,6 +28,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2025.01.21 – The Great Pug
+* Added a `PoolTableMonitor` that should reset the Pool Table when all active players leave the instance. – Thanks [Celaline](https://github.com/Celaline), [Friskyweed](https://github.com/Friskyweed), [KiwiFemboi](https://github.com/KiwiFemboi)!
+* Updated patron flyers
+* Updated the taps to hopefully fix an Ownership Transfer issue. – Thanks [Friskyweed](https://github.com/Friskyweed)!
+* Fixed the position of a back staircase collider that was loitering in the hallway. – Thanks [Wasmachineman-NL](https://github.com/Wasmachineman-NL), [Friskyweed](https://github.com/Friskyweed)!
+* Removed the Christmas Trees and Yule Goat
+* Rebaked lighting
+
 #### 2024.12.30 – The Great Pug
 * Updated The Button.
 * Added support for VRC+ Gift Bomb events

@@ -28,6 +28,16 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2025.02.23 – The Great Pug
+* ☘️ The Ninth Annual St. Patrick's at The Pug is Saturday March 15th at 7pm Pacific! ☘️
+* Banners are up promoting the party
+* Winter decorations taken down
+* Updated patron flyers
+* Addressed some scuffs and marks on the shelves in the back room - Thanks [Wasmachineman-NL](https://github.com/owlboy/greatpug-public/issues/241)
+* Improved light mapping near the main stairs - Thanks [Wasmachineman-NL](https://github.com/owlboy/greatpug-public/issues/239)
+* Fixed some bothersome collision near the mirror - Thanks [Treijim](https://github.com/owlboy/greatpug-public/issues/240)!
+* Misc minor changes and fixes
+
 #### 2025.01.21 – The Great Pug
 * Added a `PoolTableMonitor` that should reset the Pool Table when all active players leave the instance. – Thanks [Celaline](https://github.com/Celaline), [Friskyweed](https://github.com/Friskyweed), [KiwiFemboi](https://github.com/KiwiFemboi)!
 * Updated patron flyers

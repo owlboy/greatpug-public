@@ -28,6 +28,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2025.03.18 – The Great Pug
+* Decorations and Music removed
+* Misc minor changes
+
+#### 2025.03.15 – The Great Pug
+* ☘️ The Ninth Annual St. Patrick's at The Pug ☘️
+
 #### 2025.02.23 – The Great Pug
 * ☘️ The Ninth Annual St. Patrick's at The Pug is Saturday March 15th at 7pm Pacific! ☘️
 * Banners are up promoting the party

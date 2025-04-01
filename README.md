@@ -28,6 +28,16 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2025.04.01 – The Great Pug
+* Added animation to the bell system
+* Updated patron flyers
+* Updated log prefixes on various scripts
+* Updated the PoolTableMonitor to reduce simultaneous ownership requests
+* Updated the Red Phone
+* Rebaked lighting
+* Misc minor updates and changes
+* _Oh, Rats!_
+
 #### 2025.03.18 – The Great Pug
 * Decorations and Music removed
 * Misc minor changes

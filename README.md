@@ -28,6 +28,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2025.04.15 – The Great Pug
+* _The rats seem to have vanished…_
+* Rebaked lighting
+* Misc minor changes and fixes
+* Updated to com.vrchat.base 3.8.0
+* Updated to com.vrchat.worlds 3.8.0
+
 #### 2025.04.01 – The Great Pug
 * Added animation to the bell system
 * Updated patron flyers

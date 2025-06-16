@@ -28,6 +28,22 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### 2025.06.15 – The Great Pug
+* Added initial [VRC Light Volumes](https://github.com/REDSIM/VRCLightVolumes) support - Testing things out!
+Thank you [@REDSIM](https://github.com/REDSIM) and [@pema99](https://github.com/pema99) for putting up with my questions and suggestions!
+* Added a new system to manage active objects!
+	* Light Volumes are disabled when you can't see them; hopefully minimizing their performance impact
+* Updated Filamented to the latest version - Thanks [@Silent](https://gitlab.com/s-ilent/) for the Light Volumes support and recent bug fixes!
+* Updated from Guribo's Better Player Audio to Guribo's UdonVoiceUtilities! - _finally_ - Thanks [@Guribo](https://github.com/Guribo)!
+* Improved toilet functionality!
+* Updated Patron flyers
+* Added LOD levels to a few objects
+* Fixed redundant LOD Groups on some tables
+* Addressed all missing LOD references throughout the scene
+* Misc minor changes and fixes
+* Updated to com.vrchat.base 3.8.1
+* Updated to com.vrchat.worlds 3.8.1
+
 #### 2025.04.15 – The Great Pug
 * _The rats seem to have vanished…_
 * Rebaked lighting

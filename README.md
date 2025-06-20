@@ -28,6 +28,10 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+
+#### 2025.06.19 – The Great Pug
+* Fixed an issue where voice audio was unintentionally being strongly occluded by other players - Fixing #252 - Thanks **Skuld**, @Wiqery, @Wasmachineman-NL
+
 #### 2025.06.15 – The Great Pug
 * Added initial [VRC Light Volumes](https://github.com/REDSIM/VRCLightVolumes) support - Testing things out!
 Thank you [@REDSIM](https://github.com/REDSIM) and [@pema99](https://github.com/pema99) for putting up with my questions and suggestions!

@@ -28,6 +28,26 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2025.07.29 & 2025.08.09
+* Upgraded to VRC Light Volumes 2.0!
+* Update patron flyers
+* Improved the performance of various scripts related to pickups.
+* Fixed an issue that was causing most walls to be smoother than intended
+* Upgraded the shader used for the walls. It's now based on Filamented instead of Unity Standard! – Thanks [hackspanner](https://github.com/hackspanner) and [boatfloater](https://github.com/boatfloater)!
+* Adjusted Udon Voice Utilities to address avatar sound issues
+* Improvements to the liquid system
+* New features in the liquid system
+* Fixed an issue causing the bucket to not drain
+* Minor improvements to Pickup Management scripts
+* Recompiled all Amplify Shaders with Amplify 1.9.9.1
+* Improved occlusion on various objects throughout The Pug
+* Improved batching and instancing on a surprising number of objects throughout The Pug
+* Addressed a few negatively scaled box colliders
+* Fixed an issue preventing the 'Transmitted' light from flashing when saving persistent data
+* Rebaked lighting
+* Rebaked occlusion
+* Thank you to [g17123](https://github.com/g17123), [jebuzjack](https://github.com/jebuzjack), [Wasmachineman-NL](https://github.com/Wasmachineman-NL) and [RED_SIM](https://github.com/REDSIM) for reporting performance issues and helping test!
+* Misc minor changes and fixes
 
 #### 2025.06.19 – The Great Pug
 * Fixed an issue where voice audio was unintentionally being strongly occluded by other players - Fixing #252 - Thanks **Skuld**, @Wiqery, @Wasmachineman-NL

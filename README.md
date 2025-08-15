@@ -28,6 +28,13 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2025.08.14
+* Upgraded to VRC Light Volumes 2.0.1! – This release is intended to address avatar loading hitches related to LV being used on Avatars. Be sure to upgrade your avatar shaders too! - Thanks **[@lilxyzw](https://github.com/lilxyzw)** and **Sacred**!
+* Fixed an issue causing the pool cues to be occluded - Thanks **DrBenStoneSage**!
+* Rebaked lighting to address some minor light mapping issues near the front door - Thanks **Wasmachineman-NL**
+* Fixed missing collision on some back staircase doors. - Thanks **Wasmachineman-NL**
+* A few minor adjustments and changes.
+
 #### The Great Pug - 2025.07.29 & 2025.08.09
 * Upgraded to VRC Light Volumes 2.0!
 * Added a toggle for disabling Light Volumes. - Known issue: some objects will appear black or dark with LV disabled.

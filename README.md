@@ -30,6 +30,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 ### Change Log
 #### The Great Pug - 2025.07.29 & 2025.08.09
 * Upgraded to VRC Light Volumes 2.0!
+* Added a toggle for disabling Light Volumes. - Known issue: some objects will appear black or dark with LV disabled.
 * Update patron flyers
 * Improved the performance of various scripts related to pickups.
 * Fixed an issue that was causing most walls to be smoother than intended

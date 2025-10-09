@@ -28,7 +28,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
-## The Great Pug - 2025.09.08
+## The Great Pug - 2025.10.08
 * **Halloween at The Pug is on Oct. 31st at 7pm Pacific! 👽**
 * Updated VRC Light Volumes [v2.1.2](https://github.com/REDSIM/VRCLightVolumes/releases/tag/v.2.1.2)! - **Be sure to update your avatar shaders in time for Halloween at The Pug!**
 * Improved the toggling of Light Volumes as you move through The Pug

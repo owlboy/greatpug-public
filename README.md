@@ -53,7 +53,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Updated TLP UdonUtils (tlp.udonutils) 3.0.2 
 * Updated VRChat SDK - Base (com.vrchat.base) 3.9.0
 * Updated VRChat SDK - Worlds (com.vrchat.worlds) 3.9.0 - Thanks for the shader fix **VRChat**! - **@orels**
-* Shout out to [VRWorld Toolkit](https://github.com/oneVR/VRWorldToolkit) - Thanks for the update **1**!
+* Shout out to [VRWorld Toolkit](https://github.com/oneVR/VRWorldToolkit) - Thanks for the update **@oneVR**!
 * Implemented many additions that won’t be enumerated in these patch notes 😏
 
 #### The Great Pug - 2025.08.14

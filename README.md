@@ -28,6 +28,34 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+## The Great Pug - 2025.09.08
+* **Halloween at The Pug is on Oct. 31st at 7pm Pacific! 👽**
+* Updated VRC Light Volumes [v2.1.2](https://github.com/REDSIM/VRCLightVolumes/releases/tag/v.2.1.2)! - **Be sure to update your avatar shaders in time for Halloween at The Pug!**
+* Improved the toggling of Light Volumes as you move through The Pug
+* Added VRC Light Volumes volumes to the main staircase
+* Rebaked all Light Volumes - There should be slightly less aliasing now
+* Added railings
+* Updated the bucket
+* Fixed multiple misconfigured LOD groups
+* New LOD meshes on a few higher poly objects
+* Reduced the number of materials used for the Pool Table
+* Improved light map UVs on round tables
+* Improved light map UVs on various meshes
+* Improved color balance across many materials
+* Improved audio occlusion colliders
+* Improved player collision
+* Improved minor overdraw issues in some areas
+* Removed duplicate colliders
+* Removed some redundant geometry
+* Removed a duplicate paper towel dispenser?!
+* Reduced the geometric complexity on various objects
+* Updated Filamented to the latest commit [cb57fb15](https://gitlab.com/s-ilent/filamented/-/tree/cb57fb15411aee0b58b3fc6c853c35e68839f0b3)
+* Updated TLP UdonUtils (tlp.udonutils) 3.0.2 
+* Updated VRChat SDK - Base (com.vrchat.base) 3.9.0
+* Updated VRChat SDK - Worlds (com.vrchat.worlds) 3.9.0 - Thanks for the shader fix **VRChat**! - **@orels**
+* Shout out to [VRWorld Toolkit](https://github.com/oneVR/VRWorldToolkit) - Thanks for the update **1**!
+* Implemented many additions that won’t be enumerated in these patch notes 😏
+
 #### The Great Pug - 2025.08.14
 * Upgraded to VRC Light Volumes 2.0.1! – This release is intended to address avatar loading hitches related to LV being used on Avatars. Be sure to upgrade your avatar shaders too! - Thanks **[@lilxyzw](https://github.com/lilxyzw)** and **Sacred**!
 * Fixed an issue causing the pool cues to be occluded - Thanks **DrBenStoneSage**!

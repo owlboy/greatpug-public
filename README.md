@@ -28,6 +28,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2025.10.17
+A small update with some things I got distracted by when I should be working on Halloween stuff! :ALIENDEAL: 
+* Improved the triangle count on a few items by up to 50%
+* Added LOD1 to stools
+* Added LOD1 to small round tables
+* Improved occlusion and reflection settings for some meshes on the staircase
+* Misc minor adjustments
+
 #### The Great Pug - 2025.10.16
 * Fixed an issue causing darkness out back near the kitchen door. - Thanks @notmarlon1!
 * Fixed an issue causing the desktop view of the Pool Table to be occluded by the light above. - Thanks @notmarlon1!

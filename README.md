@@ -28,6 +28,19 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2025.12.04
+* The Yule Goat has risen once again!
+* Implemented holiday decorations! This includes long overdue Christmas lights for Night View!
+* Implemented VRCContactSenders - `water` and `fire`!
+* Updated the Liquid System to hopefully address issues preventing users from activating or deactivating taps.
+* Opened the VRChat Creator Economy World Store for The Great Pug.
+* Improved the Minor Jump Increase that all players get when when 1-3 players in the same instance possess the buff.
+* Activated “Override Kaiser mipmapping with Detail-Preserving Image Downscaling (BETA)” in the VRCSDK Settings (I thought this was on by default…)
+* Upgraded VRC Light Volumes (red.sim.lightvolumes) 2.1.3
+* Upgraded UdonVoiceUtils (tlp.udonvoiceutils) 5.0.1
+* Upgraded VRChat SDK - Base (com.vrchat.base) 3.10.1
+* Upgraded VRChat SDK - Worlds (com.vrchat.worlds) 3.10.1
+
 #### The Great Pug - 2025.10.17
 A small update with some things I got distracted by when I should be working on Halloween stuff! :ALIENDEAL: 
 * Improved the triangle count on a few items by up to 50%

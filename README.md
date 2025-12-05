@@ -34,7 +34,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Implemented VRCContactSenders - `water` and `fire`!
 * Updated the Liquid System to hopefully address issues preventing users from activating or deactivating taps.
 * Opened the VRChat Creator Economy World Store for The Great Pug.
-* Improved the Minor Jump Increase that all players get when when 1-3 players in the same instance possess the buff.
+* Improved the Minor Jump Increase when 1-3 players in the same instance possess the buff.
 * ~~Activated “Override Kaiser mipmapping with Detail-Preserving Image Downscaling (BETA)” in the VRCSDK Settings (I thought this was on by default…)~~
 * Upgraded VRC Light Volumes (red.sim.lightvolumes) 2.1.3
 * Upgraded UdonVoiceUtils (tlp.udonvoiceutils) 5.0.1

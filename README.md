@@ -28,6 +28,21 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2025.12.06
+* Addressed various warnings that appeared at scene start
+* Enhanced Toilet interactions - Toilet seat sounds; double-interact to slam the seat down!
+* Added audio to beer taps when liquid is flowing
+* Added LOD1 to the standard chairs
+* Added LOD culling to various Christmas decorations
+* Adjusted LOD culling on Christmas lights
+* Fixed missing LOD references on a few objects
+* Reduced poly count: long tables; Night View hanging lighting; wreaths; Christmas trees
+* Improved normals: long tables; 
+* Improved light map UVs: long tables;
+* Improved materials on various objects
+* Adjusted post processing and overall lighting
+* Misc minor changes and fixes
+
 #### The Great Pug - 2025.12.04
 * The Yule Goat has risen once again!
 * Implemented holiday decorations! This includes long overdue Christmas lights for Night View!

@@ -1,0 +1,44 @@
+name: Update state.json weather
+
+on:
+  schedule:
+    - cron: "*/7 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Update weather section in data/state.json
+        env:
+          WEATHER_ADDRESS: ${{ secrets.WEATHER_ADDRESS }}
+
+          # Optional config vars (use repo Variables if you created them)
+          TEMP_UNIT: ${{ vars.TEMP_UNIT }}
+          WIND_UNIT: ${{ vars.WIND_UNIT }}
+          PRECIP_UNIT: ${{ vars.PRECIP_UNIT }}
+          PRESSURE_UNIT: ${{ vars.PRESSURE_UNIT }}
+          TZ: ${{ vars.TZ }}
+        run: bash scripts/update-weather-into-state.sh
+
+      - name: Commit and push if changed
+        run: |
+          set -e
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          git commit -m "Update weather in state.json"
+          git push

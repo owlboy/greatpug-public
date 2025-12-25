@@ -1,11 +1,11 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2025-12-25T06:48:12Z",
+    "fetched_at_utc": "2025-12-25T06:59:25Z",
     "units": "imperial",
-    "temperature": 29.73,
-    "apparent_temperature": 29.73,
-    "relative_humidity_percent": 78,
+    "temperature": 28.62,
+    "apparent_temperature": 28.62,
+    "relative_humidity_percent": 83,
     "pressure_hpa": 1031,
     "cloud_cover_percent": 27,
     "uv_index": 1.52,

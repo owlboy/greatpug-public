@@ -4,10 +4,11 @@ set -euo pipefail
 STATE_FILE="data/state.json"
 TMP_FILE="data/state.json.tmp"
 
-# Address is provided via env
-WEATHER_ADDRESS="${WEATHER_ADDRESS:?Missing WEATHER_ADDRESS env var}"
+# Location is provided via env 
+WEATHER_LAT="${WEATHER_LAT:?Missing WEATHER_LAT env var}"
+WEATHER_LON="${WEATHER_LON:?Missing WEATHER_LON env var}"
 
-# Optional config
+# Optional config via env vars
 TEMP_UNIT="${TEMP_UNIT:-fahrenheit}"
 WIND_UNIT="${WIND_UNIT:-mph}"
 PRECIP_UNIT="${PRECIP_UNIT:-inch}"
@@ -19,28 +20,9 @@ if [[ ! -f "$STATE_FILE" ]]; then
   echo '{}' > "$STATE_FILE"
 fi
 
-# 1) Geocode 
-geo_json="$(
-  curl -fsSL --get \
-    --data-urlencode "name=${WEATHER_ADDRESS}" \
-    --data-urlencode "count=1" \
-    --data-urlencode "language=en" \
-    --data-urlencode "format=json" \
-    "https://geocoding-api.open-meteo.com/v1/search"
-)"
-
-lat="$(echo "$geo_json" | jq -r '.results[0].latitude // empty')"
-lon="$(echo "$geo_json" | jq -r '.results[0].longitude // empty')"
-
-if [[ -z "${lat}" || -z "${lon}" ]]; then
-  echo "Geocoding failed."
-  exit 1
-fi
-
-# 2) Fetch current weather
 wx_json="$(
   curl -fsSL \
-    "https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}\
+    "https://api.open-meteo.com/v1/forecast?latitude=${WEATHER_LAT}&longitude=${WEATHER_LON}\
 &current=temperature_2m,apparent_temperature,relative_humidity_2m,\
 precipitation,rain,showers,snowfall,weather_code,\
 wind_speed_10m,wind_direction_10m,wind_gusts_10m,pressure_msl\
@@ -48,7 +30,6 @@ wind_speed_10m,wind_direction_10m,wind_gusts_10m,pressure_msl\
 &timezone=${TZ}"
 )"
 
-# 3) Build
 weather_obj="$(
   jq -n --arg fetched_at "$(date -u +"%Y-%m-%dT%H:%M:%SZ")" --argjson wx "$wx_json" '
     def weather_state(code):
@@ -73,20 +54,26 @@ weather_obj="$(
     {
       fetched_at_utc: $fetched_at,
 
+      # thermometer
       temperature: ($wx.current.temperature_2m // null),
       apparent_temperature: ($wx.current.apparent_temperature // null),
+
+      # hygrometer / barometer
       relative_humidity_percent: ($wx.current.relative_humidity_2m // null),
       pressure_msl: ($wx.current.pressure_msl // null),
 
+      # wind vane + wiggle
       wind_speed: ($wx.current.wind_speed_10m // null),
       wind_gusts: ($wx.current.wind_gusts_10m // null),
       wind_direction_deg: ($wx.current.wind_direction_10m // null),
 
+      # precip
       precipitation_last_hour: ($wx.current.precipitation // null),
       rain_last_hour: ($wx.current.rain // null),
       showers_last_hour: ($wx.current.showers // null),
       snowfall_last_hour: ($wx.current.snowfall // null),
 
+      # enum
       weather_code: ($wx.current.weather_code // null),
       state: weather_state($wx.current.weather_code),
 

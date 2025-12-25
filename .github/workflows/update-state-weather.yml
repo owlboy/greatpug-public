@@ -17,19 +17,20 @@ jobs:
 
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
-
+      
       - name: Update weather section in data/state.json
         env:
           WEATHER_LAT: ${{ secrets.WEATHER_LAT }}
           WEATHER_LON: ${{ secrets.WEATHER_LON }}
-
-          # Optional config vars
-          TEMP_UNIT: ${{ vars.TEMP_UNIT }}
-          WIND_UNIT: ${{ vars.WIND_UNIT }}
-          PRECIP_UNIT: ${{ vars.PRECIP_UNIT }}
-          PRESSURE_UNIT: ${{ vars.PRESSURE_UNIT }}
-          TZ: ${{ vars.TZ }}
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+      
+          OW_UNITS: ${{ vars.OW_UNITS }}
+          INCLUDE_ALERTS: ${{ vars.INCLUDE_ALERTS }}
+          WIND_WIGGLE_START: ${{ vars.WIND_WIGGLE_START }}
+          WIND_WIGGLE_FULL: ${{ vars.WIND_WIGGLE_FULL }}
+      
         run: bash scripts/update-weather-into-state.sh
+
 
       - name: Commit and push if changed
         run: |

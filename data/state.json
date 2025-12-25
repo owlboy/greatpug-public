@@ -1,7 +1,7 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2025-12-25T17:34:28Z",
+    "fetched_at_utc": "2025-12-25T18:01:53Z",
     "units": "imperial",
     "temperature": 23.47,
     "apparent_temperature": 23.47,
@@ -10,9 +10,9 @@
     "cloud_cover_percent": 6,
     "uv_index": 0,
     "visibility_m": 10000,
-    "wind_speed": 2.66,
-    "wind_gusts": 1.99,
-    "wind_direction_deg": 26,
+    "wind_speed": 2.73,
+    "wind_gusts": 2.01,
+    "wind_direction_deg": 27,
     "wind_wiggle_01": 0,
     "rain_last_hour_mm": null,
     "snow_last_hour_mm": null,

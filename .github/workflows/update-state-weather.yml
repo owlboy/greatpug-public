@@ -20,9 +20,10 @@ jobs:
 
       - name: Update weather section in data/state.json
         env:
-          WEATHER_ADDRESS: ${{ secrets.WEATHER_ADDRESS }}
+          WEATHER_LAT: ${{ secrets.WEATHER_LAT }}
+          WEATHER_LON: ${{ secrets.WEATHER_LON }}
 
-          # Optional config vars (use repo Variables if you created them)
+          # Optional config vars
           TEMP_UNIT: ${{ vars.TEMP_UNIT }}
           WIND_UNIT: ${{ vars.WIND_UNIT }}
           PRECIP_UNIT: ${{ vars.PRECIP_UNIT }}

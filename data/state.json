@@ -1,27 +1,27 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2025-12-25T08:01:54Z",
+    "fetched_at_utc": "2025-12-25T08:40:17Z",
     "units": "imperial",
-    "temperature": 30.06,
-    "apparent_temperature": 30.06,
-    "relative_humidity_percent": 78,
+    "temperature": 30.2,
+    "apparent_temperature": 30.2,
+    "relative_humidity_percent": 77,
     "pressure_hpa": 1030,
-    "cloud_cover_percent": 26,
-    "uv_index": 1.06,
+    "cloud_cover_percent": 24,
+    "uv_index": 0.51,
     "visibility_m": 10000,
-    "wind_speed": 1.81,
-    "wind_gusts": 0.85,
-    "wind_direction_deg": 205,
+    "wind_speed": 0.92,
+    "wind_gusts": 0.87,
+    "wind_direction_deg": 187,
     "wind_wiggle_01": 0,
     "rain_last_hour_mm": null,
     "snow_last_hour_mm": null,
     "rain_last_hour_in": null,
     "snow_last_hour_in": null,
     "is_precipitating": false,
-    "weather_id": 802,
+    "weather_id": 801,
     "state": "cloudy",
     "weather_main": "Clouds",
-    "weather_description": "scattered clouds"
+    "weather_description": "few clouds"
   }
 }

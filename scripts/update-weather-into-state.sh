@@ -66,17 +66,17 @@ if ! jq -e \
   '
   (.weather // {}) as $old |
   (
-    # Temperature must differ by less than 2 degrees to skip update
-    (($old.temperature // 0) - ($new.temperature // 0) | fabs) < 2 and
+    # Temperature must differ by less than 3 degrees to skip update
+    (($old.temperature // 0) - ($new.temperature // 0) | fabs) < 3 and
     # Wind speed and gust must differ by less than 7 mph to skip update
     (($old.wind_speed // 0) - ($new.wind_speed // 0) | fabs) < 7 and
     (($old.wind_gusts // 0) - ($new.wind_gusts // 0) | fabs) < 7 and
-    # Wind direction must differ by less than 15 degrees (with wrap-around handling)
+    # Wind direction must differ by less than 15 degrees (with wrap-around handling) to skip update
     (
       (($old.wind_direction_deg // 0) - ($new.wind_direction_deg // 0) | fabs) as $diff |
       (if $diff > 180 then 360 - $diff else $diff end) < 15
     ) and
-    # All other weather variables must match exactly (excluding fetched_at_utc)
+    # All other weather variables must match exactly (excluding fetched_at_utc) to skip update
     (($old | del(.fetched_at_utc, .temperature, .wind_speed, .wind_gusts, .wind_direction_deg)) == 
      ($new | del(.fetched_at_utc, .temperature, .wind_speed, .wind_gusts, .wind_direction_deg)))
   )
@@ -86,5 +86,5 @@ if ! jq -e \
   mv "$TMP_FILE" "$STATE_FILE"
   echo "Weather data updated at $(date)"
 else
-  echo "No changes detected, skipping update"
+  echo "No significant changes, skipping update"
 fi

@@ -54,6 +54,7 @@ weather_obj="$(
   '
 )"
 
+echo "DEBUG: location=$(echo "$ow_json" | jq '{lat, lon, timezone}')"
 echo "DEBUG: weather_obj=$weather_obj"
 echo "DEBUG: current state=$(cat "$STATE_FILE")"
 echo "DEBUG: temp comparison=$(jq -n --argjson new "$weather_obj" --argjson old "$(jq '.weather // {}' "$STATE_FILE")" '{old_temp: $old.temperature, new_temp: $new.temperature, diff: (($old.temperature // 0) - ($new.temperature // 0) | fabs)}')"

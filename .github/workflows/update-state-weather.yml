@@ -2,7 +2,7 @@ name: Update state.json weather
 
 on:
   schedule:
-    - cron: "*/7 * * * *"
+    - cron: "*/14 * * * *"
   workflow_dispatch: {}
 
 permissions:

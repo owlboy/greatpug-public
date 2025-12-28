@@ -49,7 +49,7 @@ weather_obj="$(
       rain_last_hour_mm: (rain_1h_mm | rnd),
       snow_last_hour_mm: (snow_1h_mm | rnd),
       is_precipitating: ((nz(rain_1h_mm) > 0) or (nz(snow_1h_mm) > 0)),
-      weather_id: (try $ow.current.weather[0].id catch null)
+      weather_ids: [try $ow.current.weather[].id catch null | select(. != null)]
     }
   '
 )"

@@ -68,6 +68,8 @@ if ! jq -e \
   (
     # Temperature must differ by less than 3 degrees to skip update
     (($old.temperature // 0) - ($new.temperature // 0) | fabs) < 3 and
+    # Pressure must differ by less than 4 hPa to skip update
+    (($old.pressure_hpa // 0) - ($new.pressure_hpa // 0) | fabs) < 4 and
     # Wind speed and gust must differ by less than 7 mph to skip update
     (($old.wind_speed // 0) - ($new.wind_speed // 0) | fabs) < 7 and
     (($old.wind_gusts // 0) - ($new.wind_gusts // 0) | fabs) < 7 and
@@ -76,9 +78,9 @@ if ! jq -e \
       (($old.wind_direction_deg // 0) - ($new.wind_direction_deg // 0) | fabs) as $diff |
       (if $diff > 180 then 360 - $diff else $diff end) < 15
     ) and
-    # All other weather variables must match exactly (excluding fetched_at_utc) to skip update
-    (($old | del(.fetched_at_utc, .temperature, .wind_speed, .wind_gusts, .wind_direction_deg)) == 
-     ($new | del(.fetched_at_utc, .temperature, .wind_speed, .wind_gusts, .wind_direction_deg)))
+    # All other weather variables must match exactly (excluding fetched_at_utc and thresholded fields) to skip update
+    (($old | del(.fetched_at_utc, .temperature, .pressure_hpa, .wind_speed, .wind_gusts, .wind_direction_deg)) == 
+     ($new | del(.fetched_at_utc, .temperature, .pressure_hpa, .wind_speed, .wind_gusts, .wind_direction_deg)))
   )
   ' "$STATE_FILE" > /dev/null 2>&1; then
   

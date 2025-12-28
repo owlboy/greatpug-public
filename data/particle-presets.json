@@ -1,0 +1,48 @@
+{
+    "Snow": {
+        "_Color": "#FFFFFF",
+        "_DrawDistance": 20,
+        "_FallSpeed": 1.0,
+        "_WindX": 0.27,
+        "_WindZ": 0.16,
+        "_Size": 0.01,
+        "_SizeRandomize": 0.5,
+        "_Amplitude": 0.25,
+        "_Frequency": 1.0,
+        "_EdgeFade": 0.1,
+        "_VisibleAmount": 1.0,
+        "_ClipBrightness": 1.5,
+        "_UseLightVolumes": 1,
+        "Presets": {
+            "Light": "Snow_1000",
+            "Moderate": "Snow_10000",
+            "Heavy": "Snow_50000",
+            "Intense": "Snow_100000",
+            "Blizzard": "Snow_500000"
+        }
+    },
+    "Rain": {
+        "Presets": {
+        }
+    },
+    "Sleet": {
+        "Presets": {
+        }
+    },
+    "Hail": {
+        "Presets": {
+        }
+    },
+    "Special1": {
+        "Presets": {
+        }
+    },
+    "Special2": {
+        "Presets": {
+        }
+    },
+    "Special3": {
+        "Presets": {
+        }
+    }
+}

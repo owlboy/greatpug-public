@@ -1,11 +1,11 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2025-12-29T19:22:56Z",
+    "fetched_at_utc": "2025-12-29T19:31:44Z",
     "units": "imperial",
     "temperature": 18,
-    "relative_humidity_percent": 79,
-    "pressure_hpa": 1020,
+    "relative_humidity_percent": 78,
+    "pressure_hpa": 1021,
     "wind_speed": 16,
     "wind_gusts": 30,
     "wind_direction_deg": 320,
@@ -13,7 +13,7 @@
     "snow_last_hour_mm": null,
     "is_precipitating": false,
     "weather_ids": [
-      803
+      600
     ]
   }
 }

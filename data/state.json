@@ -1,7 +1,7 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2025-12-31T19:07:42Z",
+    "fetched_at_utc": "2025-12-31T19:21:55Z",
     "units": "imperial",
     "temperature": 35,
     "relative_humidity_percent": 83,
@@ -13,8 +13,8 @@
     "snow_last_hour_mm": null,
     "is_precipitating": true,
     "weather_ids": [
-      600,
-      500
+      500,
+      600
     ]
   }
 }

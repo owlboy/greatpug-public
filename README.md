@@ -28,6 +28,21 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.01.09
+
+* **A new dynamic weather system** - This one has been a longtime coming! The Great Pug now has dynamic precipitation and cloud cover, based on “real time” data.
+* Addressed an issue that caused the Audio Occlusion Collision to be disabled in the last build  - Thanks for the report @Celaline @peas-vr! [#278](https://github.com/owlboy/greatpug-public/issues/278)
+* Disabled voice directionality in Udon Voice Utilities [#278](https://github.com/owlboy/greatpug-public/issues/278)
+* Improved materials on many objects
+* Balanced lights throughout The Pug to be more harmonious with Filamented.
+* Removed Christmas trees and Yule Goats
+* Improved collision on the stage - Thanks @Wasmachineman-NL
+* Reduced geometric complexity and overdraw in the bathrooms
+* Adjusted the positioning of some light volumes to better light objects close to the floor
+* Added collision for pickups to the chairs near the fireplace
+* Minor optimizations to various scripts
+* Misc minor fixes and adjustments
+
 #### The Great Pug - 2025.12.06
 * Addressed various warnings that appeared at scene start
 * Enhanced Toilet interactions - Toilet seat sounds; double-interact to slam the seat down!

@@ -1,11 +1,11 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2026-01-11T20:24:49Z",
+    "fetched_at_utc": "2026-01-11T20:37:09Z",
     "units": "imperial",
-    "temperature": 30,
-    "relative_humidity_percent": 73,
-    "pressure_hpa": 1026,
+    "temperature": 29,
+    "relative_humidity_percent": 74,
+    "pressure_hpa": 1027,
     "wind_speed": 6,
     "wind_gusts": null,
     "wind_direction_deg": 280,

@@ -28,8 +28,20 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
-#### The Great Pug - 2026.01.09
+#### The Great Pug - 2026.01.30
+* New door.
+* Fixed an issue that pushed the coins off the shelves
+* Fixed an issue causing the skyline to be visible from the first floor
+* Removed snowflakes and garland.
+* Removed most of the Christmas lights
+* Rebaked lighting
+* Rebaked occlusion
+* Updated Filamented to the (almost) latest version. [1c7c2030](https://gitlab.com/s-ilent/filamented/-/tree/1c7c203079847204dfe6379dce0a3f3e82c5e7cb)
+* Updated AudioLink to v3.1.0
+* Updated OpenNID to v1.1.0
+* Updated VR Stage Lighting to v2.8.1
 
+#### The Great Pug - 2026.01.09
 * **A new dynamic weather system** - This one has been a longtime coming! The Great Pug now has dynamic precipitation and cloud cover, based on “real time” data.
 * Addressed an issue that caused the Audio Occlusion Collision to be disabled in the last build  - Thanks for the report @Celaline @peas-vr! [#278](https://github.com/owlboy/greatpug-public/issues/278)
 * Disabled voice directionality in Udon Voice Utilities [#278](https://github.com/owlboy/greatpug-public/issues/278)

@@ -28,6 +28,20 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.02.06
+* Another new door!
+* Added Spooky plants.
+* Added VRC Light Volumes support to some materials.
+* Added Light Volumes to some areas.
+* Fixed an issue preventing the fireplace to light - Thanks @Wasmachineman-NL
+* Added audio occlusion to dynamic doors when they are fully closed.
+* Added VRC Light Volumes support to the liquid shader.
+* Audited objects for GPU Instancing - Addressing issues where Instancing was not working as expected.
+* Added GPU instancing support to pool ball shadows.
+* Improved material configurations across the scene.
+* Improved light map UVs on various objects.
+* Misc minor changes and fixes.
+
 #### The Great Pug - 2026.01.30
 * New door.
 * Fixed an issue that pushed the coins off the shelves

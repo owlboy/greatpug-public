@@ -33,7 +33,7 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 * Added Spooky plants.
 * Added VRC Light Volumes support to some materials.
 * Added Light Volumes to some areas.
-* Fixed an issue preventing the fireplace to light - Thanks @Wasmachineman-NL
+* Fixed an issue preventing the fireplace from lighting - Thanks @Wasmachineman-NL
 * Added audio occlusion to dynamic doors when they are fully closed.
 * Added VRC Light Volumes support to the liquid shader.
 * Audited objects for GPU Instancing - Addressing issues where Instancing was not working as expected.

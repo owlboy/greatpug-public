@@ -28,6 +28,19 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.02.21
+* Implemented major lighting changes/improvements across the world, again!
+* Fixed up a bunch of issues causing the new sliding doors to not operate as intended.
+* Added VRC Light Volumes volumes to the upper part of the back staircase. This _should_ be the last area that still needed VRCLV coverage.
+* Improved and corrected GPU instancing on various objects.
+* Improved Reflection Probe usage across many objects and surfaces.
+* Improved surface normals for various light-mapped objects.
+* Reduced the amount of mesh data used for the overhead lampshades in the main bar.
+* Improved the materials for light bulbs, light globes and table lamp lamp shades.
+* Updated Filamented to the latest release 6cc38a04
+* Updated AudioLink to v3.1.1
+* Misc changes and fixes
+
 #### The Great Pug - 2026.02.06
 * Another new door!
 * Added Spooky plants.

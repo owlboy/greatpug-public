@@ -1,19 +1,21 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2026-03-11T11:03:15Z",
+    "fetched_at_utc": "2026-03-11T11:20:48Z",
     "units": "imperial",
     "temperature": 32,
-    "relative_humidity_percent": 87,
+    "relative_humidity_percent": 88,
     "pressure_hpa": 1005,
-    "wind_speed": 8,
-    "wind_gusts": 10,
-    "wind_direction_deg": 335,
+    "wind_speed": 12,
+    "wind_gusts": 17,
+    "wind_direction_deg": 340,
     "rain_last_hour_mm": null,
-    "snow_last_hour_mm": null,
-    "is_precipitating": false,
+    "snow_last_hour_mm": 0,
+    "is_precipitating": true,
     "weather_ids": [
-      804
+      300,
+      701,
+      600
     ]
   }
 }

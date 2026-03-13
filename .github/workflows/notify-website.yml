@@ -20,4 +20,4 @@ jobs:
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${{ secrets.WEBSITE_PAT }}" \
             https://api.github.com/repos/owlboy/thegreatpugdotcom/dispatches \
-            -d '{"event_type":"release-published","client_payload":{"tag":"${{ github.event.release.tag_name }}"}}'
+            -d '{"event_type":"release-published","client_payload":{"tag":"${{ github.event.release.tag_name }}","action":"${{ github.event.action }}"}}'

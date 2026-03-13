@@ -1,0 +1,23 @@
+# Add this workflow to the owlboy/greatpug-public repository as:
+# .github/workflows/notify-website.yml
+#
+# Required secret: WEBSITE_PAT — a GitHub PAT with permission to trigger
+# workflows in the owlboy/thegreatpugdotcom repository.
+
+name: Notify Website
+
+on:
+  release:
+    types: [published, edited]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website changelog update
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.WEBSITE_PAT }}" \
+            https://api.github.com/repos/owlboy/thegreatpugdotcom/dispatches \
+            -d '{"event_type":"release-published","client_payload":{"tag":"${{ github.event.release.tag_name }}"}}'

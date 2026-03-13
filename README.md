@@ -28,6 +28,15 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.03.12
+* The TENTH ANNUAL St. Patrick’s at The Pug is on Saturday March 21st, at 7pm Pacific!
+* Updated sliding door logic
+* Rebaked lighting
+* Rebaked occlusion
+* Updated Filamented to the latest commit
+* Updated AudioLink to v3.1.2
+* Updated VRWorld Toolkit to v3.4.0
+
 #### The Great Pug - 2026.02.21
 * Implemented major lighting changes/improvements across the world, again!
 * Fixed up a bunch of issues causing the new sliding doors to not operate as intended.

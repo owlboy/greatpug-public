@@ -1637,7 +1637,7 @@ _Work continues on Halloween at The Pug 2019!_
 * Calendar Updated
 * Adjusted lighting throughout
 * Updated Urinals
-* Fixed meshes peaking through above the couch in the Restroom
+* Fixed meshes peeking through above the couch in the Restroom
 * SDK Bump: VRCSDK-2019.07.31.13.58_Public
 * Unity Bump: 2017.4.28f1
 ##### Windows

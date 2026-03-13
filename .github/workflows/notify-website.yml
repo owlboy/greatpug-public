@@ -8,7 +8,7 @@ name: Notify Website
 
 on:
   release:
-    types: [published, edited]
+    types: [published, edited, deleted]
 
 jobs:
   notify:

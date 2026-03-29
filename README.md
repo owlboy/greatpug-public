@@ -28,6 +28,16 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.03.29
+* Removed St. Patrick’s at The Pug decorations and music.
+* Misc fixes to the doors and bar locks.
+
+#### The Great Pug - 2026.03.21
+* The tenth annual St. Patrick’s at The Pug!
+* Hung additional event photos!
+* Addressed occlusion issues with the pool cues.
+* Misc fixes and changes.
+
 #### The Great Pug - 2026.03.12
 * The TENTH ANNUAL St. Patrick’s at The Pug is on Saturday March 21st, at 7pm Pacific!
 * Updated sliding door logic

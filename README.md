@@ -28,6 +28,21 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.04.01
+- Touch grass!
+- Fixed pool ball shadow flickering.
+- Improved Environmental Controls to prevent door clipping.
+- Fixed collision issues with round side tables.
+- Fixed collision on couch legs.
+- Fixed collision issues with various objects on shelves.
+- Fixed minor collision issues in the bathrooms and back staircase.
+- Fixed instances of Light Volumes not being active when they should be in the first floor hallway.
+- Fixed an occlusion issue outside the front door.
+- Boosted volume for various sounds.
+- Improved LOD transitions and culling for various objects.
+- Improved overdraw in some areas.
+- Misc fixes and changes.
+
 #### The Great Pug - 2026.03.29
 * Removed St. Patrick’s at The Pug decorations and music.
 * Misc fixes to the doors and bar locks.

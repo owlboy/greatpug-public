@@ -28,6 +28,14 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.04.03
+* Improved fog rendering. - Thanks Celaline! [#288](https://github.com/owlboy/greatpug-public/issues/288)
+* Cleaned up a few scripts.
+* Fixed some exterior geometry holes.
+* Rebaked lighting to address errant shadows.
+* Rebaked occlusion.
+* Misc minor fixes and changes.
+
 #### The Great Pug - 2026.04.01
 - Touch grass!
 - Fixed pool ball shadow flickering.

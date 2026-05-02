@@ -28,6 +28,19 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.05.02
+* Improved networking code for the Liquid System
+* Updated Sliding Doors to hopefully improve overall sync behavior and handles for desktop users 
+* Tweaked Minor Jump Increase: rebalanced so the first few subscribers contribute a noticeably bigger jump boost
+* Updated com.vrchat.base to v3.10.3
+* Updated com.vrchat.worlds to v3.10.3
+* Updated tip.udonvoiceutils to v5.1.4 - Thanks @Guribo!
+* Updated tip.udonutils to v14.0.3
+* Updated dev.onevr.vrworldtoolkit to v3.4.1
+* Updated com.acchosen.vr-stage-lighting to v2.8.4
+* General Unity Project cleanup work
+* Misc minor fixes and changes
+
 #### The Great Pug - 2026.04.03
 * Improved fog rendering. - Thanks Celaline! [#288](https://github.com/owlboy/greatpug-public/issues/288)
 * Cleaned up a few scripts.

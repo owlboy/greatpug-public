@@ -8,15 +8,22 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-state-weather
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 3
+    
     steps:
       - uses: actions/checkout@v4
-
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+        with:
+          sparse-checkout: |
+            data
+            scripts
+          sparse-checkout-cone-mode: false
       
       - name: Update weather section in data/state.json
         env:

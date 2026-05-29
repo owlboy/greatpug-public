@@ -28,6 +28,25 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.05.28
+* Addressed issues with the Check-in Gizmo - Thanks @notmarlon1! #290
+* Made significant improvements to the Red Phone ring functionality
+* Updated various scripts to have correct networking mode flags
+* Improved logging prefixes across various scripts
+* Fixed potential memory leak issues with image loaders
+* Fixed potential memory leak issues with material swaps
+* Optimized distance checks in a few scripts
+* Added additional null checks across various scripts
+* Improved various toggles for late joiners
+* Improved networking and sync logic for the LiquidSystem
+* Improved networking and sync logic for the Pickup management systems
+* Optimized various scripts to do a bit less work
+* Improved the initialization of various scripts
+* Removed dead code across many scripts
+* Removed various unused minor objects and scripts from the scene
+* Improved the reflection probe usage of various objects
+* Misc fixes and improvements
+
 #### The Great Pug - 2026.05.02
 * Improved networking code for the Liquid System
 * Updated Sliding Doors to hopefully improve overall sync behavior and handles for desktop users 

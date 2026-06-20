@@ -28,6 +28,18 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.06.19
+* Improved normals on various materials
+* Improved the logic of liquid dispensers - #292 - Thanks Wasmachineman-NL
+* Improved texture VRAM usage
+* Improved overall download size
+* Updated patron flyers
+* Updated Filamented to the latest Commit - cbfafe77 - Thanks Silent!
+* Updated com.vrchat.base to v3.10.4
+* Updated com.vrchat.worlds to v3.10.4
+* Updated tip.udonutils to v14.0.4
+* Misc minor changes and fixes
+
 #### The Great Pug - 2026.05.28
 * Addressed issues with the Check-in Gizmo - Thanks @notmarlon1! #290
 * Made significant improvements to the Red Phone ring functionality

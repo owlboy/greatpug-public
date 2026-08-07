@@ -28,6 +28,24 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.08.07
+* Improved the way the Pool Table works across many different dimensions.
+* Improved the scrolling behavior of the Lifetime Badge Holder display!
+* Improved the available characters for the Lifetime Badge Holder display!
+* Improved the memory usage of the Lifetime Badge Holder display! 
+* Improved the way names are handled for the VRChat Creator Economy thank you board.
+* Fixed an issue preventing the red phone from working as intended when picked up.
+* Fixed an issue preventing the Check-in Device from playing music for the local user.
+* Improved handling of ambient audio in some areas.
+* Adjusted audio levels across all audio sources.
+* Fixed an issue that may have caused the bell to not ring for some people when they entered.
+* Improved the initialization of the Room Tracker so lighting and state are correct right away.
+* Placed the Check-in Device on a taller table.
+* Patron flyer updates.
+* Updated glass materials.
+* Minor mesh optimizations and improvements.
+* Trust and Safety improvements.
+
 #### The Great Pug - 2026.06.19
 * Improved normals on various materials
 * Improved the logic of liquid dispensers - #292 - Thanks Wasmachineman-NL

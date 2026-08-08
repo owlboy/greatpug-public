@@ -28,6 +28,17 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.08.07-B
+* Further Pool Table refinements!
+* 🎱 Added new, extra fancy Pool Cues!
+* 🎱 Restored the light bars and changed how they work!
+* 🎱 Improved the pool table UV mapping and texture quality!
+* 🎱 Adjusted internal table geometry a bit.
+* 🎱 Increased the volume on some sounds a bit.
+* 🎱 Updated the Desktop UI a bit to improve usability. Gasp…
+* Installed an air filter in The Roost to cut down on the dust a bit.
+* Misc minor changes and fixes.
+
 #### The Great Pug - 2026.08.07
 * Improved the way the Pool Table works across many different dimensions.
 * Improved the scrolling behavior of the Lifetime Badge Holder display!

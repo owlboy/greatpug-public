@@ -28,6 +28,12 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.08.08
+* Reduced logging noise during scene join.
+* Improved logging across the scene.
+* Fixed an issue with help text on the Pool Table rendering in the wrong spot.
+* Additional Trust and Safety improvements.
+
 #### The Great Pug - 2026.08.07-B
 * Further Pool Table refinements!
 * 🎱 Added new, extra fancy Pool Cues!

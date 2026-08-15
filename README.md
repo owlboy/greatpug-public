@@ -28,6 +28,12 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.08.14
+* Turned the volume up on various audio sources.
+* Updated patron flyers.
+* Dimmed Night View Hall.
+* Misc minor changes.
+
 #### The Great Pug - 2026.08.08
 * Reduced logging noise during scene join.
 * Improved logging across the scene.

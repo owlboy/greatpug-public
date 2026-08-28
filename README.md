@@ -28,6 +28,15 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+
+#### The Great Pug - 2026.08.28
+* Updated patron flyers
+* Turned the lights back up in Night View
+* Put the Night View gate away
+
+#### The Great Pug - 2026.08.23
+* Removed various third party assets due to security concerns. (they will return)
+
 #### The Great Pug - 2026.08.14
 * Turned the volume up on various audio sources.
 * Updated patron flyers.

@@ -1,14 +1,14 @@
 {
   "metadata": {},
   "weather": {
-    "fetched_at_utc": "2026-09-09T10:47:52Z",
+    "fetched_at_utc": "2026-09-09T12:16:25Z",
     "units": "imperial",
     "temperature": 72,
     "relative_humidity_percent": 91,
-    "pressure_hpa": 1015,
-    "wind_speed": 5,
+    "pressure_hpa": 1014,
+    "wind_speed": 9,
     "wind_gusts": null,
-    "wind_direction_deg": 0,
+    "wind_direction_deg": 250,
     "rain_last_hour_mm": 0,
     "snow_last_hour_mm": null,
     "is_precipitating": true,

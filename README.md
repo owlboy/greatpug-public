@@ -29,6 +29,20 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 ### Change Log
 
+#### The Great Pug - 2026.10.02
+* Work is underway for the TENTH ANNUAL HALLOWEEN AT THE PUG! 
+* October 24th at 7pm PACIFIC
+* Placed promotional items for the event
+* Pumpkin Spice…
+* Fixed an issue causing rain to leak in in the back staircase - Thanks treijim!
+* Updated com.vrchat.base to v3.10.5
+* Updated com.vrchat.worlds to v3.10.5
+* Updated tlp.udonutils to v15.0.3 - Thanks @Guribo!
+* Updated tlp.udonvoiceutils to v7.0.0 - Thanks @Guribo!
+* Updated tlp.udonavltree to v2.0.0 - Thanks @Guribo!
+* Updated tlp.udonprofiling to v3.0.0 - Thanks @Guribo!
+* Updated red.sim.lightvolumes to v3.0.0-dev.20
+
 #### The Great Pug - 2026.08.28
 * Updated patron flyers
 * Turned the lights back up in Night View

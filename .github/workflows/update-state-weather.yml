@@ -50,4 +50,27 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/state.json
           git commit -m "Update weather in state.json"
-          git push
+          # state.json also carries other keys written from elsewhere (the
+          # supporters list). If one landed since checkout, the push is
+          # rejected: put this weather onto the latest file instead, changing
+          # only .weather, and push again.
+          weather="$(jq -c '.weather' data/state.json)"
+          for attempt in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push rejected; reapplying the weather onto the latest ${GITHUB_REF_NAME}"
+            sleep $((attempt * 3))
+            git fetch origin "${GITHUB_REF_NAME}"
+            git reset --hard "origin/${GITHUB_REF_NAME}"
+            jq --argjson weather "$weather" '.weather = $weather' data/state.json > data/state.json.tmp
+            mv data/state.json.tmp data/state.json
+            if git diff --quiet; then
+              echo "Already up to date."
+              exit 0
+            fi
+            git add data/state.json
+            git commit -m "Update weather in state.json"
+          done
+          echo "::error::Could not push the weather update after 3 tries"
+          exit 1

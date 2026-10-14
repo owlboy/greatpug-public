@@ -1,0 +1,58 @@
+name: Update state.json version
+
+on:
+  push:
+    paths:
+      - version/version.txt
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-state-version
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Copy version into data/state.json
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            version="$(cat version/version.txt)"
+            if [[ -z "$version" || "$version" == *$'\n'* ]]; then
+              echo "::error::version/version.txt must contain one nonempty line"
+              exit 1
+            fi
+
+            jq --arg version "$version" '.metadata.version = $version' \
+              data/state.json > data/state.json.tmp
+            mv data/state.json.tmp data/state.json
+            if git diff --quiet -- data/state.json; then
+              echo "Version is already current."
+              exit 0
+            fi
+
+            git add data/state.json
+            git commit -m "Update version in state.json"
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+
+            echo "Push rejected; retrying with the latest ${GITHUB_REF_NAME}"
+            sleep "$((attempt * 3))"
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --hard FETCH_HEAD
+          done
+
+          echo "::error::Could not push the version update after 3 tries"
+          exit 1

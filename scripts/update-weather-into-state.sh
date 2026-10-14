@@ -23,13 +23,20 @@ if ! ow_json="$(
   curl -fsSL \
     "https://api.openweathermap.org/data/3.0/onecall?lat=${WEATHER_LAT}&lon=${WEATHER_LON}&exclude=${EXCLUDE}&units=${OW_UNITS}&appid=${OPENWEATHER_API_KEY}" 2>&1
 )"; then
-  echo "::warning::Weather API fetch failed, keeping existing data"
-  exit 0
+  echo "::error::Weather API fetch failed, keeping existing data"
+  exit 1
+fi
+
+# Do not publish a fresh timestamp for a malformed or incomplete API response.
+if ! jq -e '.current | (type == "object") and (.temp | type == "number") and (.humidity | type == "number") and (.pressure | type == "number") and (.wind_speed | type == "number") and (.wind_deg | type == "number") and (.weather | type == "array")' <<< "$ow_json" > /dev/null; then
+  echo "::error::Weather API returned invalid current conditions, keeping existing data"
+  exit 1
 fi
 
 weather_obj="$(
   jq -n \
     --arg fetched_at "$(date -u +"%Y-%m-%dT%H:%M:%SZ")" \
+    --argjson fetched_at_unix "$(date -u +%s)" \
     --arg units "$OW_UNITS" \
     --argjson ow "$ow_json" \
     '
@@ -39,6 +46,7 @@ weather_obj="$(
     def snow_1h_mm: (try $ow.current.snow["1h"] catch null);
     {
       fetched_at_utc: $fetched_at,
+      fetched_at_unix: $fetched_at_unix,
       units: $units,
       temperature: ($ow.current.temp | rnd),
       relative_humidity_percent: ($ow.current.humidity | rnd),
@@ -55,39 +63,8 @@ weather_obj="$(
   '
 )"
 
-# echo "DEBUG: location=$(echo "$ow_json" | jq '{lat, lon, timezone}')"
-# echo "DEBUG: weather_obj=$weather_obj"
-# echo "DEBUG: current state=$(cat "$STATE_FILE")"
-# echo "DEBUG: temp comparison=$(jq -n --argjson new "$weather_obj" --argjson old "$(jq '.weather // {}' "$STATE_FILE")" '{old_temp: $old.temperature, new_temp: $new.temperature, diff: (($old.temperature // 0) - ($new.temperature // 0) | fabs)}')"
-
-# Only update if weather data has changed
-# Thresholds assume imperial units (temperature in °F, wind in mph)
-if ! jq -e \
-  --argjson new "$weather_obj" \
-  '
-  (.weather // {}) as $old |
-  (
-    # Temperature must differ by less than 3 degrees to skip update
-    (($old.temperature // 0) - ($new.temperature // 0) | fabs) < 3 and
-    # Pressure must differ by less than 4 hPa to skip update
-    (($old.pressure_hpa // 0) - ($new.pressure_hpa // 0) | fabs) < 4 and
-    # Wind speed and gust must differ by less than 7 mph to skip update
-    (($old.wind_speed // 0) - ($new.wind_speed // 0) | fabs) < 7 and
-    (($old.wind_gusts // 0) - ($new.wind_gusts // 0) | fabs) < 7 and
-    # Wind direction must differ by less than 15 degrees (with wrap-around handling) to skip update
-    (
-      (($old.wind_direction_deg // 0) - ($new.wind_direction_deg // 0) | fabs) as $diff |
-      (if $diff > 180 then 360 - $diff else $diff end) < 15
-    ) and
-    # All other weather variables must match exactly (excluding fetched_at_utc and thresholded fields) to skip update
-    (($old | del(.fetched_at_utc, .temperature, .pressure_hpa, .wind_speed, .wind_gusts, .wind_direction_deg)) == 
-     ($new | del(.fetched_at_utc, .temperature, .pressure_hpa, .wind_speed, .wind_gusts, .wind_direction_deg)))
-  )
-  ' "$STATE_FILE" > /dev/null 2>&1; then
-  
-  jq --argjson weather "$weather_obj" '.weather = $weather' "$STATE_FILE" > "$TMP_FILE"
-  mv "$TMP_FILE" "$STATE_FILE"
-  echo "Weather data updated at $(date)"
-else
-  echo "No significant changes, skipping update"
-fi
+# The timestamp is a freshness heartbeat. Publish it after every successful fetch,
+# even when rounded weather values have not changed.
+jq --argjson weather "$weather_obj" '.weather = $weather' "$STATE_FILE" > "$TMP_FILE"
+mv "$TMP_FILE" "$STATE_FILE"
+echo "Weather data refreshed at $(date)"

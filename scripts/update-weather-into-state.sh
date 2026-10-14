@@ -46,6 +46,7 @@ weather_obj="$(
       wind_speed: ($ow.current.wind_speed | rnd),
       wind_gusts: ($ow.current.wind_gust | rnd),
       wind_direction_deg: ($ow.current.wind_deg | rnd),
+      cloud_cover_percent: ($ow.current.clouds | rnd),
       rain_last_hour_mm: (rain_1h_mm | rnd),
       snow_last_hour_mm: (snow_1h_mm | rnd),
       is_precipitating: ((nz(rain_1h_mm) > 0) or (nz(snow_1h_mm) > 0)),

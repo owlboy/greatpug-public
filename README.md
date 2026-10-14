@@ -29,6 +29,17 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 ### Change Log
 
+#### The Great Pug - 2026.10.13
+* Patreon supporters now have access to the `Minor Jump Height Increase` perk!
+* Fixed an issue that caused cloud cover to sometimes not appear when it should.
+* Improved the performance of some scripts.
+* Improved light volume management when traveling between certain rooms.
+* Migrated the tapsters list into state.json.
+* Migrated version.txt into state.json.
+* Updated patron flyers.
+* Updated red.sim.lightvolumes to v3.0.1
+* Updated red.sim.particlevolumes to v 1.1.0
+
 #### The Great Pug - 2026.10.02
 * Work is underway for the TENTH ANNUAL HALLOWEEN AT THE PUG! 
 * October 24th at 7pm PACIFIC

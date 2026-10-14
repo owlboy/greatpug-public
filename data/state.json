@@ -47,5 +47,26 @@
     "lexvi",
     "poplopo",
     "｜OPERATOR｜"
-  ]
+  ],
+  "tapsters": {
+    "updated_at_utc": "2026-10-14T01:41:03Z",
+    "tapsters": [
+      "owlboy",
+      "Zarniwoop",
+      "Romthirty",
+      "Mimi",
+      "Noire",
+      "Metamoq",
+      "Kazicom"
+    ],
+    "bypass": [
+      "poplopo",
+      "Project Noel"
+    ],
+    "other": [
+      "-owlbot-a-",
+      "-owlbot-b-",
+      "-owlbot-c-"
+    ]
+  }
 }

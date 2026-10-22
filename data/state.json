@@ -3,21 +3,21 @@
     "version": "https://github.com/owlboy/greatpug-public/releases/tag/2026.10.13"
   },
   "weather": {
-    "fetched_at_utc": "2026-10-22T19:48:45Z",
-    "fetched_at_unix": 1792698525,
+    "fetched_at_utc": "2026-10-22T20:10:58Z",
+    "fetched_at_unix": 1792699858,
     "units": "imperial",
-    "temperature": 72,
-    "relative_humidity_percent": 49,
+    "temperature": 73,
+    "relative_humidity_percent": 48,
     "pressure_hpa": 1023,
-    "wind_speed": 5,
+    "wind_speed": 3,
     "wind_gusts": null,
-    "wind_direction_deg": 250,
-    "cloud_cover_percent": 0,
+    "wind_direction_deg": 170,
+    "cloud_cover_percent": 20,
     "rain_last_hour_mm": null,
     "snow_last_hour_mm": null,
     "is_precipitating": false,
     "weather_ids": [
-      800
+      801
     ]
   },
   "supporters": [

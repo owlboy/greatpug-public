@@ -3,12 +3,12 @@
     "version": "https://github.com/owlboy/greatpug-public/?event=halloween"
   },
   "weather": {
-    "fetched_at_utc": "2026-10-28T01:20:54Z",
-    "fetched_at_unix": 1793150454,
+    "fetched_at_utc": "2026-10-28T01:36:12Z",
+    "fetched_at_unix": 1793151372,
     "units": "imperial",
     "temperature": 60,
     "relative_humidity_percent": 73,
-    "pressure_hpa": 1020,
+    "pressure_hpa": 1021,
     "wind_speed": 7,
     "wind_gusts": null,
     "wind_direction_deg": 170,

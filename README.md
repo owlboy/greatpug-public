@@ -29,6 +29,9 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 ### Change Log
 
+#### The Great Pug - 2026.10.24
+* The tenth annual Halloween at The Pug! 🎃
+
 #### The Great Pug - 2026.10.13
 * Patreon supporters now have access to the `Minor Jump Height Increase` perk!
 * Fixed an issue that caused cloud cover to sometimes not appear when it should.

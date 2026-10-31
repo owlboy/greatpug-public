@@ -14,6 +14,7 @@ concurrency:
 
 jobs:
   update:
+    if: github.event_name == 'workflow_dispatch' || github.run_number >= fromJSON(vars.AURORA_WEATHER_LEASE_RUN || '0')
     runs-on: ubuntu-latest
     timeout-minutes: 3
     

@@ -4,7 +4,8 @@
     "title": "The Great Pug Manual",
     "author": "The Great Pug",
     "cover": {
-      "textColor": "#ffd977"
+      "textColor": "#fee4a8",
+      "color": "#5c0701"
     }
   },
   "sources": [

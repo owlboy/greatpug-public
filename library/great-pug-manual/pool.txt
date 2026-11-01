@@ -1,0 +1,34 @@
+# https://owlboy.github.io/greatpug-public/library/great-pug-manual/book.json
+# Image list for this book, in slot order: paste into the BookBook inspector.
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/00.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/01.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/02.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/03.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/04.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/05.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/06.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/07.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/08.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/09.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/10.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/11.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/12.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/13.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/14.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/15.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/16.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/17.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/18.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/19.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/20.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/21.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/22.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/23.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/24.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/25.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/26.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/27.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/28.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/29.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/30.png
+https://owlboy.github.io/greatpug-public/library/great-pug-manual/img/31.png

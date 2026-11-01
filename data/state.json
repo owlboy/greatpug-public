@@ -3,15 +3,15 @@
     "version": "https://github.com/owlboy/greatpug-public/?event=halloween"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-01T04:24:56Z",
-    "fetched_at_unix": 1793507096,
+    "fetched_at_utc": "2026-11-01T05:06:56Z",
+    "fetched_at_unix": 1793509616,
     "units": "imperial",
     "temperature": 52,
-    "relative_humidity_percent": 88,
+    "relative_humidity_percent": 87,
     "pressure_hpa": 1026,
-    "wind_speed": 5,
+    "wind_speed": 7,
     "wind_gusts": null,
-    "wind_direction_deg": 190,
+    "wind_direction_deg": 150,
     "cloud_cover_percent": 100,
     "rain_last_hour_mm": null,
     "snow_last_hour_mm": null,
@@ -20,21 +20,6 @@
       804
     ],
     "forecast": [
-      {
-        "date": "2026-10-31",
-        "temp_min": 50,
-        "temp_max": 59,
-        "weather_ids": [
-          501
-        ],
-        "precip_chance_percent": 84,
-        "rain_mm": 1,
-        "snow_mm": null,
-        "wind_speed": 8,
-        "cloud_cover_percent": 99,
-        "sunrise_unix": 1793449826,
-        "sunset_unix": 1793487053
-      },
       {
         "date": "2026-11-01",
         "temp_min": 52,
@@ -73,7 +58,7 @@
           501
         ],
         "precip_chance_percent": 100,
-        "rain_mm": 18,
+        "rain_mm": 20,
         "snow_mm": null,
         "wind_speed": 17,
         "cloud_cover_percent": 100,
@@ -85,15 +70,30 @@
         "temp_min": 52,
         "temp_max": 62,
         "weather_ids": [
-          501
+          500
         ],
         "precip_chance_percent": 100,
-        "rain_mm": 6,
+        "rain_mm": 4,
         "snow_mm": null,
         "wind_speed": 14,
         "cloud_cover_percent": 100,
         "sunrise_unix": 1793795736,
         "sunset_unix": 1793832344
+      },
+      {
+        "date": "2026-11-05",
+        "temp_min": 48,
+        "temp_max": 54,
+        "weather_ids": [
+          500
+        ],
+        "precip_chance_percent": 100,
+        "rain_mm": 3,
+        "snow_mm": null,
+        "wind_speed": 12,
+        "cloud_cover_percent": 100,
+        "sunrise_unix": 1793882214,
+        "sunset_unix": 1793918670
       }
     ],
     "alerts": [],

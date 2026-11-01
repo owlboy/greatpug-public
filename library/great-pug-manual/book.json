@@ -2,7 +2,10 @@
   "schemaVersion": 1,
   "book": {
     "title": "The Great Pug Manual",
-    "author": "The Great Pug"
+    "author": "The Great Pug",
+    "cover": {
+      "textColor": "#ffd977"
+    }
   },
   "sources": [
     {

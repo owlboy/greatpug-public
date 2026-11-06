@@ -3,12 +3,12 @@
     "version": "https://github.com/owlboy/greatpug-public/?event=halloween"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-06T20:07:28Z",
-    "fetched_at_unix": 1793995648,
+    "fetched_at_utc": "2026-11-06T20:49:27Z",
+    "fetched_at_unix": 1793998167,
     "units": "imperial",
     "temperature": 46,
-    "relative_humidity_percent": 59,
-    "pressure_hpa": 1021,
+    "relative_humidity_percent": 57,
+    "pressure_hpa": 1022,
     "wind_speed": 7,
     "wind_gusts": 17,
     "wind_direction_deg": 340,
@@ -31,14 +31,14 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 12,
-        "cloud_cover_percent": 62,
+        "cloud_cover_percent": 76,
         "sunrise_unix": 1793968692,
         "sunset_unix": 1794004998
       },
       {
         "date": "2026-11-07",
         "temp_min": 29,
-        "temp_max": 48,
+        "temp_max": 47,
         "weather_ids": [
           802
         ],
@@ -46,14 +46,14 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 10,
-        "cloud_cover_percent": 38,
+        "cloud_cover_percent": 35,
         "sunrise_unix": 1794055170,
         "sunset_unix": 1794091328
       },
       {
         "date": "2026-11-08",
-        "temp_min": 40,
-        "temp_max": 54,
+        "temp_min": 37,
+        "temp_max": 55,
         "weather_ids": [
           800
         ],
@@ -75,15 +75,15 @@
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 10,
-        "cloud_cover_percent": 83,
+        "wind_speed": 9,
+        "cloud_cover_percent": 70,
         "sunrise_unix": 1794228126,
         "sunset_unix": 1794263993
       },
       {
         "date": "2026-11-10",
-        "temp_min": 42,
-        "temp_max": 57,
+        "temp_min": 41,
+        "temp_max": 56,
         "weather_ids": [
           801
         ],
@@ -91,7 +91,7 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 8,
-        "cloud_cover_percent": 11,
+        "cloud_cover_percent": 21,
         "sunrise_unix": 1794314604,
         "sunset_unix": 1794350328
       }

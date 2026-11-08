@@ -3,11 +3,11 @@
     "version": "https://github.com/owlboy/greatpug-public/?event=halloween"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-08T13:08:32Z",
-    "fetched_at_unix": 1794143312,
+    "fetched_at_utc": "2026-11-08T13:50:32Z",
+    "fetched_at_unix": 1794145832,
     "units": "imperial",
-    "temperature": 40,
-    "relative_humidity_percent": 92,
+    "temperature": 41,
+    "relative_humidity_percent": 89,
     "pressure_hpa": 1014,
     "wind_speed": 3,
     "wind_gusts": null,
@@ -61,28 +61,28 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 8,
-        "cloud_cover_percent": 11,
+        "cloud_cover_percent": 24,
         "sunrise_unix": 1794314604,
         "sunset_unix": 1794350328
       },
       {
         "date": "2026-11-11",
         "temp_min": 42,
-        "temp_max": 49,
+        "temp_max": 52,
         "weather_ids": [
           500
         ],
-        "precip_chance_percent": 44,
-        "rain_mm": 3,
+        "precip_chance_percent": 52,
+        "rain_mm": 0,
         "snow_mm": null,
         "wind_speed": 13,
-        "cloud_cover_percent": 93,
+        "cloud_cover_percent": 23,
         "sunrise_unix": 1794401082,
         "sunset_unix": 1794436664
       },
       {
         "date": "2026-11-12",
-        "temp_min": 33,
+        "temp_min": 35,
         "temp_max": 39,
         "weather_ids": [
           804
@@ -90,8 +90,8 @@
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 15,
-        "cloud_cover_percent": 98,
+        "wind_speed": 13,
+        "cloud_cover_percent": 94,
         "sunrise_unix": 1794487559,
         "sunset_unix": 1794523003
       }

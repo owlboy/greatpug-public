@@ -28,6 +28,11 @@ Please use the [issues](https://github.com/owlboy/greatpug-public/issues) featur
 
 
 ### Change Log
+#### The Great Pug - 2026.11.08
+* Removed Halloween at The Pug
+* Various lighting tweaks - Still in progress!
+* Updated com.vrchat.base to v3.10.6
+* Updated com.vrchat.worlds to v3.10.6
 
 #### The Great Pug - 2026.10.24
 * The tenth annual Halloween at The Pug! 🎃

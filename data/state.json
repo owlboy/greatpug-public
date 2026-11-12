@@ -3,21 +3,21 @@
     "version": "https://github.com/owlboy/greatpug-public/releases/tag/2026.11.08"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-12T01:15:32Z",
-    "fetched_at_unix": 1794446132,
+    "fetched_at_utc": "2026-11-12T01:57:32Z",
+    "fetched_at_unix": 1794448652,
     "units": "imperial",
-    "temperature": 49,
-    "relative_humidity_percent": 73,
-    "pressure_hpa": 1011,
+    "temperature": 48,
+    "relative_humidity_percent": 82,
+    "pressure_hpa": 1012,
     "wind_speed": 5,
-    "wind_gusts": 8,
-    "wind_direction_deg": 333,
+    "wind_gusts": null,
+    "wind_direction_deg": 320,
     "cloud_cover_percent": 100,
-    "rain_last_hour_mm": null,
+    "rain_last_hour_mm": 1,
     "snow_last_hour_mm": null,
-    "is_precipitating": false,
+    "is_precipitating": true,
     "weather_ids": [
-      804
+      500
     ],
     "forecast": [
       {
@@ -25,10 +25,10 @@
         "temp_min": 40,
         "temp_max": 51,
         "weather_ids": [
-          500
+          501
         ],
         "precip_chance_percent": 100,
-        "rain_mm": 3,
+        "rain_mm": 4,
         "snow_mm": null,
         "wind_speed": 12,
         "cloud_cover_percent": 100,
@@ -67,31 +67,31 @@
       },
       {
         "date": "2026-11-14",
-        "temp_min": 29,
-        "temp_max": 40,
+        "temp_min": 28,
+        "temp_max": 41,
         "weather_ids": [
-          804
+          800
         ],
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 10,
-        "cloud_cover_percent": 100,
+        "wind_speed": 7,
+        "cloud_cover_percent": 4,
         "sunrise_unix": 1794660514,
         "sunset_unix": 1794695685
       },
       {
         "date": "2026-11-15",
-        "temp_min": 32,
-        "temp_max": 43,
+        "temp_min": 29,
+        "temp_max": 44,
         "weather_ids": [
-          804
+          800
         ],
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 3,
-        "cloud_cover_percent": 99,
+        "wind_speed": 4,
+        "cloud_cover_percent": 0,
         "sunrise_unix": 1794746991,
         "sunset_unix": 1794782029
       }

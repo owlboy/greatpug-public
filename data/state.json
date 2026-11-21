@@ -3,14 +3,14 @@
     "version": "https://github.com/owlboy/greatpug-public/releases/tag/2026.11.08"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-21T19:47:08Z",
-    "fetched_at_unix": 1795290428,
+    "fetched_at_utc": "2026-11-21T20:29:08Z",
+    "fetched_at_unix": 1795292948,
     "units": "imperial",
-    "temperature": 67,
+    "temperature": 68,
     "relative_humidity_percent": 59,
-    "pressure_hpa": 1012,
-    "wind_speed": 8,
-    "wind_gusts": 22,
+    "pressure_hpa": 1011,
+    "wind_speed": 6,
+    "wind_gusts": 19,
     "wind_direction_deg": 203,
     "cloud_cover_percent": 25,
     "rain_last_hour_mm": null,
@@ -23,7 +23,7 @@
       {
         "date": "2026-11-21",
         "temp_min": 52,
-        "temp_max": 67,
+        "temp_max": 68,
         "weather_ids": [
           801
         ],
@@ -38,12 +38,12 @@
       {
         "date": "2026-11-22",
         "temp_min": 35,
-        "temp_max": 57,
+        "temp_max": 54,
         "weather_ids": [
           501
         ],
         "precip_chance_percent": 100,
-        "rain_mm": 6,
+        "rain_mm": 11,
         "snow_mm": null,
         "wind_speed": 16,
         "cloud_cover_percent": 100,
@@ -52,8 +52,8 @@
       },
       {
         "date": "2026-11-23",
-        "temp_min": 26,
-        "temp_max": 38,
+        "temp_min": 25,
+        "temp_max": 36,
         "weather_ids": [
           802
         ],
@@ -61,7 +61,7 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 12,
-        "cloud_cover_percent": 30,
+        "cloud_cover_percent": 39,
         "sunrise_unix": 1795438793,
         "sunset_unix": 1795472854
       },
@@ -76,14 +76,14 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 5,
-        "cloud_cover_percent": 99,
+        "cloud_cover_percent": 100,
         "sunrise_unix": 1795525265,
         "sunset_unix": 1795559217
       },
       {
         "date": "2026-11-25",
         "temp_min": 25,
-        "temp_max": 37,
+        "temp_max": 36,
         "weather_ids": [
           804
         ],

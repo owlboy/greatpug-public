@@ -3,12 +3,12 @@
     "version": "https://github.com/owlboy/greatpug-public/releases/tag/2026.11.08"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-23T20:12:33Z",
-    "fetched_at_unix": 1795464753,
+    "fetched_at_utc": "2026-11-23T20:54:33Z",
+    "fetched_at_unix": 1795467273,
     "units": "imperial",
     "temperature": 36,
     "relative_humidity_percent": 63,
-    "pressure_hpa": 1026,
+    "pressure_hpa": 1028,
     "wind_speed": 9,
     "wind_gusts": null,
     "wind_direction_deg": 300,
@@ -22,22 +22,22 @@
     "forecast": [
       {
         "date": "2026-11-23",
-        "temp_min": 25,
+        "temp_min": 23,
         "temp_max": 36,
         "weather_ids": [
-          803
+          802
         ],
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 14,
-        "cloud_cover_percent": 56,
+        "cloud_cover_percent": 49,
         "sunrise_unix": 1795438793,
         "sunset_unix": 1795472854
       },
       {
         "date": "2026-11-24",
-        "temp_min": 22,
+        "temp_min": 20,
         "temp_max": 33,
         "weather_ids": [
           804
@@ -45,7 +45,7 @@
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 5,
+        "wind_speed": 6,
         "cloud_cover_percent": 100,
         "sunrise_unix": 1795525265,
         "sunset_unix": 1795559217
@@ -53,7 +53,7 @@
       {
         "date": "2026-11-25",
         "temp_min": 27,
-        "temp_max": 38,
+        "temp_max": 39,
         "weather_ids": [
           804
         ],
@@ -67,31 +67,31 @@
       },
       {
         "date": "2026-11-26",
-        "temp_min": 33,
-        "temp_max": 42,
+        "temp_min": 32,
+        "temp_max": 41,
         "weather_ids": [
           804
         ],
-        "precip_chance_percent": 24,
+        "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 14,
-        "cloud_cover_percent": 100,
+        "wind_speed": 15,
+        "cloud_cover_percent": 99,
         "sunrise_unix": 1795698208,
         "sunset_unix": 1795731949
       },
       {
         "date": "2026-11-27",
-        "temp_min": 32,
+        "temp_min": 33,
         "temp_max": 44,
         "weather_ids": [
-          803
+          804
         ],
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 11,
-        "cloud_cover_percent": 57,
+        "wind_speed": 12,
+        "cloud_cover_percent": 97,
         "sunrise_unix": 1795784677,
         "sunset_unix": 1795818318
       }

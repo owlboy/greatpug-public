@@ -3,12 +3,12 @@
     "version": "https://github.com/owlboy/greatpug-public/releases/tag/2026.11.08"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-25T08:07:15Z",
-    "fetched_at_unix": 1795594035,
+    "fetched_at_utc": "2026-11-25T08:49:15Z",
+    "fetched_at_unix": 1795596555,
     "units": "imperial",
     "temperature": 25,
-    "relative_humidity_percent": 76,
-    "pressure_hpa": 1034,
+    "relative_humidity_percent": 77,
+    "pressure_hpa": 1035,
     "wind_speed": 5,
     "wind_gusts": null,
     "wind_direction_deg": 350,
@@ -22,8 +22,8 @@
     "forecast": [
       {
         "date": "2026-11-25",
-        "temp_min": 25,
-        "temp_max": 40,
+        "temp_min": 24,
+        "temp_max": 39,
         "weather_ids": [
           804
         ],
@@ -37,7 +37,7 @@
       },
       {
         "date": "2026-11-26",
-        "temp_min": 32,
+        "temp_min": 30,
         "temp_max": 41,
         "weather_ids": [
           804
@@ -60,8 +60,8 @@
         "precip_chance_percent": 0,
         "rain_mm": null,
         "snow_mm": null,
-        "wind_speed": 13,
-        "cloud_cover_percent": 99,
+        "wind_speed": 11,
+        "cloud_cover_percent": 100,
         "sunrise_unix": 1795784677,
         "sunset_unix": 1795818318
       },
@@ -72,23 +72,23 @@
         "weather_ids": [
           500
         ],
-        "precip_chance_percent": 81,
-        "rain_mm": 0,
+        "precip_chance_percent": 100,
+        "rain_mm": 1,
         "snow_mm": null,
         "wind_speed": 8,
-        "cloud_cover_percent": 0,
+        "cloud_cover_percent": 42,
         "sunrise_unix": 1795871146,
         "sunset_unix": 1795904690
       },
       {
         "date": "2026-11-29",
-        "temp_min": 31,
-        "temp_max": 38,
+        "temp_min": 32,
+        "temp_max": 37,
         "weather_ids": [
-          804
+          500
         ],
-        "precip_chance_percent": 0,
-        "rain_mm": null,
+        "precip_chance_percent": 20,
+        "rain_mm": 0,
         "snow_mm": null,
         "wind_speed": 12,
         "cloud_cover_percent": 100,

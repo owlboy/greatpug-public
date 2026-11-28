@@ -3,11 +3,11 @@
     "version": "https://github.com/owlboy/greatpug-public/releases/tag/2026.11.08"
   },
   "weather": {
-    "fetched_at_utc": "2026-11-28T01:13:15Z",
-    "fetched_at_unix": 1795828395,
+    "fetched_at_utc": "2026-11-28T01:55:15Z",
+    "fetched_at_unix": 1795830915,
     "units": "imperial",
-    "temperature": 39,
-    "relative_humidity_percent": 43,
+    "temperature": 38,
+    "relative_humidity_percent": 44,
     "pressure_hpa": 1006,
     "wind_speed": 5,
     "wind_gusts": null,
@@ -37,30 +37,30 @@
       },
       {
         "date": "2026-11-28",
-        "temp_min": 33,
+        "temp_min": 34,
         "temp_max": 50,
-        "weather_ids": [
-          800
-        ],
-        "precip_chance_percent": 0,
-        "rain_mm": null,
-        "snow_mm": null,
-        "wind_speed": 8,
-        "cloud_cover_percent": 0,
-        "sunrise_unix": 1795871146,
-        "sunset_unix": 1795904690
-      },
-      {
-        "date": "2026-11-29",
-        "temp_min": 31,
-        "temp_max": 39,
         "weather_ids": [
           500
         ],
         "precip_chance_percent": 100,
         "rain_mm": 1,
         "snow_mm": null,
-        "wind_speed": 12,
+        "wind_speed": 10,
+        "cloud_cover_percent": 8,
+        "sunrise_unix": 1795871146,
+        "sunset_unix": 1795904690
+      },
+      {
+        "date": "2026-11-29",
+        "temp_min": 32,
+        "temp_max": 39,
+        "weather_ids": [
+          500
+        ],
+        "precip_chance_percent": 100,
+        "rain_mm": 2,
+        "snow_mm": null,
+        "wind_speed": 13,
         "cloud_cover_percent": 100,
         "sunrise_unix": 1795957614,
         "sunset_unix": 1795991063
@@ -76,7 +76,7 @@
         "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 11,
-        "cloud_cover_percent": 76,
+        "cloud_cover_percent": 66,
         "sunrise_unix": 1796044081,
         "sunset_unix": 1796077440
       },
@@ -85,13 +85,13 @@
         "temp_min": 29,
         "temp_max": 40,
         "weather_ids": [
-          500
+          804
         ],
-        "precip_chance_percent": 20,
-        "rain_mm": 0,
+        "precip_chance_percent": 0,
+        "rain_mm": null,
         "snow_mm": null,
         "wind_speed": 8,
-        "cloud_cover_percent": 98,
+        "cloud_cover_percent": 100,
         "sunrise_unix": 1796130547,
         "sunset_unix": 1796163818
       }
